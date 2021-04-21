@@ -1,5 +1,41 @@
 .. _ERPyA: http://erpya.com
 
+.. |Orden de Calidad| image:: resources/certificado.png
+.. |Insumo del Proyecto| image:: resources/insumo.jpeg
+.. |Orden de Producción Planeada| image:: resources/nuevo1.png
+.. |Orden de Manufactura| image:: resources/nuevo1.png
+.. |Producción| image:: resources/produccion.jpg
+.. |Inventario| image:: resources/inventario.png
+.. |Orden de Distribución| image:: resources/certificado.png
+.. |Movimiento de Material| image:: resources/movimientointerno.png
+.. |Orden de Venta| image:: resources/orden.png
+.. |Cuentas por Cobrar| image:: resources/cuentas.png
+.. |Nota de Crédito de Cuentas por Cobrar| image:: resources/nota.png
+.. |Cobros| image:: resources/cobro.jpg
+.. |Ventas| image:: resources/venta.png
+.. |Requisición| image:: resources/requisiciones.jpeg
+.. |Orden de Compra| image:: resources/orden.png
+.. |Cuentas por Pagar| image:: resources/cuentas.png
+.. |Nota de Crédito de Cuentas por Pagar| image:: resources/nota.png
+.. |Comisión de Ventas| image:: resources/comision.png
+.. |Selección de Pago de Cuentas por Pagar| image:: resources/seleccion.jpg
+.. |Pagos| image:: resources/pago.png
+.. |Asignación de Pagos| image:: resources/asignacion.png
+.. |Compras| image:: resources/compra.jpg
+.. |Asignar OC| image:: resources/seleccion.jpg
+.. |Extracto Bancario| image:: resources/extracto.jpeg
+.. |Nómina| image:: resources/nomina.png
+.. |Selección de Pago Nómina| image:: resources/seleccion.jpg
+.. |Orden de Mantenimiento| image:: resources/mantenimiento.jpeg
+.. |Depreciación de Activos| image:: resources/depreciacion.jpeg
+.. |Adición de Activos| image:: resources/adicion.jpeg
+.. |Venta de Activos| image:: resources/activos.jpeg
+.. |Nota de Contabilidad| image:: resources/nota.png
+.. |Calendario1| image:: resources/calendario.png
+.. |Calendario2| image:: resources/calendario2.png
+.. |Calendario3| image:: resources/calendario3.png
+
+
 .. _documento/tipo-documento:
 
 **Tipo de Documento**
@@ -120,3 +156,49 @@ Basado en la Norma Internacional ISO 9000:2015, Sistemas de gestión de la calid
         - la integridad del sistema de gestión de la calidad;
         - la disponibilidad de recursos;
         - la asignación o reasignación de responsabilidades y autoridades.
+
+**Insumo del Proyecto** |Insumo del Proyecto| 
+---------------------------------------------
+
+Es el documento donde se detallan todos los materiales que el departamento de producción vaya a utilizar para elaborar un determinado proyecto, es decir, los materiales fundamentales para logar una producción.
+
+Los insumos varían dependiendo del producto que la empresa vaya a producir y la cantidad total planificada del mismo.
+
+**Tipo de Documento Insumo de Proyecto**
+****************************************
+
+En ADempiere el documento permite ayudar al departamento de producción de la empresa en cuanto al control y la organización necesaria para la producción, el mismo es definido según su comportamiento y especificado a continuación.
+
+**Insumo de Proyecto**
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento necesario para la elaboración de la orden de producción o de manufactura, considerándose la base para la planificación de las mismas, dando inicio al proceso de producción que se realiza en una determinada empresa.
+
+    .. warning:: 
+
+        El documento de insumos del proyecto contiene de manera detallada la cantidad de insumos de calidad con los que cuenta la empresa para iniciar el proceso de producción. 
+
+**Comportamiento**
+
+    En ADempiere el insumo de proyecto se define según su comportamiento, a continuación se explica el proceder del **Insumo de Proyecto**:
+
+    +------------------------+------------------+--------------------------------------------------+
+    |         **Campo**      |     **Valor**    | **Comportamiento en ADempiere**                  |
+    +========================+==================+==================================================+
+    | Tipo de Documento Base:|Insumo de Proyecto|Genera un documento de **Insumo de Proyecto** a   |
+    |                        |                  |una empresa.                                      |
+    +------------------------+------------------+--------------------------------------------------+
+    | Copias del Documento:  |1                 | Establece el número de copias a imprimir.        |
+    +------------------------+------------------+--------------------------------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera la información necesaria sobre los insumos disponibles para un proyecto.
+    - Permite la elaboración de una orden de producción planeada.
+    - Permite la elaboración de una orden de manufactura.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
