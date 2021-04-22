@@ -130,9 +130,9 @@ latex:
 	      "(use \`make latexpdf' here to do that automatically)."
 
 latexpdf:
-	$(SPHINXBUILD) -b latex  $(ALLSPHINXOPTS) $(BUILDDIR)/latex/master
+	$(SPHINXBUILD) -b latex  $(ALLSPHINXOPTS) $(BUILDDIR)/master/latex
 	@echo "Running LaTeX files through pdflatex..."
-	$(MAKE) -C $(BUILDDIR)/latex/master all-pdf 
+	$(MAKE) -C $(BUILDDIR)/master/latex all-pdf 
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
 latexpdfja:
