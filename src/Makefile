@@ -130,9 +130,9 @@ latex:
 	      "(use \`make latexpdf' here to do that automatically)."
 
 latexpdf:
-	$(SPHINXBUILD) -b latex  $(ALLSPHINXOPTS) $(BUILDDIR)/latex/adempiere-ui
+	$(SPHINXBUILD) -b latex  $(ALLSPHINXOPTS) $(BUILDDIR)/adempiere-ui/latex
 	@echo "Running LaTeX files through pdflatex..."
-	$(MAKE) -C $(BUILDDIR)/latex/adempiere-ui all-pdf 
+	$(MAKE) -C $(BUILDDIR)/adempiere-ui/latex all-pdf 
 	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
 
 latexpdfja:

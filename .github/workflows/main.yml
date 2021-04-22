@@ -17,20 +17,20 @@ jobs:
       with:
         pre-build-command: "pip install sphinx_rtd_theme"
         docs-folder: "src/"
-        build-command: "sphinx-build -b html . _build/html/adempiere-ui"
+        build-command: "sphinx-build -b html . _build/adempiere-ui/html"
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentacionHTML
-        path: src/_build/html/
+        path: src/_build/adempiere-ui/html/
     - uses: ammaraskar/sphinx-action@master
       with:
         pre-build-command: "pip install sphinx_rtd_theme"
         docs-folder: "src/"
-        build-command: "sphinx-build -b epub . _build/epub/adempiere-ui"
+        build-command: "sphinx-build -b epub . _build/adempiere-ui/epub"
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentacionEPUB
-        path: src/_build/epub/
+        path: src/_build/adempiere-ui/epub/
     - uses: ammaraskar/sphinx-action@master
       with:
         pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
@@ -39,11 +39,11 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentacionPDF
-        path: src/_build/latex/adempiere-ui/erpya.pdf
+        path: src/_build/adempiere-ui/latex/erpya.pdf
     - name: Commit documentation changes
       run: |
         git clone https://github.com/TaniaLucena/docs.git --branch gh-pages --single-branch gh-pages
-        cp -r src/_build/html/* gh-pages/
+        cp -r src/_build/adempiere-ui/html/* gh-pages/
         cd gh-pages
         touch .nojekyll
         git config --local user.email "action@github.com"
@@ -62,7 +62,7 @@ jobs:
       with:
         args: --acl public-read
       env:
-        SOURCE_DIR: 'src/_build/latex/adempiere-ui'
+        SOURCE_DIR: 'src/_build/adempiere-ui/latex'
         SPACE_NAME: ${{ secrets.SPACE_NAME }}
         SPACE_REGION: ${{ secrets.SPACE_REGION}}
         SPACE_ACCESS_KEY_ID: ${{ secrets.SPACE_ACCESS_KEY_ID }}
