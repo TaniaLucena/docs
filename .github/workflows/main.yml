@@ -4,7 +4,7 @@ name: docs-deploy
 # events but only for the master branch
 on:
   push:
-    branches: [ "adempiere-ui", "adempiere-ui/*" ]
+    branches: [ "adempiere-ui-16-04-2021", "adempiere-ui-16-04-2021/*" ]
   pull_request:
     branches: [ ]
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
@@ -39,10 +39,10 @@ jobs:
     - uses: actions/upload-artifact@v1
       with:
         name: DocumentacionPDF
-        path: src/_build/latex/adempiere-ui/erpya.pdf
+        path: src/_build/latex/adempiere-ui/adempiere-ui.pdf
     - name: Commit documentation changes
       run: |
-        git clone https://github.com/erpcya/docs.git --branch gh-pages --single-branch gh-pages
+        git clone https://github.com/TaniaLucena/docs.git --branch gh-pages --single-branch gh-pages
         cp -r src/_build/html/* gh-pages/
         cd gh-pages
         touch .nojekyll
