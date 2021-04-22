@@ -1,19 +1,11 @@
 .. |Buscar| image:: resources/look-for.png
-.. |Calculadora| image:: resources/calculator.png
 .. |Reiniciar Cache| image:: resources/reset-cache.png
-.. |Reiniciar Contraseña| image:: resources/reset-password.png
-.. |Flujo de Trabajo Activo| image:: resources/active-workflows.png
-.. |icono flujo de trabajo activo| image:: resources/active-workflow-icon.png
-.. |ubicar registro a anular| image:: resources/locate-record-to-be-canceled.png
-.. |opción manejador de procesos| image:: resources/process-handler-option.png
-.. |ventana manejador de procesos| image:: resources/process-manager-window.png
-.. |check anular proceso| image:: resources/check-abort-process.png
-.. |opción ok| image:: resources/ok-option-to-cancel-active-workflow.png
-.. |flujo de trabajo terminado| image:: resources/finished-workflow.png
-.. |opción manejador de actividades| image:: resources/activity-manager-option.png
-.. |ventana manejador de actividades| image:: resources/activity-manager-window.png
-.. |check anular proceso de actividades| image:: resources/check-cancel-activity-process.png
-.. |opción ok de actividades| image:: resources/ok-option-of-activities.png
+.. |reinicio exitoso del cache| image:: resources/successful-cache-reset.png
+.. |ejecutar reinicio de cache| image:: resources/run-cache-reset.png
+.. |registro para consultar bitácora| image:: resources/register-to-consult-the-blog.png
+.. |icono i de la ventana| image:: resources/window-i-icon.png
+.. |opción actividad del icono i| image:: resources/icon-activity-option-i.png
+.. |nota y opción ok| image:: resources/note-and-option-ok.png
 
 .. _documento/utilería-de-adempiere:
 
@@ -22,110 +14,79 @@
 
 En ADempiere la utilería no es más que un conjunto de instrumentos o herramientas que tienen algún tipo de utilidad, es decir, que sirven para un fin en específico, a continuación se definen cada uno de ellos.
 
-**Buscar:** Le permitirá realizar una búsqueda de un documento en específico.
+**Buscardor**
+-------------
+
+Le permitirá realizar una búsqueda de un documento en específico.
 
     |Buscar|
 
     Imagen 1. Buscar
 
-**Calculadora:** En ADempiere contamos con una herramienta básica que le permitirá realizar una operación matemática dentro de un campo.
+**Reinicia Cache**
+------------------
 
-    |Calculadora|
-
-    Imagen 2. Calculadora
-
-**Reinicia Cache:** Permitirá cerrar todas las ventanas,	para reiniciar cache ingrese reinicia caché en el buscador rápido del menú explicado anteriormente y reinicie.
+Permitirá cerrar todas las ventanas. Para reiniciar cache ingrese reinicia caché en el buscador rápido explicado anteriormente y reinicie.
 
     |Reiniciar Cache|
 
-    Imagen 3. Reiniciar Cache
+    Imagen 2. Reiniciar Cache
 
-**Reinicia Contraseña:** Permitirá cambiar la contraseña del usuario, para reiniciar contraseña ingrese reinicia contraseña en el buscador rápido del menú explicado anteriormente y reinicie.
+    #. Podrá visualizar la ventana "**Reinicia Cache**", donde debe posicionarse sobre la opción "**Acciones**", y seleccionar la opción "**Ejecutar**".
 
-    |Reiniciar Contraseña|
+        |ejecutar reinicio de cache|
 
-    Imagen 4. Reiniciar Contraseña
+        Imagen 3. Ejecutar Reinicia Cache
 
-**Flujo de Trabajo Activo:** Cuando se genera el siguiente mensaje como consecuencia de un flujo de trabajo activo en ADempiere.
+    #. Al culminar el proceso de reinicio de cache, podrá visualizar el siguiente mensaje de confirmación
 
-    |Flujo de Trabajo Activo|
+        |reinicio exitoso del cache|
 
-    Imagen 5. Flujo de Trabajo Activo
+        Imagen 4. Reinicio Exitoso del Cache
 
-    Es necesario anular dicho flujo de trabajo. Para ello se debe realizar el siguiente procedimiento.
+**Manejo de Notas**
+-------------------
 
-    Seleccione el icono "**Flujos de Trabajos Activos**", ubicado en la barra de herramientas de la ventana en la cual fue presentado el mensaje de flujo de trabajo activo.
+Permite agregar notas a los registros de las ventanas. Para acceder a la opción de notas de un registro, debe realizar el siguiente procedimiento.
 
-        |icono flujo de trabajo activo|
+    #. Ubique el registro al que requiere agregar la nota.
 
-        Imagen 6. Icono Flujo de Trabajo Activo
+        |registro para consultar bitácora|
 
-        .. note::
+        Imagen 5. Registro para Agregar Nota
 
-            En ADempiere, el flujo de trabajo activo es aquel que en el campo "**Estado de Flujo de Trabajo**", de la ventana "**Proceso de Flujo de Trabajo**", se encuentra la opción "**Corriendo**".
+    #. Seleccione el icono "**i**", ubicado en la parte derecha de la ventana en la que se encuentra.
 
-    Podrá visualizar la ventana "**Proceso de Flujo de Trabajo**", con el registro del flujo de trabajo activo.
+        |icono i de la ventana|
 
-        |ubicar registro a anular|
+        Imagen 6. Icono i
 
-        Imagen 7. Flujo de Trabajo a anular
+    #. Podrá visualizar la opción "**Notas**", donde puede ingresar la nota que requiere y luego seleccionar la opción "**OK**".
 
-    Luego de haber ubicado el flujo de trabajo activo, debe seleccionar la opción "**Manejador de Procesos**".
+        |nota y opción ok|
 
-        |opción manejador de procesos|
+        Imagen 7. Ingresar Nota y Opción OK
 
-        Imagen 8. Opción Manejador de Procesos
+**Bitácora de Cambios**
+-----------------------
 
-    Podrá visualizar la ventana "**Manejador de Procesos**", que se utiliza para actualizar o detener el proceso de flujo de trabajo.
+Guarda todos los cambios realizados en los registros de las ventanas, indicando el socio del negocio que realizó el cambio, el campo que fue modificado con su valor anterior y su valor actual, la fecha y la hora exacta en la que el mismo fue realizado. Para acceder a la bitácora de cambios de un registro, debe realizar el siguiente procedimiento.
 
-        |ventana manejador de procesos|
+    #. Ubique el registro al que requiere consultarle la bitácora.
 
-        Imagen 9. Ventana Manejador de Procesos
+        |registro para consultar bitácora|
 
-    Seleccione el check "**Anular Proceso**", para anular el flujo de trabajo.
+        Imagen 8. Registro para Consultar Bitácora
 
-        |check anular proceso|
+    #. Seleccione el icono "**i**", ubicado en la parte derecha de la ventana en la que se encuentra.
 
-        Imagen 10. Check Anular Proceso
+        |icono i de la ventana|
 
-    Finalmente, seleccione la opción "**OK**", para ejecutar la acción requerida de acuerdo a lo indicado en la ventana "**Manejador de Procesos**".
+        Imagen 9. Icono i
 
-        |opción ok|
+    #. Seleccione la opción "**Actividad**", para visualizar los cambios realizados en el registro ubicado previamente.
 
-        Imagen 11. Opción OK
+        |opción actividad del icono i|
 
-En el caso de que continue el mismo mensaje de flujo de trabajo activo, ubique nuevamente el registro de flujo de trabajo, con la ayuda del icono "**Flujos de Trabajos Activos**", desde la ventana en la cual fue presentado dicho mensaje. Posteriormente podrá visualizar la ventana "**Proceso de Flujo de Trabajo**", con el registro del flujo de trabajo activo.
+        Imagen 10. Opción Actividad
 
-    |ubicar registro a anular|
-
-    Imagen 12. Flujo de Trabajo a anular
-
-    Seleccione la pestaña "**Actividad**", para visualizar el registro que se encuentra en estado "**Terminado**".
-
-        |flujo de trabajo terminado|
-
-        Imagen 13. Flujo de Trabajo 
-
-    Luego seleccione la opción "**Manejador de Actividades**".
-
-        |opción manejador de actividades|
-
-        Imagen 14. Opción Manejador de Actividades
-
-    Podrá visualizar la ventana "**Manejador de Actividades**", que se utiliza para actualizar o detener la actividad del flujo de trabajo.
-
-        |ventana manejador de actividades|
-
-        Imagen 15. Ventana Manejador de Actividades
-
-    Seleccione el check "**Anular Proceso**", para anular el flujo de trabajo.
-
-        |check anular proceso de actividades|
-
-        Imagen 16. Check Anular Proceso
-
-    Finalmente, seleccione la opción "**OK**", para ejecutar la acción requerida de acuerdo a lo indicado en la ventana "**Manejador de Actividades**".
-
-        |opción ok de actividades|
-
-        Imagen 16. Opción OK
