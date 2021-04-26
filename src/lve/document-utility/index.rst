@@ -12,3 +12,4 @@ Esta documentación está destinada a definir la utilidad de cada uno de los doc
     product-group
     product-category
     group-of-business-partners
+    types-of-documents
