@@ -2884,12 +2884,12 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
 
 **Implicación en ADempiere**
 
-    -  Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
-    -  Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
-    -  Aumenta el monto total a cancelar de una factura aplicada a clientes dentro de Venezuela.
-    -  Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
-    -  Permite su contabilización en moneda nacional vigente.
-    -  Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
+    - Aumenta el monto total a cancelar de una factura aplicada a clientes dentro de Venezuela.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
 
 **Implicación Fiscal**
     
@@ -3023,12 +3023,12 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
 
 **Implicación en ADempiere**
 
-    -  Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
-    -  Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
-    -  Aumenta el monto total a cancelar de una factura aplicada a clientes fuera de Venezuela.
-    -  Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
-    -  Permite su contabilización en moneda extranjera, convertida a moneda nacional vigente.
-    -  Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
+    - Aumenta el monto total a cancelar de una factura aplicada a clientes fuera de Venezuela.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+    - Permite su contabilización en moneda extranjera, convertida a moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
 
 **Implicación Fiscal**
     
@@ -3162,12 +3162,12 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
 
 **Implicación en ADempiere**
 
-    -  Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
-    -  Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
-    -  Aumenta el monto total a cancelar de una factura aplicada a otra empresa perteneciente a un mismo consorcio.
-    -  Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
-    -  Permite su contabilización en moneda nacional vigente.
-    -  Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
+    - Aumenta el monto total a cancelar de una factura aplicada a otra empresa perteneciente a un mismo consorcio.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
 
 **Implicación Fiscal**
 
@@ -3301,12 +3301,12 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
 
 **Implicación en ADempiere**
 
-    -  Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
-    -  Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
-    -  Aumenta el monto total a cancelar de una factura aplicada a un empleado de la empresa.
-    -  Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
-    -  Permite su contabilización en moneda nacional vigente.
-    -  Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
+    - Aumenta el monto total a cancelar de una factura aplicada a un empleado de la empresa.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
 
 **Implicación Fiscal**
     
@@ -3440,12 +3440,12 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
 
 **Implicación en ADempiere**
 
-    -  Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
-    -  Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
-    -  Aumenta el monto total a cancelar de una factura aplicada a clientes que adquieren compromiso de compra con entrega indirecta.
-    -  Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
-    -  Permite su contabilización en moneda nacional vigente.
-    -  Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de débito fiscal.
+    - Aumenta el monto total a cancelar de una factura aplicada a clientes que adquieren compromiso de compra con entrega indirecta.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
 
 **Implicación Fiscal**
     
@@ -3465,5 +3465,9740 @@ De igual manera que la factura, existen diferentes tipos de notas de débito de 
         #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
 
         Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
-        
+
+**Tipos de Documentos Retenciones Cuentas por Cobrar**
+******************************************************
+
+Las retenciones siempre son realizadas por el cliente, ya sea en cuentas por cobrar o cuentas por pagar, las declaraciones de retenciones son realizadas tanto por el cliente como por el proveedor.
+
+Se entiende por retenciones en cuentas por cobrar, la retención de un porcentaje (%) del monto que el cliente le va cancelar a la empresa como proveedor, y por declaraciones se entiende la presentación ante el "**SENIAT**" de las diferentes retenciones que le fueron aplicadas a la empresa como proveedor. En ADempiere son utilizadas cuatro (4) retenciones en cuentas por cobrar, a continuación se define el comportamiento de este tipo de documento.
+
+**Retención de IVA 75% de Cuentas por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del setenta y cinco (75) por ciento (%) del IVA que posee una factura emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+        **Comportamiento**
+
+    En ADempiere una retención de IVA de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de IVA 75% de Cuentas por Cobrar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Retiene el           |
+    | Base:                | CxC                  | porcentaje de IVA    |
+    |                      |                      | establecido por un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia del número   |
+    | Documento en         |                      | de documento en el   |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una factura de acuerdo a lo establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+    
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado.
+
+    Según el la ley de el Artículo 3 de la Ley del Impuesto al Valor Agregado (IVA), constituyen hechos imponibles a los fines de esta ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+    #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+    #. La importación definitiva de bienes muebles.
+    #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+    #. La venta de exportación de bienes muebles corporales.
+    #. La exportación de servicios
+
+**Retención de IVA 100% de Cuentas por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del cien (100) por ciento (%) del IVA que posee una factura emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de IVA de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de IVA 100% de Cuentas por Cobrar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Retiene el           |
+    | Base:                | CxC                  | porcentaje de IVA    |
+    |                      |                      | establecido por un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una factura de acuerdo a lo establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+    
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado.
+
+    Según el la ley de el Artículo 3 de la Ley del Impuesto al Valor Agregado (IVA), constituyen hechos imponibles a los fines de esta ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+    #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+    #. La importación definitiva de bienes muebles.
+    #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+    #. La venta de exportación de bienes muebles corporales.
+    #. La exportación de servicios
+
+**Retención de ISLR de Cuentas por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del ISLR que posee una factura emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de ISLR de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de ISLR de Cuentas por Cobrar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxC                  | de ISLR establecido  |
+    |                      |                      | por un socio de      |
+    |                      |                      | negocio tipo         |
+    |                      |                      | cliente.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de ISLR aplicado a una factura de acuerdo a lo establecido en la ley de impuesto sobre la renta.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 38.628 de fecha 16 de febrero de 2007 donde se establece la ley de impuesto sobre la renta, estipulando los siguientes artículos:
+
+    - **Artículo 1:** 
+
+        Los enriquecimientos anuales, netos y disponibles obtenidos en dinero o en especie, causarán impuestos según las normas establecidas en esta ley.
+
+        Salvo disposición en contrario de la presente ley, toda persona natural o jurídica, residente o domiciliada en la República Bolivariana de Venezuela, pagará impuestos sobre sus rentas de cualquier origen, sea que la causa o la fuente de ingresos esté situada dentro del país o fuera de él. Las personas naturales o jurídicas no residentes o no domiciliadas en la República Bolivariana de Venezuela estarán sujetas al impuesto establecido en esta Ley siempre que la fuente o la causa de sus enriquecimientos esté u ocurra dentro del país, aun cuando no tengan establecimiento permanente o base fija en la República Bolivariana de Venezuela. 
+
+        Las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, tributarán exclusivamente por los ingresos de fuente nacional o extranjera atribuibles a dicho establecimiento permanente o base fija.
+
+    - **Artículo 2:** 
+
+        Toda persona natural o jurídica, residente o domiciliada en La República Bolivariana de Venezuela, así como las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, podrán acreditar contra el impuesto que conforme a esta Ley les corresponda pagar, el impuesto sobre la renta que hayan pagado en el extranjero por los enriquecimientos de fuente extraterritorial por los cuales estén obligados al pago de impuesto en los términos de esta Ley.
+
+        A los efectos de la acreditación prevista en este artículo, se considera impuesto sobre la renta al que grava la totalidad de la renta o los elementos de renta, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, y los impuestos sobre los sueldos y salarios, así como los impuestos sobre las plusvalías. En caso de duda, la Administración Tributaria deberá determinar la naturaleza del impuesto acreditable.
+
+        El monto del impuesto acreditable, proveniente de fuentes extranjeras a que se refiere este artículo, no podrá exceder a la cantidad que resulte de aplicar las tarifas establecidas en el Título III de esta Ley al total del enriquecimiento neto global del ejercicio de que se trate, en la proporción que el enriquecimiento neto de fuente extranjera represente del total de dicho enriquecimiento neto global.
+
+        En el caso de los enriquecimientos gravados con impuestos proporcionales en los términos establecidos en esta Ley, el monto del impuesto acreditable, no podrá exceder del impuesto sobre la renta que hubiese correspondido pagar en La República Bolivariana de Venezuela por estos enriquecimientos.
+
+        A los fines de la determinación del monto de impuesto efectivamente pagado en el extranjero acreditable en los términos establecidos en este artículo, deberá aplicarse el tipo de cambio vigente para el momento en que se produzca el pago del impuesto en el extranjero, calculado conforme a lo previsto en la Ley del Banco Central de Venezuela.
+
+    - **Artículo 4:** 
+
+        Son enriquecimientos netos los incrementos de patrimonio que resulten después de restar de los ingresos brutos, los costos y deducciones permitidos en esta Ley, sin perjuicio respecto del enriquecimiento neto de fuente territorial, del ajuste por inflación previsto en esta Ley. 
+
+        A los fines de la determinación del enriquecimiento neto de fuente extranjera se aplicarán las normas de la presente Ley, determinantes de los ingresos, costos y deducciones de los enriquecimientos de fuente territorial.
+
+        La determinación de la base imponible para el cálculo del impuesto será el resultado de sumar el enriquecimiento neto de fuente territorial al enriquecimiento neto de fuente extraterritorial. No se admitirá la imputación de pérdidas de fuente extraterritorial al enriquecimiento o pérdida de fuente territorial.
+
+    - **Artículo 5:** 
+
+        Los enriquecimientos provenientes de la cesión del uso o goce de bienes, muebles o inmuebles, incluidos los derivados de regalías y demás participaciones análogas y los dividendos, los producidos por el trabajo bajo relación de dependencia o por el libre ejercicio de profesiones no mercantiles, la enajenación de bienes inmuebles y las ganancias fortuitas, se considerarán disponibles en el momento en que son pagados. Los enriquecimientos que no estén comprendidos en la enumeración anterior, se considerarán disponibles desde que se realicen las operaciones que los producen, salvo en las cesiones de crédito y operaciones de descuento, cuyo producto sea recuperable en varias anualidades, casos en los cuales se considerará disponible para el cesionario el beneficio que proporcionalmente corresponda.
+
+        En todos los casos a los que se refiere este artículo, los abonos en cuenta se considerarán como pagos, salvo prueba en contrario.
+
+    - **Artículo 7:** Están sometidos al régimen impositivo previsto en esta Ley:
+
+        #. Las personas naturales. 
+        #. Las compañías anónimas y las sociedades de responsabilidad limitada.
+        #. Las sociedades en nombre colectivo, en comandita simple, las comunidades, así como cualesquiera otras sociedades de personas, incluidas las irregulares o de hecho.
+        #. Los titulares de enriquecimientos provenientes de actividades de hidrocarburos y conexas, tales como la refinación y el transporte, sus regalistas y quienes obtengan enriquecimientos derivados de la exportación de minerales, de hidrocarburos o de sus derivados.
+        #. Las asociaciones, fundaciones, corporaciones y demás entidades jurídicas o económicas no citadas en los literales anteriores.
+        #. Los establecimientos permanentes, centros o bases fijas situados en el territorio nacional.
+
+    - **Artículo 13:** 
+
+        Las empresas propiedad de la Nación, de los Estados o de los Municipios, estarán sujetas a los impuestos y normas establecidas en esta ley, cualquiera que sea la forma jurídica de su constitución, aunque las Leyes especiales referentes a tales empresas dispongan lo contrario. 
+
+**Retención Municipal de Cuentas por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención municipal que posee una factura emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención municipal de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención Municipal de CxC**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxC                  | municipal            |
+    |                      |                      | establecida por un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención municipal aplicado a una factura de acuerdo a lo establecido en la ley de retencion municipal correspondiente a cada municipio.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+
+    Este dependerá del municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. 
+
+**Retención de IVA 75% para Nota de Crédito de CxC**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del setenta y cinco (75) por ciento (%) del IVA que posee una nota de crédito emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de IVA para nota de crédito de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de IVA 75% para Nota de Crédito de CxC**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxC | Retiene a una nota de   |
+    |                         |                | crédito el porcentaje   |
+    |                         |                | de IVA establecido por  |
+    |                         |                | un socio de negocio     |
+    |                         |                | tipo cliente.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Transacción de Ventas:  | Si             | Discrimina los tipos de |
+    |                         |                | documentos de ventas.   |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Secuencia  | Si             | Establece una           |
+    | al Completar:           |                | **Secuencia Temporal**  |
+    |                         |                | para los documentos en  |
+    |                         |                | estado borrador y a su  |
+    |                         |                | vez una **Secuencia     |
+    |                         |                | Definitiva** para los   |
+    |                         |                | documentos en estado    |
+    |                         |                | completo.               |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Fecha al   | Si             | Sobrescribe la fecha    |
+    | Completar:              |                | introducida por la      |
+    |                         |                | fecha en la que se      |
+    |                         |                | completa el documento.  |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia del número de   |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una nota de crédito de acuerdo a lo establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto de la nota de crédito de cuentas por cobrar.
+
+**Implicación Fiscal**
+
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado.
+
+    Según el la ley de el Artículo 3 de la Ley del Impuesto al Valor Agregado (IVA), constituyen hechos imponibles a los fines de esta ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+        #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+        #. La importación definitiva de bienes muebles.
+        #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+        #. La venta de exportación de bienes muebles corporales.
+        #. La exportación de servicios
+
+**Retención de IVA 100% para Nota de Crédito de CxC**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del cien (100) por ciento (%) del IVA que posee una nota de crédito emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de IVA para nota de crédito de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de IVA 100% para Nota de Crédito de CxC**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxC | Retiene a una nota de   |
+    |                         |                | crédito el porcentaje   |
+    |                         |                | de IVA establecido por  |
+    |                         |                | un socio de negocio     |
+    |                         |                | tipo cliente.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Transacción de Ventas:  | Si             | Discrimina los tipos de |
+    |                         |                | documentos de ventas.   |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Secuencia  | Si             | Establece una           |
+    | al Completar:           |                | **Secuencia Temporal**  |
+    |                         |                | para los documentos en  |
+    |                         |                | estado borrador y a su  |
+    |                         |                | vez una **Secuencia     |
+    |                         |                | Definitiva** para los   |
+    |                         |                | documentos en estado    |
+    |                         |                | completo.               |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Fecha al   | Si             | Sobrescribe la fecha    |
+    | Completar:              |                | introducida por la      |
+    |                         |                | fecha en la que se      |
+    |                         |                | completa el documento.  |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia del número de   |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una nota de crédito de acuerdo a lo establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto de la nota de crédito de cuentas por cobrar.
+
+**Implicación Fiscal**
+    
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado.
+
+    Según el la ley de el Artículo 3 de la Ley del Impuesto al Valor Agregado (IVA), constituyen hechos imponibles a los fines de esta ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+        #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+        #. La importación definitiva de bienes muebles.
+        #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+        #. La venta de exportación de bienes muebles corporales.
+        #. La exportación de servicios
+
+**Retención de ISLR para Nota de Crédito de CxC**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del ISLR que posee una nota de crédito emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de ISLR para nota de crédito de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención de ISLR para Nota de Crédito de CxC**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxC | Retiene a una nota de   |
+    |                         |                | crédito el porcentaje   |
+    |                         |                | de ISLR establecido por |
+    |                         |                | un socio de negocio     |
+    |                         |                | tipo cliente.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Transacción de Ventas:  | Si             | Discrimina los tipos de |
+    |                         |                | documentos de ventas.   |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Secuencia  | Si             | Establece una           |
+    | al Completar:           |                | **Secuencia Temporal**  |
+    |                         |                | para los documentos en  |
+    |                         |                | estado borrador y a su  |
+    |                         |                | vez una **Secuencia     |
+    |                         |                | Definitiva** para los   |
+    |                         |                | documentos en estado    |
+    |                         |                | completo.               |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Fecha al   | Si             | Sobrescribe la fecha    |
+    | Completar:              |                | introducida por la      |
+    |                         |                | fecha en la que se      |
+    |                         |                | completa el documento.  |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de ISLR aplicado a una nota de crédito de acuerdo a lo establecido en la ley de impuesto sobre la renta.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 38.628 de fecha 16 de febrero de 2007 donde se establece la ley de impuesto sobre la renta, estipulando los siguientes artículos:
+
+    - **Artículo 1:** 
+
+        Los enriquecimientos anuales, netos y disponibles obtenidos en dinero o en especie, causarán impuestos según las normas establecidas en esta ley.
+
+        Salvo disposición en contrario de la presente ley, toda persona natural o jurídica, residente o domiciliada en la República Bolivariana de Venezuela, pagará impuestos sobre sus rentas de cualquier origen, sea que la causa o la fuente de ingresos esté situada dentro del país o fuera de él. Las personas naturales o jurídicas no residentes o no domiciliadas en la República Bolivariana de Venezuela estarán sujetas al impuesto establecido en esta Ley siempre que la fuente o la causa de sus enriquecimientos esté u ocurra dentro del país, aun cuando no tengan establecimiento permanente o base fija en la República Bolivariana de Venezuela. 
+
+        Las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, tributarán exclusivamente por los ingresos de fuente nacional o extranjera atribuibles a dicho establecimiento permanente o base fija.
+
+    - **Artículo 2:** 
+
+        Toda persona natural o jurídica, residente o domiciliada en La República Bolivariana de Venezuela, así como las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, podrán acreditar contra el impuesto que conforme a esta Ley les corresponda pagar, el impuesto sobre la renta que hayan pagado en el extranjero por los enriquecimientos de fuente extraterritorial por los cuales estén obligados al pago de impuesto en los términos de esta Ley.
+
+        A los efectos de la acreditación prevista en este artículo, se considera impuesto sobre la renta al que grava la totalidad de la renta o los elementos de renta, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, y los impuestos sobre los sueldos y salarios, así como los impuestos sobre las plusvalías. En caso de duda, la Administración Tributaria deberá determinar la naturaleza del impuesto acreditable.
+
+        El monto del impuesto acreditable, proveniente de fuentes extranjeras a que se refiere este artículo, no podrá exceder a la cantidad que resulte de aplicar las tarifas establecidas en el Título III de esta Ley al total del enriquecimiento neto global del ejercicio de que se trate, en la proporción que el enriquecimiento neto de fuente extranjera represente del total de dicho enriquecimiento neto global.
+
+        En el caso de los enriquecimientos gravados con impuestos proporcionales en los términos establecidos en esta Ley, el monto del impuesto acreditable, no podrá exceder del impuesto sobre la renta que hubiese correspondido pagar en La República Bolivariana de Venezuela por estos enriquecimientos.
+
+        A los fines de la determinación del monto de impuesto efectivamente pagado en el extranjero acreditable en los términos establecidos en este artículo, deberá aplicarse el tipo de cambio vigente para el momento en que se produzca el pago del impuesto en el extranjero, calculado conforme a lo previsto en la Ley del Banco Central de Venezuela.
+
+    - **Artículo 4:** 
+
+        Son enriquecimientos netos los incrementos de patrimonio que resulten después de restar de los ingresos brutos, los costos y deducciones permitidos en esta Ley, sin perjuicio respecto del enriquecimiento neto de fuente territorial, del ajuste por inflación previsto en esta Ley. 
+
+        A los fines de la determinación del enriquecimiento neto de fuente extranjera se aplicarán las normas de la presente Ley, determinantes de los ingresos, costos y deducciones de los enriquecimientos de fuente territorial.
+
+        La determinación de la base imponible para el cálculo del impuesto será el resultado de sumar el enriquecimiento neto de fuente territorial al enriquecimiento neto de fuente extraterritorial. No se admitirá la imputación de pérdidas de fuente extraterritorial al enriquecimiento o pérdida de fuente territorial.
+
+    - **Artículo 5:** 
+
+        Los enriquecimientos provenientes de la cesión del uso o goce de bienes, muebles o inmuebles, incluidos los derivados de regalías y demás participaciones análogas y los dividendos, los producidos por el trabajo bajo relación de dependencia o por el libre ejercicio de profesiones no mercantiles, la enajenación de bienes inmuebles y las ganancias fortuitas, se considerarán disponibles en el momento en que son pagados. Los enriquecimientos que no estén comprendidos en la enumeración anterior, se considerarán disponibles desde que se realicen las operaciones que los producen, salvo en las cesiones de crédito y operaciones de descuento, cuyo producto sea recuperable en varias anualidades, casos en los cuales se considerará disponible para el cesionario el beneficio que proporcionalmente corresponda.
+
+        En todos los casos a los que se refiere este artículo, los abonos en cuenta se considerarán como pagos, salvo prueba en contrario.
+
+    - **Artículo 7:** Están sometidos al régimen impositivo previsto en esta Ley:
+
+        #. Las personas naturales. 
+        #. Las compañías anónimas y las sociedades de responsabilidad limitada.
+        #. Las sociedades en nombre colectivo, en comandita simple, las comunidades, así como cualesquiera otras sociedades de personas, incluidas las irregulares o de hecho.
+        #. Los titulares de enriquecimientos provenientes de actividades de hidrocarburos y conexas, tales como la refinación y el transporte, sus regalistas y quienes obtengan enriquecimientos derivados de la exportación de minerales, de hidrocarburos o de sus derivados.
+        #. Las asociaciones, fundaciones, corporaciones y demás entidades jurídicas o económicas no citadas en los literales anteriores.
+        #. Los establecimientos permanentes, centros o bases fijas situados en el territorio nacional.
+
+    - **Artículo 13:** 
+
+        Las empresas propiedad de la Nación, de los Estados o de los Municipios, estarán sujetas a los impuestos y normas establecidas en esta ley, cualquiera que sea la forma jurídica de su constitución, aunque las Leyes especiales referentes a tales empresas dispongan lo contrario. 
+
+**Retención Municipal para Nota de Crédito de CxC**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención municipal que posee una nota de crédito emitida al cliente, para ello se deben tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso de retenciones ya que esta es la prueba ante el "**SENIAT**" de que se está cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención municipal para nota de crédito de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de una **Retención Municipal para Nota de Crédito de CxC**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxC | Retiene a una nota de   |
+    |                         |                | crédito el porcentaje   |
+    |                         |                | municipal establecido   |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo cliente.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Transacción de Ventas:  | Si             | Discrimina los tipos de |
+    |                         |                | documentos de ventas.   |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Secuencia  | Si             | Establece una           |
+    | al Completar:           |                | **Secuencia Temporal**  |
+    |                         |                | para los documentos en  |
+    |                         |                | estado borrador y a su  |
+    |                         |                | vez una **Secuencia     |
+    |                         |                | Definitiva** para los   |
+    |                         |                | documentos en estado    |
+    |                         |                | completo.               |
+    +-------------------------+----------------+-------------------------+
+    | Sobrescribir Fecha al   | Si             | Sobrescribe la fecha    |
+    | Completar:              |                | introducida por la      |
+    |                         |                | fecha en la que se      |
+    |                         |                | completa el documento.  |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención municipal aplicado a una nota de crédito de acuerdo a lo establecido en la ley de retencion municipal correspondiente a cada municipio.
+    - Aparece reflejado de manera ordenada en la gestión de retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Disminuye el monto a pagar de la factura de cuentas por cobrar.
+
+**Implicación Fiscal**
+
+    Este dependerá del municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. 
+
+**Tipo de Documento Pago Devuelto de Cuentas por Cobrar**
+*********************************************************
+
+Un pago devuelto por un banco puede tener diferentes motivos, entre ellos se encuentra la inconsistencia de la firma registrada en el banco con la plasmada en el cheque. También sucede muy seguido que el saldo disponible en la cuenta no sea suficiente para cancelar el cheque.
+
+Cuando de transferencias se trata, suele pasar que el banco regresa la transferencia, causando con esto problemas con el proceso de la empresa u organización.
+
+**Pago Devuelto de Cuentas por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar un pago devuelto por medio del documento **Pago/Cobro**, el mismo genera una devolución de dinero.
+
+.. warning:: 
+
+    En ADempiere este documento genera un ajuste de débito por comisión de pago devuelto. Adicional a ello habilita nuevamente la cuenta por cobrar cancelada inicialmente.
+
+**Comportamiento**
+
+    En ADempiere un pago devuelto de cuentas por cobrar se define según su comportamiento, a continuación se explica el proceder de un **Pago Devuelto**:
+
+    +-----------------------+-------------------+-----------------------+
+    | **Campo**             | **Valor**         | **Comportamiento en   |
+    |                       |                   | ADempiere**           |
+    +=======================+===================+=======================+
+    | Tipo de Documento     | Factura de CxC    | Habilita nuevamente   |
+    | Base:                 |                   | el saldo deudor a un  |
+    |                       |                   | socio de negocio tipo |
+    |                       |                   | cliente.              |
+    +-----------------------+-------------------+-----------------------+
+    | Documento Controlado: | Si                | Mantiene una          |
+    |                       |                   | **Secuencia de        |
+    |                       |                   | Control**.            |
+    +-----------------------+-------------------+-----------------------+
+    | Transacción de        | Si                | Discrimina los tipos  |
+    | Ventas:               |                   | de documentos de      |
+    |                       |                   | ventas.               |
+    +-----------------------+-------------------+-----------------------+
+    | Sobrescribir          | Si                | Establece una         |
+    | Secuencia al          |                   | **Secuencia           |
+    | Completar:            |                   | Temporal** para los   |
+    |                       |                   | documentos en estado  |
+    |                       |                   | borrador y a su vez   |
+    |                       |                   | una **Secuencia       |
+    |                       |                   | Definitiva** para los |
+    |                       |                   | documentos en estado  |
+    |                       |                   | completo.             |
+    +-----------------------+-------------------+-----------------------+
+    | Secuencia Definitiva: | Pago Devuelto CxC | Genera un número de   |
+    |                       |                   | documento establecido |
+    |                       |                   | para los documentos   |
+    |                       |                   | en estado completo.   |
+    +-----------------------+-------------------+-----------------------+
+    | Sobrescribir Fecha al | Si                | Sobrescribe la fecha  |
+    | Completar:            |                   | introducida por la    |
+    |                       |                   | fecha en la que se    |
+    |                       |                   | completa el           |
+    |                       |                   | documento.            |
+    +-----------------------+-------------------+-----------------------+
+    | Copiar Número de      | Si                | **Copia el número de  |
+    | Documento en Reverso: |                   | documento en el       |
+    |                       |                   | reverso** en lugar de |
+    |                       |                   | generar un nuevo      |
+    |                       |                   | número agregándole el |
+    |                       |                   | símbolo **^** al      |
+    |                       |                   | final del número de   |
+    |                       |                   | documento, además el  |
+    |                       |                   | monto del documento   |
+    |                       |                   | pasa a **negativo**.  |
+    +-----------------------+-------------------+-----------------------+
+    | Copias del Documento: | 1                 | Establece el número   |
+    |                       |                   | de copias a imprimir. |
+    +-----------------------+-------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un ajuste de débito en las cuentas por cobrar.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Afecta los montos de los documentos factura y pago, habilitandole nuevamente la cuenta por cobrar al socio de negocio tipo cliente.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Nota de Crédito de Cuentas por Cobrar** |Nota de Crédito de Cuentas por Cobrar|
+---------------------------------------------------------------------------------
+
+Es un documento que se aplica a una factura, con la finalidad de reflejar un descuento, un cobro de un gasto incurrido de más, o alguna devolución de productos que el socio de negocio tipo cliente haya comprado.
+
+**Tipos de Documentos Nota de Crédito de Cuentas por Cobrar**
+*************************************************************
+
+En ADempiere se utilizan cinco (5) diferentes notas de créditos, pertenecientes a las cuentas por cobrar y son definidas por su comportamiento.
+
+A continuación se definen las notas de crédito de cuentas por cobrar según su comportamiento.
+
+**Nota de Crédito de Cuentas por Cobrar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a la factura de cuentas por cobrar nacional, realizada al socio del negocio tipo cliente que se encuentra ubicado dentro del territorio de Venezuela.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por cobrar nacional se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxC Nacional:**
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una **Nota de |
+    | Base:                | CxC                  | Crédito de CxC       |
+    |                      |                      | Nacional** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Facturas CxC         | Genera el número de  |
+    | Documento:           | Temporal             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**TPM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Secuencia            | Notas de Créditos de | Genera un número de  |
+    | Definitiva:          | CxC Nacional         | documento            |
+    |                      |                      | establecido para los |
+    |                      |                      | documentos en estado |
+    |                      |                      | completo.            |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**  |
+    |                      |                      | y se destilda el     |
+    |                      |                      | checklist            |
+    |                      |                      | **Documento          |
+    |                      |                      | Fiscal**.            |
+    +----------------------+----------------------+----------------------+
+    | Secuencia Nro de     | Control Fiscal de    | Genera el número de  |
+    | Control:             | Facturas CxC         | control fiscal       |
+    |                      |                      | establecido.         |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Débito CxC           |
+    |                      |                      | Nacional** como un   |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura aplicada a clientes dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Nota de Crédito de Cuentas por Cobrar Exportación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a la factura de cuentas por cobrar exportación, realizada al socio del negocio tipo cliente que se encuentra ubicado fuera del territorio de Venezuela.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por cobrar exportación se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxC Exportación:**
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una **Nota de |
+    | Base:                | CxC                  | Crédito de CxC       |
+    |                      |                      | Exportación** a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Facturas CxC         | Genera el número de  |
+    | Documento:           | Temporal             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**TPM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Secuencia            | Notas de Créditos de | Genera un número de  |
+    | Definitiva:          | CxC Exportaciones    | documento            |
+    |                      |                      | establecido para los |
+    |                      |                      | documentos en estado |
+    |                      |                      | completo.            |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**  |
+    |                      |                      | y se destilda el     |
+    |                      |                      | checklist            |
+    |                      |                      | **Documento          |
+    |                      |                      | Fiscal**.            |
+    +----------------------+----------------------+----------------------+
+    | Secuencia Nro de     | Control Fiscal de    | Genera el número de  |
+    | Control:             | Facturas CxC         | control fiscal       |
+    |                      |                      | establecido.         |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Débito CxC           |
+    |                      |                      | Exportación** como   |
+    |                      |                      | un documento fiscal. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura aplicada a clientes fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera, convertida a moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Cobrar Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a la factura de cuentas por cobrar intercompañía, realizada a otra empresa también registrada en ADempiere.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por cobrar intercompañía se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxC Intercompañía:**
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una **Nota de |
+    | Base:                | CxC                  | Crédito de CxC       |
+    |                      |                      | Intercompañía** a un |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Facturas CxC         | Genera el número de  |
+    | Documento:           | Temporal             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**TPM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Secuencia            | Notas de Créditos de | Genera un número de  |
+    | Definitiva:          | CxC Intercompañía    | documento            |
+    |                      |                      | establecido para los |
+    |                      |                      | documentos en estado |
+    |                      |                      | completo.            |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**  |
+    |                      |                      | y se destilda el     |
+    |                      |                      | checklist            |
+    |                      |                      | **Documento          |
+    |                      |                      | Fiscal**.            |
+    +----------------------+----------------------+----------------------+
+    | Secuencia Nro de     | Control Fiscal de    | Genera el número de  |
+    | Control:             | Facturas CxC         | control fiscal       |
+    |                      |                      | establecido.         |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Débito CxC           |
+    |                      |                      | Intercompañía** como |
+    |                      |                      | un documento fiscal. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura aplicada a empresas pertenecientes a un mismo consorcio.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Cobrar Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a la factura de cuentas por cobrar empleado, realizada por la empresa a sus trabajadores por una determinada venta.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por cobrar empleado se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxC Empleado:**
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una **Nota de |
+    | Base:                | CxC                  | Crédito de CxC       |
+    |                      |                      | Empleado** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Facturas CxC         | Genera el número de  |
+    | Documento:           | Temporal             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**TPM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Secuencia            | Notas de Créditos de | Genera un número de  |
+    | Definitiva:          | CxC Empleados        | documento            |
+    |                      |                      | establecido para los |
+    |                      |                      | documentos en estado |
+    |                      |                      | completo.            |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**  |
+    |                      |                      | y se destilda el     |
+    |                      |                      | checklist            |
+    |                      |                      | **Documento          |
+    |                      |                      | Fiscal**.            |
+    +----------------------+----------------------+----------------------+
+    | Secuencia Nro de     | Control Fiscal de    | Genera el número de  |
+    | Control:             | Facturas CxC         | control fiscal       |
+    |                      |                      | establecido.         |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Débito CxC           |
+    |                      |                      | Empleado** como un   |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura aplicada a empleados de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Cobrar Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a una factura emitida por la empresa a un socio de negocio tipo cliente cuando este adquiere un compromiso de compra con entrega indirecta.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por cobrar indirecta se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxC Indirecta:**
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una **Nota de |
+    | Base:                | CxC                  | Crédito de CxC       |
+    |                      |                      | Indirecta** a un     |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir         | Si                   | Establece una        |
+    | Secuencia al         |                      | **Secuencia          |
+    | Completar:           |                      | Temporal** para los  |
+    |                      |                      | documentos en estado |
+    |                      |                      | borrador y a su vez  |
+    |                      |                      | una **Secuencia      |
+    |                      |                      | Definitiva** para    |
+    |                      |                      | los documentos en    |
+    |                      |                      | estado completo.     |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Facturas CxC         | Genera el número de  |
+    | Documento:           | Temporal             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**TPM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Secuencia            | Notas de Créditos de | Genera un número de  |
+    | Definitiva:          | CxC Indirecta        | documento            |
+    |                      |                      | establecido para los |
+    |                      |                      | documentos en estado |
+    |                      |                      | completo.            |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**  |
+    |                      |                      | y se destilda el     |
+    |                      |                      | checklist            |
+    |                      |                      | **Documento          |
+    |                      |                      | Fiscal**.            |
+    +----------------------+----------------------+----------------------+
+    | Secuencia Nro de     | Control Fiscal de    | Genera el número de  |
+    | Control:             | Facturas CxC         | control fiscal       |
+    |                      |                      | establecido.         |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Débito CxC           |
+    |                      |                      | Indirecta** como un  |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura aplicada a clientes que adquieren compromiso de compra con entrega indirecta.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Cobros** |Cobros|
+-------------------
+
+Son todos aquellos ingresos monetarios por las ventas de productos o prestación de servicios. Se realiza el cobro de todas las cuentas por cobrar que posee una determinada empresa según el periodo que la misma tenga establecida como regla del negocio, es decir, el cobro puede ser aplicado semanal, quincenal, mensual, entre otros.
+
+**Tipos de Documentos Cobro de Cuentas por Cobrar**
+***************************************************
+
+En ADempiere es el documento donde se refleja el ingreso monetario de la empresa por motivo de préstamos realizados a socios de negocios o por compras realizadas por dichos socios, actualmente se utilizan cinco (5) diferentes documentos de cobros para controlar contablemente los ingresos.
+
+A continuación se definen los diferentes documentos de cobro según su comportamiento.
+
+**Cobro de Cuentas por Cobrar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este tipo de documento se refiere a las cuentas por cobrar que la empresa posee con los diferentes socios de negocio a nivel nacional.
+
+.. warning:: 
+
+    Se deben reflejar los cobros de la cuentas por cobrar a nivel nacional, que no tengan nada que ver con reembolsos, viáticos o gastos directos de la empresa.
+
+**Comportamiento**
+
+    En ADempiere un cobro de cuentas por cobrar nacional se define según su comportamiento, a continuación se explica el proceder de un **Cobro de CxC Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Cobros de CxC        | Crea un documento de |
+    | Base:                |                      | cobro a un socio de  |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Cobros CxC           | Genera el número de  |
+    | Documento:           | Nacionales           | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**CCxCN-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el ingreso monetario a la empresa por la venta de los productos y servicios dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Cobro de Cuentas por Cobrar Internacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este tipo de documento se refiere a las cuentas por cobrar que la empresa posee con los diferentes socios de negocio que se encuentran fuera del territorio de Venezuela.
+
+.. warning:: 
+
+    Se deben reflejar solamente los cobros de las cuentas por cobrar a clientes ubicados fuera de Venezuela.
+
+**Comportamiento**
+
+    En ADempiere un cobro de cuentas por cobrar internacional se define según su comportamiento, a continuación se explica el proceder de un **Cobro de CxC Internacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Cobros de CxC        | Crea un documento de |
+    | Base:                |                      | cobro a un socio de  |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Cobros CxC           | Genera el número de  |
+    | Documento:           | Internacionales      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**CCxCI-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el ingreso monetario a la empresa por la venta de los productos y servicios fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere. 
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Cobro de Cuentas por Cobrar Gasto Directo**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este tipo de documento se refiere a las cuentas por cobrar que la empresa posee como gastos directos. Entendiendo como gasto directo lo utilizado para realizar los productos o servicios.
+
+.. warning:: 
+
+    Se deben reflejar solamente los cobros referentes a los gastos directos de la empresa.
+
+**Comportamiento**
+
+    En ADempiere un cobro de cuentas por cobrar gasto directo se define según su comportamiento, a continuación se explica el proceder de un **Cobro de CxC Gasto Directo**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Cobros de CxC        | Crea un documento de |
+    | Base:                |                      | cobro a un socio de  |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Cobros CxC Gastos    | Genera el número de  |
+    | Documento:           | Directos             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**CCxCG-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el ingreso monetario a la empresa por gastos directos que esta obtuvo.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Cobro de Cuentas por Cobrar Reembolso**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este tipo de documento se refiere a las cuentas por cobrar que la empresa posee como reembolso. Entendiendo como reembolso el reintegro monetario pagado anteriormente.
+
+.. warning:: 
+
+    Se deben reflejar solamente los cobros referentes a reembolsos de la empresa.
+
+**Comportamiento**
+
+    En ADempiere un cobro de cuentas por cobrar reembolso se define según su comportamiento, a continuación se explica el proceder de un **Cobro de CxC Reembolso**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Cobros de CxC        | Crea un documento de |
+    | Base:                |                      | cobro a un socio de  |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Cobros CxC Reembolso | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**CCxCR-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el ingreso monetario a la empresa por reembolso a la misma.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Cobro de Cuentas por Cobrar Viáticos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este tipo de documento se refiere a las cuentas por cobrar que la empresa posee como viáticos. Entiendo como viático una cantidad de dinero que se le facilita a una persona para cubrir los gastos de un viaje determinado.
+
+    .. warning:: 
+
+        Se deben reflejar solamente los cobros referentes a viáticos de la empresa.
+
+**Comportamiento**
+
+    En ADempiere un cobro de cuentas por cobrar viáticos se define según su comportamiento, a continuación se explica el proceder de un **Cobro de CxC Viáticos**:
+
+    +----------------------+---------------------+----------------------+
+    | **Campo**            | **Valor**           | **Comportamiento en  |
+    |                      |                     | ADempiere**          |
+    +======================+=====================+======================+
+    | Tipo de Documento    | Cobros de CxC       | Crea un documento de |
+    | Base:                |                     | cobro a un socio de  |
+    |                      |                     | negocio determinado. |
+    +----------------------+---------------------+----------------------+
+    | Documento            | Si                  | Mantiene una         |
+    | Controlado:          |                     | **Secuencia de       |
+    |                      |                     | Control**.           |
+    +----------------------+---------------------+----------------------+
+    | Transacción de       | Si                  | Discrimina los tipos |
+    | Ventas:              |                     | de documentos de     |
+    |                      |                     | ventas.              |
+    +----------------------+---------------------+----------------------+
+    | Secuencia del        | Cobros CxC Viáticos | Genera el número de  |
+    | Documento:           |                     | secuencia            |
+    |                      |                     | establecido para el  |
+    |                      |                     | orden de los tipos   |
+    |                      |                     | de documentos de     |
+    |                      |                     | ADempiere,           |
+    |                      |                     | configurado en la    |
+    |                      |                     | secuencia de         |
+    |                      |                     | documentos y es      |
+    |                      |                     | incrementable en 1,  |
+    |                      |                     | en este caso la      |
+    |                      |                     | secuencia comienza   |
+    |                      |                     | en 1.000.000 y su    |
+    |                      |                     | prefijo esta         |
+    |                      |                     | compuesto por las    |
+    |                      |                     | iniciales de su      |
+    |                      |                     | nombre "**CCxCV-**". |
+    +----------------------+---------------------+----------------------+
+    | Copias del           | 1                   | Establece el número  |
+    | Documento:           |                     | de copias a          |
+    |                      |                     | imprimir.            |
+    +----------------------+---------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el ingreso monetario a la empresa por viaticos correspondientes a la misma.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Ventas** |Ventas|
+===================
+
+Son todos los egresos de productos y servicos de la empresa, donde se adquiere un ingreso monetario como pago de ellos. En una empresa pueden existir dos tipos de ventas que serían la venta de contado donde se cancela inmediatamente y la venta a crédito donde se cancela después, mayormente cuando se realiza una venta a crédito se generan intereses por el tiempo de tardanza del pago.
+
+**Tipos de Documentos Entrega de Ventas**
+-----------------------------------------
+
+Los documentos de entregas en ADempiere controlan el proceso de egreso de los productos del almacén y la entrega a los clientes. Existen cinco (5) diferentes entregas y cada una define un comportamiento que a continuación se describe.
+
+**Entrega Nacional**
+~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las entregas de los productos o servicios vendidos a clientes ubicados dentro del territorio de Venezuela, estos serán entregados solo a nivel nacional.
+
+.. warning:: 
+
+    En ADempiere los documentos de entrega controlan el egreso de productos del almacén y los servicios prestados por la empresa.
+
+**Comportamiento**
+
+    En ADempiere la entrega nacional se define según su comportamiento, a continuación se explica el proceder de **Entrega Nacional**:
+
+    +----------------------+---------------------+----------------------+
+    | **Campo**            | **Valor**           | **Comportamiento en  |
+    |                      |                     | ADempiere**          |
+    +======================+=====================+======================+
+    | Tipo de Documento    | Entrega de Producto | Genera una **Entrega |
+    | Base:                |                     | Nacional** a un      |
+    |                      |                     | socio de negocio     |
+    |                      |                     | tipo cliente.        |
+    +----------------------+---------------------+----------------------+
+    | Documento            | Si                  | Mantiene una         |
+    | Controlado:          |                     | **Secuencia de       |
+    |                      |                     | Control**.           |
+    +----------------------+---------------------+----------------------+
+    | Transacción de       | Si                  | Discrimina los tipos |
+    | Ventas:              |                     | de documentos de     |
+    |                      |                     | ventas.              |
+    +----------------------+---------------------+----------------------+
+    | Secuencia del        | Entrega Nacional    | Genera el número de  |
+    | Documento:           |                     | secuencia            |
+    |                      |                     | establecido para el  |
+    |                      |                     | orden de los tipos   |
+    |                      |                     | de documentos de     |
+    |                      |                     | ADempiere,           |
+    |                      |                     | configurado en la    |
+    |                      |                     | secuencia de         |
+    |                      |                     | documentos y es      |
+    |                      |                     | incrementable en 1,  |
+    |                      |                     | en este caso la      |
+    |                      |                     | secuencia comienza   |
+    |                      |                     | en 1.000.000 y su    |
+    |                      |                     | prefijo esta         |
+    |                      |                     | compuesto por las    |
+    |                      |                     | iniciales de su      |
+    |                      |                     | nombre "**EN-**".    |
+    +----------------------+---------------------+----------------------+
+    | Sobrescribir Fecha   | Si                  | Sobrescribe la fecha |
+    | al Completar:        |                     | introducida por la   |
+    |                      |                     | fecha en la que se   |
+    |                      |                     | completa el          |
+    |                      |                     | documento.           |
+    +----------------------+---------------------+----------------------+
+    | Copiar Número de     | Si                  | **Copia del número   |
+    | Documento en         |                     | de documento en el   |
+    | Reverso:             |                     | reverso** en lugar   |
+    |                      |                     | de generar un nuevo  |
+    |                      |                     | número agregándole   |
+    |                      |                     | el símbolo **^** al  |
+    |                      |                     | final del número de  |
+    |                      |                     | documento, además el |
+    |                      |                     | monto del documento  |
+    |                      |                     | pasa a **negativo**. |
+    +----------------------+---------------------+----------------------+
+    | Copias del           | 1                   | Establece el número  |
+    | Documento:           |                     | de copias a          |
+    |                      |                     | imprimir.            |
+    +----------------------+---------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrega de los productos y servicios a los clientes dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Entrega Exportación**
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las entregas de los productos o servicios vendidos a clientes ubicados en el exterior de Venezuela, estos serán entregados fuera del territorio de Venezuela.
+
+.. warning:: 
+
+    En ADempiere los documentos de entrega controlan el egreso de productos del almacén y los servicios prestados por la empresa.
+
+**Comportamiento**
+
+    En ADempiere la entrega exportación se define según su comportamiento, a continuación se explica el proceder de **Entrega Exportación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera una **Entrega |
+    | Base:                |                      | Exportación** a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Entrega              | Genera el número de  |
+    | Documento:           | Exportaciones        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**EEX-**".   |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia del número   |
+    | Documento en         |                      | de documento en el   |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrega de los productos y servicios a los clientes fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Entrega Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a los productos o servicios vendidos entre empresas pertenecientes al mismo consorcio, la entrega de estos será directa de empresa a empresa.
+
+.. warning:: 
+
+    En ADempiere los documentos de entrega controlan el egreso de productos del almacén y los servicios prestados por la empresa.
+
+**Comportamiento**
+
+    En ADempiere la entrega intercompañía se define según su comportamiento, a continuación se explica el proceder de **Entrega Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera una **Entrega |
+    | Base:                |                      | Intercompañía** a un |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Entrega              | Genera el número de  |
+    | Documento:           | Intercompañía        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**EIC-**".   |
+    +----------------------+----------------------+----------------------+
+    | Sobrescribir Fecha   | Si                   | Sobrescribe la fecha |
+    | al Completar:        |                      | introducida por la   |
+    |                      |                      | fecha en la que se   |
+    |                      |                      | completa el          |
+    |                      |                      | documento.           |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia del número   |
+    | Documento en         |                      | de documento en el   |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrega de los productos y servicios a empresas pertenecientes a un mismo consorcio.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Entrega Empleado**
+~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a los productos o servicios que la empresa vende a sus trabajadores, la entrega de estos serán dentro de la empresa.
+
+.. warning:: 
+
+    En ADempiere los documentos de entrega controlan el egreso de productos del almacén y los servicios prestados por la empresa.
+
+**Comportamiento**
+
+    En ADempiere la entrega empleado se define según su comportamiento, a continuación se explica el proceder de **Entrega Empleado**:
+
+    +----------------------+---------------------+----------------------+
+    | **Campo**            | **Valor**           | **Comportamiento en  |
+    |                      |                     | ADempiere**          |
+    +======================+=====================+======================+
+    | Tipo de Documento    | Entrega de Producto | Genera una **Entrega |
+    | Base:                |                     | Empleado** a un      |
+    |                      |                     | socio de negocio     |
+    |                      |                     | tipo cliente.        |
+    +----------------------+---------------------+----------------------+
+    | Documento            | Si                  | Mantiene una         |
+    | Controlado:          |                     | **Secuencia de       |
+    |                      |                     | Control**.           |
+    +----------------------+---------------------+----------------------+
+    | Transacción de       | Si                  | Discrimina los tipos |
+    | Ventas:              |                     | de documentos de     |
+    |                      |                     | ventas.              |
+    +----------------------+---------------------+----------------------+
+    | Secuencia del        | Entrega Empleados   | Genera el número de  |
+    | Documento:           |                     | secuencia            |
+    |                      |                     | establecido para el  |
+    |                      |                     | orden de los tipos   |
+    |                      |                     | de documentos de     |
+    |                      |                     | ADempiere,           |
+    |                      |                     | configurado en la    |
+    |                      |                     | secuencia de         |
+    |                      |                     | documentos y es      |
+    |                      |                     | incrementable en 1,  |
+    |                      |                     | en este caso la      |
+    |                      |                     | secuencia comienza   |
+    |                      |                     | en 1.000.000 y su    |
+    |                      |                     | prefijo esta         |
+    |                      |                     | compuesto por las    |
+    |                      |                     | iniciales de su      |
+    |                      |                     | nombre "**EE-**".    |
+    +----------------------+---------------------+----------------------+
+    | Sobrescribir Fecha   | Si                  | Sobrescribe la fecha |
+    | al Completar:        |                     | introducida por la   |
+    |                      |                     | fecha en la que se   |
+    |                      |                     | completa el          |
+    |                      |                     | documento.           |
+    +----------------------+---------------------+----------------------+
+    | Copiar Número de     | Si                  | **Copia del número   |
+    | Documento en         |                     | de documento en el   |
+    | Reverso:             |                     | reverso** en lugar   |
+    |                      |                     | de generar un nuevo  |
+    |                      |                     | número agregándole   |
+    |                      |                     | el símbolo **^** al  |
+    |                      |                     | final del número de  |
+    |                      |                     | documento, además el |
+    |                      |                     | monto del documento  |
+    |                      |                     | pasa a **negativo**. |
+    +----------------------+---------------------+----------------------+
+    | Copias del           | 1                   | Establece el número  |
+    | Documento:           |                     | de copias a          |
+    |                      |                     | imprimir.            |
+    +----------------------+---------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrega de los productos y servicios a empleados de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Entrega Indirecta**
+~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las ventas de productos o servicios que la empresa le hace a clientes, pero estos reciben los productos del proveedor.
+
+.. warning:: 
+
+    En ADempiere los documentos de entrega controlan el egreso de productos del almacén y los servicios prestados por la empresa.
+
+**Comportamiento**
+
+    En ADempiere la entrega indirecta se define según su comportamiento, a continuación se explica el proceder de **Entrega Indirecta**:
+
+    +----------------------+---------------------+----------------------+
+    | **Campo**            | **Valor**           | **Comportamiento en  |
+    |                      |                     | ADempiere**          |
+    +======================+=====================+======================+
+    | Tipo de Documento    | Entrega de Producto | Genera una **Entrega |
+    | Base:                |                     | Indirecta** a un     |
+    |                      |                     | socio de negocio     |
+    |                      |                     | tipo cliente.        |
+    +----------------------+---------------------+----------------------+
+    | Documento            | Si                  | Mantiene una         |
+    | Controlado:          |                     | **Secuencia de       |
+    |                      |                     | Control**.           |
+    +----------------------+---------------------+----------------------+
+    | Transacción de       | Si                  | Discrimina los tipos |
+    | Ventas:              |                     | de documentos de     |
+    |                      |                     | ventas.              |
+    +----------------------+---------------------+----------------------+
+    | Secuencia del        | Entrega Indirecta   | Genera el número de  |
+    | Documento:           |                     | secuencia            |
+    |                      |                     | establecido para el  |
+    |                      |                     | orden de los tipos   |
+    |                      |                     | de documentos de     |
+    |                      |                     | ADempiere,           |
+    |                      |                     | configurado en la    |
+    |                      |                     | secuencia de         |
+    |                      |                     | documentos y es      |
+    |                      |                     | incrementable en 1,  |
+    |                      |                     | en este caso la      |
+    |                      |                     | secuencia comienza   |
+    |                      |                     | en 1.000.000 y su    |
+    |                      |                     | prefijo esta         |
+    |                      |                     | compuesto por las    |
+    |                      |                     | iniciales de su      |
+    |                      |                     | nombre "**EID-**".   |
+    +----------------------+---------------------+----------------------+
+    | Sobrescribir Fecha   | Si                  | Sobrescribe la fecha |
+    | al Completar:        |                     | introducida por la   |
+    |                      |                     | fecha en la que se   |
+    |                      |                     | completa el          |
+    |                      |                     | documento.           |
+    +----------------------+---------------------+----------------------+
+    | Copiar Número de     | Si                  | **Copia del número   |
+    | Documento en         |                     | de documento en el   |
+    | Reverso:             |                     | reverso** en lugar   |
+    |                      |                     | de generar un nuevo  |
+    |                      |                     | número agregándole   |
+    |                      |                     | el símbolo **^** al  |
+    |                      |                     | final del número de  |
+    |                      |                     | documento, además el |
+    |                      |                     | monto del documento  |
+    |                      |                     | pasa a **negativo**. |
+    +----------------------+---------------------+----------------------+
+    | Copias del           | 1                   | Establece el número  |
+    | Documento:           |                     | de copias a          |
+    |                      |                     | imprimir.            |
+    +----------------------+---------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrega de los productos y servicios a los clientes que adquieren compromiso de compra con entrega indirecta.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Tipos de Documentos Devolución de Ventas**
+********************************************
+
+Los documentos de devoluciones en ADempiere controlan el ingreso de los productos a almacén por devolución de los clientes. Existen cinco (5) diferentes devoluciones y cada una define un comportamiento que a continuación se describe.
+
+**Devolución de Cliente Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de productos o servicios realizadas por los clientes ubicados a nivel nacional. Este proceso es realizado cuando el cliente no esta conforme con lo recibido.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el ingreso de productos al almacén por devolución de clientes.
+
+**Comportamiento**
+
+    En ADempiere la devolución de cliente nacional se define según su comportamiento, a continuación se explica el proceder de **Devolución de Cliente Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera una           |
+    | Base:                | Productos            | **Devolución de      |
+    |                      |                      | Cliente Nacional** a |
+    |                      |                      | un socio de negocio  |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Clientes  | Genera el número de  |
+    | Documento:           | Nacional             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DCN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios de los clientes dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución de Cliente Exportación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de productos o servicios realizadas por los clientes ubicados fuera de Venezuela. Este proceso es realizado cuando el cliente no esta conforme con lo recibido.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el ingreso de productos al almacén por devolución de clientes.
+
+**Comportamiento**
+
+    En ADempiere la devolución de cliente exportación se define según su comportamiento, a continuación se explica el proceder de **Devolución de Cliente Exportación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera una           |
+    | Base:                | Productos            | **Devolución de      |
+    |                      |                      | Cliente              |
+    |                      |                      | Exportación** a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Clientes  | Genera el número de  |
+    | Documento:           | Exportación          | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DCEX-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios de los clientes fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución de Cliente Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando una empresa perteneciente al mismo consorcio, devuelve los productos o servicios que le fueron entregados anteriormente o parte de ellos.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el ingreso de productos al almacén por devolución de clientes.
+
+**Comportamiento**
+
+    En ADempiere la devolución de cliente intercompañía se define según su comportamiento, a continuación se explica el proceder de **Devolución de Cliente Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera una           |
+    | Base:                | Productos            | **Devolución de      |
+    |                      |                      | Cliente              |
+    |                      |                      | Intercompañía** a un |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Clientes  | Genera el número de  |
+    | Documento:           | Intercompañía        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DCIN-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios de las empresas pertenecientes al mismo consorcio.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución de Cliente Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de productos o servicios realizadas por los socios de negocios tipo empleados de la empresa. Este proceso es realizado cuando el cliente no esta conforme con lo recibido.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el ingreso de productos al almacén por devolución de clientes.
+
+**Comportamiento**
+
+    En ADempiere la devolución de cliente empleado se define según su comportamiento, a continuación se explica el proceder de **Devolución de Cliente Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera una           |
+    | Base:                | Productos            | **Devolución de      |
+    |                      |                      | Cliente Empleado** a |
+    |                      |                      | un socio de negocio  |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Clientes  | Genera el número de  |
+    | Documento:           | Empleado             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DCE-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios de los empleados de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución de Cliente Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a la devolución que el cliente realiza de productos o servicios ya adquiridos por el mismo de forma indirecta o con entrega indirecta.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el ingreso de productos al almacén por devolución de clientes.
+
+**Comportamiento**
+
+    En ADempiere la devolución de cliente indirecta se define según su comportamiento, a continuación se explica el proceder de **Devolución de Cliente Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera una           |
+    | Base:                | Productos            | **Devolución de      |
+    |                      |                      | Cliente Indirecta**  |
+    |                      |                      | a un socio de        |
+    |                      |                      | negocio tipo         |
+    |                      |                      | cliente.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Transacción de       | Si                   | Discrimina los tipos |
+    | Ventas:              |                      | de documentos de     |
+    |                      |                      | ventas.              |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Clientes  | Genera el número de  |
+    | Documento:           | Indirecta            | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DCI-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios de los clientes que adquieren compromiso de compra con entrega indirecta.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Requisición** |Requisición|
+-----------------------------
+
+Una requisición es un documento de solicitud realizado por los departamentos de una empresa determinada, dirigida al departamento de compra de la misma. En ella se especifican los productos y servicios que dicho departamento necesita, así como la cantidad de los mismos.
+
+**Tipos de Documentos Requisición**
+***********************************
+
+En ADempiere es posible solicitar los productos y servicios que el departamento necesita por medio del documento de requisición, este se define según su comportamiento y se describe a continuación.
+
+**Requisición de Compra Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    El documento de requisición de compra nacional es donde se solicita al departamento de compra los productos o servicios existentes dentro del territorio de Venezuela. Es un proceso que se realiza por gestión de compras, cada departamento debe realizar su requisición detallando en cada uno de los campos la información solicitada en el documento.
+
+.. warning:: 
+
+    Si el estado del documento no esta en "Completo", no es válido para ADempiere, por lo tanto al momento de realizar la orden de compra no se reflejará.
+
+**Comportamiento**
+
+    En ADempiere la requisición de compra nacional se define según su comportamiento, a continuación se explica el proceder de **Requisición de Compra Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Requisición de       | Genera un documento  |
+    | Base:                | Compra               | de **Requisición de  |
+    |                      |                      | Compra Nacional** al |
+    |                      |                      | departamento.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Requisición de       | Genera el número de  |
+    | Documento:           | Compra Nacional      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RCN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera una solicitud de productos y servicios nacionales al departamento de compras de la empresa.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Requisición de Compra Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    El documento de requisición de compra importación es donde se solicita al departamento de compra los productos o servicios existentes fuera del territorio de Venezuela. Es un proceso que se realiza por gestión de compras, cada departamento debe realizar su requisición detallando en cada uno de los campos la información solicitada en el documento.
+
+.. warning:: 
+
+    Si el estado del documento no esta en "Completo", no es válido para ADempiere, por lo tanto al momento de realizar la orden de compra no se reflejará.
+
+**Comportamiento**
+
+    En ADempiere la requisición de compra importación se define según su comportamiento, a continuación se explica el proceder de **Requisición de Compra Importación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Requisición de       | Genera un documento  |
+    | Base:                | Compra               | de **Requisición de  |
+    |                      |                      | Compra Importación** |
+    |                      |                      | al departamento.     |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Requisición de       | Genera el número de  |
+    | Documento:           | Compra Importación   | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.001 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RCI-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera una solicitud de productos y servicios extranjeros al departamento de compras de la empresa.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Compra** |Orden de Compra|
+-------------------------------------
+
+Es un documento elaborado por el departamento de compra de la empresa, dirigido a un proveedor determinado con el fin de solicitar los productos y servicios necesarios en los diferentes departamentos de la misma.
+
+En ADempiere se utilizan dos (2) grupos de tipos de documentos de órdenes de compra, cada uno de ellos se define según su comportamiento en el mismo.
+
+**Tipos de Documentos Orden de Compra**
+***************************************
+
+Una orden de compra en ADempiere se puede realizar de forma directa teniendo los datos de los productos que se desean solicitar al proveedor, de igual manera, se puede realizar desde una requisición elaborada por el departamento que necesite dichos productos o servicios.
+
+**Orden de Compra Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Una orden de compra nacional es realizada a los socios de negocios tipo proveedor que se encuentren dentro del territorio de Venezuela, donde se ingresan los productos o servicios referentes a la compra y es emitida en moneda nacional.
+
+.. warning:: 
+
+    Es un documento en el que se especifican los productos o servicios que los diferentes departamentos de la empresa necesitan para realizar su proceso dentro de la misma.
+
+**Comportamiento**
+
+    En ADempiere la orden de compra nacional se define según su comportamiento, a continuación se explica el proceder de la **Orden de Compra Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Orden de Compra |
+    |                      |                      | Nacional** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Sub tipo OV:         | Orden Estándar       | Aplica el            |
+    |                      |                      | comportamiento de    |
+    |                      |                      | una orden estándar   |
+    |                      |                      | dentro del sistema,  |
+    |                      |                      | en este caso genera  |
+    |                      |                      | reserva.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de Compra      | Genera el número de  |
+    | Documento:           | Nacional             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OCN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite su creación a partir de una requisición de compra nacional previamente realizada.
+    - Permite generar entregas de los productos comprados dentro de Venezuela por medio de esta.
+    - Permite generar facturas de los productos comprados dentro de Venezuela por medio de esta.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Compra Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Una orden de compra importación es realizada a los socios de negocios tipo proveedor que se encuentren fuera del territorio de Venezuela, donde se ingresan los productos o servicios referentes a la compra y es emitida en moneda extranjera.
+
+.. warning:: 
+
+    Es un documento en el que se especifican los productos o servicios que los diferentes departamentos de la empresa necesitan para realizar su proceso dentro de la misma.
+
+**Comportamiento**
+
+    En ADempiere la orden de compra importación se define según su comportamiento, a continuación se explica el proceder de la **Orden de Compra Importación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Orden de Compra |
+    |                      |                      | Importación** a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Sub tipo OV:         | Orden Estándar       | Aplica el            |
+    |                      |                      | comportamiento de    |
+    |                      |                      | una orden estándar   |
+    |                      |                      | dentro del sistema,  |
+    |                      |                      | en este caso genera  |
+    |                      |                      | reserva.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de Compra      | Genera el número de  |
+    | Documento:           | Importaciones        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OCI-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite su creación a partir de una requisición de compra importación previamente realizada.
+    - Permite generar entregas de los productos comprados fuera de Venezuela por medio de esta.
+    - Permite generar facturas de los productos comprados fuera de Venezuela por medio de esta.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Compra Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Una orden de compra intercompañía es realizada por la empresa cuando el socio del negocio tipo proveedor es otra empresa perteneciente al mismo consorcio, en el documento se ingresan los productos o servicios referentes a la compra y es emitida en moneda nacional.
+
+.. warning:: 
+
+    Es un documento en el que se especifican los productos o servicios que los diferentes departamentos de la empresa necesitan para realizar su proceso dentro de la misma.
+
+**Comportamiento**
+
+    En ADempiere la orden de compra intercompañía se define según su comportamiento, a continuación se explica el proceder de la **Orden de Compra Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Orden de Compra |
+    |                      |                      | Intercompañía** a un |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Sub tipo OV:         | Orden Estándar       | Aplica el            |
+    |                      |                      | comportamiento de    |
+    |                      |                      | una orden estándar   |
+    |                      |                      | dentro del sistema,  |
+    |                      |                      | en este caso genera  |
+    |                      |                      | reserva.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de Compra      | Genera el número de  |
+    | Documento:           | Intercompañía        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OCIC-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite generar entregas de productos y servicios comprados a otras empresas pertenecientes al mismo consorcio, por medio de esta.
+    - Permite generar facturas de productos y servicios comprados a otras empresas pertenecientes al mismo consorcio, por medio de esta.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Compra Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Una orden de compra empleado es realizada por la empresa a los socios de negocios tipo empleado que posee la misma, donde se ingresan los productos o servicios referentes a la compra y es emitida en moneda nacional.
+
+.. warning:: 
+
+    Es un documento en el que se especifican los productos o servicios que los diferentes departamentos de la empresa necesitan para realizar su proceso dentro de la misma.
+
+**Comportamiento**
+
+    En ADempiere la orden de compra empleado se define según su comportamiento, a continuación se explica el proceder de la **Orden de Compra Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Orden de Compra |
+    |                      |                      | Empleado** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Sub tipo OV:         | Orden Estándar       | Aplica el            |
+    |                      |                      | comportamiento de    |
+    |                      |                      | una orden estándar   |
+    |                      |                      | dentro del sistema,  |
+    |                      |                      | en este caso genera  |
+    |                      |                      | reserva.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de Compra      | Genera el número de  |
+    | Documento:           | Empleados            | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OCE-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite generar entregas de productos y servicios comprados a empleados de la empresa, por medio de esta.
+    - Permite generar facturas de productos y servicios comprados a empleados de la empresa, por medio de esta.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Compra Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Una orden de compra indirecta es realizada por la empresa cuando la misma adquiere un compromiso de compra con entrega indirecta, donde se ingresan los productos o servicios referentes a la compra y es emitida en moneda nacional.
+
+.. warning:: 
+
+    Es un documento en el que se especifican los productos o servicios que los diferentes departamentos de la empresa necesitan para realizar su proceso dentro de la misma.
+
+**Comportamiento**
+
+    En ADempiere la orden de compra indirecta se define según su comportamiento, a continuación se explica el proceder de la **Orden de Compra Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Orden de Compra |
+    |                      |                      | Indirecta** a un     |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Sub tipo OV:         | Orden Estándar       | Aplica el            |
+    |                      |                      | comportamiento de    |
+    |                      |                      | una orden estándar   |
+    |                      |                      | dentro del sistema,  |
+    |                      |                      | en este caso genera  |
+    |                      |                      | reserva.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de Compra      | Genera el número de  |
+    | Documento:           | Indirecta            | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OCI-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite generar por medio de esta, entregas de productos y servicios adquiridos con compromiso de compra con entrega indirecta.
+    - Permite generar por medio de esta, facturas de productos y servicios adquiridos con compromiso de compra con entrega indirecta.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Tipos de Documentos Autorización de Devolución de Compras**
+*************************************************************
+
+Es un documento que se elabora cuando algún departamento de la empresa necesita devolver uno, varios, o todos los productos de la compra realizada, independientemente de los motivos que conlleven a la devolución requerida.
+
+**Autorización Devolución Cliente Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que autoriza la devolución de uno, varios, o todos los productos y servicios obtenidos por la venta realizada al cliente dentro del territorio de Venezuela, indiferentemente el motivo que esta tenga, debe ser expresado en la misma.
+
+.. warning:: 
+
+    Toda autorización de devolución es realizada por el jefe del departamento de compra o venta, según sea el caso.
+
+**Comportamiento**
+
+    En ADempiere la autorización devolución cliente nacional se define según su comportamiento, a continuación se explica el proceder de la **Autorización Devolución Cliente Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Autorización    |
+    |                      |                      | Devolución Cliente   |
+    |                      |                      | Nacional** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Autorización         | Genera el número de  |
+    | Documento:           | Devolución Cliente   | secuencia            |
+    |                      | Nacional             | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**ADCN-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Autoriza la devolución de los productos y servicios incluidos en el documento, luego de una evaluación de los mismos.
+    - Permite que se genere el documento de devolución cliente.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Autorización Devolución Cliente Exportación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que autoriza la devolución de uno, varios, o todos los productos y servicios obtenidos por la venta realizada al cliente fuera del territorio de Venezuela, indiferentemente el motivo que esta tenga, debe ser expresado en la misma.
+
+.. warning:: 
+
+    Toda autorización de devolución es realizada por el jefe del departamento de compra o venta, según sea el caso.
+
+**Comportamiento**
+
+    En ADempiere la autorización devolución cliente exportación se define según su comportamiento, a continuación se explica el proceder de la **Autorización Devolución Cliente Exportación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Autorización    |
+    |                      |                      | Devolución Cliente   |
+    |                      |                      | Exportación** a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Autorización         | Genera el número de  |
+    | Documento:           | Devolución Cliente   | secuencia            |
+    |                      | Exportación          | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**ADCEX-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+ 
+
+**Implicación en ADempiere**
+
+    - Autoriza la devolución de los productos y servicios incluidos en el documento, luego de una evaluación de los mismos.
+    - Permite que se genere el documento de devolución cliente.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Autorización Devolución Cliente Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que autoriza la devolución de uno, varios, o todos los productos y servicios obtenidos por la venta que la empresa le realizó a otra empresa perteneciente al mismo consorcio, indiferentemente el motivo que esta tenga, debe ser expresado en la misma.
+
+.. warning:: 
+
+    Toda autorización de devolución es realizada por el jefe del departamento de compra o venta, según sea el caso.
+
+**Comportamiento**
+
+    En ADempiere la autorización devolución cliente intercompañía se define según su comportamiento, a continuación se explica el proceder de la **Autorización Devolución Cliente Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Autorización    |
+    |                      |                      | Devolución Cliente   |
+    |                      |                      | Intercompañía** a un |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Autorización         | Genera el número de  |
+    | Documento:           | Devolución Cliente   | secuencia            |
+    |                      | Intercompañía        | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**ADCIC-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Autoriza la devolución de los productos y servicios incluidos en el documento, luego de una evaluación de los mismos.
+    - Permite que se genere el documento de devolución cliente.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Autorización Devolución Cliente Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que autoriza la devolución de uno, varios, o todos los productos y servicios obtenidos por la venta que la empresa le realizó a los socios de negocios tipo empleado, indiferentemente el motivo que esta tenga, debe ser expresado en la misma.
+
+.. warning:: 
+
+    Toda autorización de devolución es realizada por el jefe del departamento de compra o venta, según sea el caso.
+
+**Comportamiento**
+
+    En ADempiere la autorización devolución cliente Empleado se define según su comportamiento, a continuación se explica el proceder de la **Autorización Devolución Cliente Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Autorización    |
+    |                      |                      | Devolución Cliente   |
+    |                      |                      | Empleado** a un      |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Autorización         | Genera el número de  |
+    | Documento:           | Devolución Cliente   | secuencia            |
+    |                      | Empleados            | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**ADCE-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Autoriza la devolución de los productos y servicios incluidos en el documento, luego de una evaluación de los mismos.
+    - Permite que se genere el documento de devolución cliente.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Autorización Devolución Cliente Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que autoriza la devolución de uno, varios, o todos los productos y servicios obtenidos por la venta realizada con compromiso de entrega indirecta al cliente, indiferentemente el motivo que esta tenga, debe ser expresado en la misma.
+
+.. warning:: 
+
+    Toda autorización de devolución es realizada por el jefe del departamento de compra o venta, según sea el caso.
+
+**Comportamiento**
+
+    En ADempiere la autorización devolución cliente indirecta se define según su comportamiento, a continuación se explica el proceder de la **Autorización Devolución Cliente Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de Compra      | Genera un documento  |
+    | Base:                |                      | de **Autorización    |
+    |                      |                      | Devolución Cliente   |
+    |                      |                      | Indirecta** a un     |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo cliente.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Autorización         | Genera el número de  |
+    | Documento:           | Devolución Cliente   | secuencia            |
+    |                      | Indirecta            | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**ADCI-**".  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Autoriza la devolución de los productos y servicios incluidos en el documento, luego de una evaluación de los mismos.
+    - Permite que se genere el documento de devolución cliente.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Cuentas por Pagar** |Cuentas por Pagar|
+-----------------------------------------
+
+Las cuentas por pagar en ADempiere son todas aquellas deudas que la empresa contrae con los socios de negocios por la adquisición de servicios, compra de productos, entre otros motivos. Actualmente existen ocho (8) grupos de tipos de documentos de cuentas por pagar en ADempiere y cada uno de ellos define un comportamiento diferente.
+
+A continuación se detallan los tipos de documentos de cuentas por pagar.
+
+**Tipos de Documentos Facturas de Cuentas por Pagar**
+*****************************************************
+
+En ADempiere una factura de cuentas por pagar es un documento legal que se realiza por la compra de productos o servicios a un determinado proveedor, donde se incluyen los datos principales del socio de negocio tipo proveedor, la empresa, y la información detallada de los productos y servicios.
+
+El documento factura en cuentas por pagar se compone de siete (7) diferentes facturas, en las que se encuentran factura nacional, importación, pro-forma, intercompañía, empleado, manual y indirecta, en ese orden de ideas serán explicados los comportamientos de los tipos de facturas.
+
+**Factura de Cuentas por Pagar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    La factura nacional es un documento que se emite por la compra de productos o adquisición de servicios encontrados dentro del territorio de Venezolana, esta es generada en moneda nacional y se encuentra regida por la ley ya que es un documento fiscal.
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar nacional se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Nacional**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Nacional** emitida  |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo proveedor.         |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia del número de   |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Nacional** como un  |
+    |                         |                | documento fiscal.       |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos:
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E). 
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada. 
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura. 
+
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente. 
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada. 
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios.  
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Factura de Cuentas por Pagar Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere una factura de cuentas por pagar importación es un documento que se genera por la compra de productos o adquisición de servicios del exterior que son importados a Venezuela, a diferencia de la factura nacional, esta es emitida en moneda extranjera.
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar importación se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Importación:**
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Importación**       |
+    |                         |                | emitida por un socio de |
+    |                         |                | negocio tipo proveedor. |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia del número de   |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Importación** como  |
+    |                         |                | un documento fiscal.    |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 18:** Las facturas emitidas en el extranjero por personas no residentes en el país, que estén destinadas a ser empleadas como prueba del desembolso a los fines del Impuesto sobre la renta, están sujetas a las disposiciones legales del país respectivo, debiendo constar en ellas, como mínimo:
+
+        #. Nombre completo o razón social y domicilio del prestador del servicio o del vendedor de los bienes.
+        #. Descripción de la venta del bien o de la prestación del servicio y precio. Si el precio hace referencia a varios bienes o servicios Iguales, se deberá Indicar la cantidad.
+        #. Fecha de emisión y monto total de la operación.
+        #. Nombre completo o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. En los casos de importación de bienes se sujetarán a lo establecido en la legislación aduanera. 
+
+            En todo caso, el contribuyente está en la obligación de presentar, a requerimiento de la Administración Tributaria, una traducción al castellano de las facturas.
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio. 
+
+**Factura de Cuentas por Pagar Pro Forma**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es una factura que a diferencia de la nacional, esta no es fiscal. Para ADempiere es una factura de estado borrador donde se plantean las condiciones de pago, y el tiempo estimado para esas condiciones. En otras palabras, la factura pro forma es un compromiso de compra/venta donde se establecen los precios y el lapso de tiempo para pagar.
+
+.. warning:: 
+
+    Para ADempiere es un documento sin validez legal, simplemente es un documento de común acuerdo entre comprador y vendedor.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar pro forma se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Pro Forma**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Pro Forma** emitida |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo proveedor.         |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia del número de   |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos: 
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E). 
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.  
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura. 
+    
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, Si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente. 
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.               
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios.  
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Factura de Cuentas por Pagar Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere una factura de cuentas por pagar intercompañía se emite cuando la empresa le compra productos o adquiere servicios de otras empresas pertenecientes al mismo consorcio, su comportamiento es igual al de la factura de cuentas por pagar nacional y de igual manera es emitida en moneda nacional.
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar intercompañía se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Intercompañía:**
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Intercompañía**     |
+    |                         |                | emitida por un socio de |
+    |                         |                | negocio tipo proveedor. |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Intercompañía**     |
+    |                         |                | como un documento       |
+    |                         |                | fiscal.                 |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos: 
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E). 
+
+           La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.  
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura.  
+
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, Si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente. 
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada. 
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación. 
+
+            En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios. 
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Factura de Cuentas por Pagar Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es una factura donde se reflejan las deudas que la empresa tiene con el empleado al cual le realizo la compra de los productos o del cual adquirio los servicios, es emitida en moneda nacional al igual que la factura nacional de cuentas por pagar
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar empleado se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Empleado:**
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Empleado** emitida  |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo proveedor.         |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Empleado** como un  |
+    |                         |                | documento fiscal.       |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos: 
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+
+            La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.  
+
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.
+
+            Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura. 
+
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, Si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente.<br><br> La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.<br><br> En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios.<br><br>
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+    
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Factura de Cuentas por Pagar Manual**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es posible generar las facturas de forma manual, ADempiere brinda la opción de escoger las órdenes de compra de las cuales se desea facturar. Una factura manual implica no realizar todo el procedimiento de llenado de campos, simplemente se parte de una selección de tipo de documento y acción del documento, donde dependiendo de esta última la factura queda en estado "Completo" o "En Proceso".
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar manual se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Manual**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura de |
+    |                         |                | CxP Manual** emitida    |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo proveedor.         |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Manual** como un    |
+    |                         |                | documento fiscal.       |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Manual:                 | Si             | Permite que la          |
+    |                         |                | selección y el llenado  |
+    |                         |                | de los campos se haga   |
+    |                         |                | de forma manual.        |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+    
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+    
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos: 
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E). <br><br>La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada. <br><br>
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.<br><br> Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura.<br><br>
+
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, Si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente.<br><br> La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.<br><br> En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios.<br><br>
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+    
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Factura de Cuentas por Pagar Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento fiscal que le realiza el proveedor a la empresa cuando esta adquiere un compromiso de compra con entrega indirecta. Se entiende por entrega indirecta cuando el cliente le compra a un vendedor o promotor que no posee el producto sino que es intermediario del proveedor, por lo tanto el cliente retira el producto en el establecimiento del proveedor.
+
+.. warning:: 
+
+    Para ADempiere es importante porque representa los egresos monetarios por la compra de los productos y servicios. Además, en ella se reflejan los impuestos asociados a la compra.
+
+**Comportamiento**
+
+    En ADempiere una factura de cuentas por pagar indirecta se define según su comportamiento, a continuación se explica el proceder de una **Factura de CxP Indirecta**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera una **Factura    |
+    |                         |                | Indirecta CxP** emitida |
+    |                         |                | por un socio de negocio |
+    |                         |                | tipo proveedor.         |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Documento Fiscal:       | Si             | Genera la **Factura de  |
+    |                         |                | CxP Indirecta** como un |
+    |                         |                | documento fiscal.       |
+    +-------------------------+----------------+-------------------------+
+    | Generar Nro de Control  | Si             | Genera el número de     |
+    | Al Imprimir:            |                | control establecido en  |
+    |                         |                | la **Secuencia de Nro   |
+    |                         |                | de Control**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+    
+    - **Artículo 5:** El Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general, establecerá las normas para regular las imprentas autorizadas, las máquinas fiscales y, en general, la elaboración de las facturas y otros documentos. 
+    
+    - **Artículo 13:** Las facturas emitidas sobre formatos o formas libres, por los contribuyentes ordinarios del impuesto al valor agregado, deben cumplir los siguientes requisitos: 
+
+        #. Contener la denominación de "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de Control preimpreso. 
+        #. Total de los Números de Control asignados, expresado de la siguiente manera "desde el Nº... hasta el Nº... ". 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registr1nfco de Información Fiscal (RIF) del emisor. 
+        #. Fecha de emisión constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y número de Registro Único de Información Fiscal (RIF), del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF), cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. Podrá omitirse la cantidad en aquellas prestaciones de servicio que por sus características ésta no pueda expresarse. Si se trata de un bien o servicio exento, exonerado o no gravado con el impuesto al valor agregado, deberá aparecer aliado de la descripción o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E).
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde.
+        #. Contener la frase "sin derecho a crédito fiscal", cuando se trate de las coplas de las facturas.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.  
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF), de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 14:** Las facturas emitidas mediante Máquinas Fiscales por los contribuyentes ordinarios del Impuesto al valor agregado, deben contener la siguiente información: 
+
+        #. La denominación "Factura". 
+        #. Nombre y apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. Número consecutivo y único.
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien o servicio, deben identificarse los mismos genéricamente. Si se tratare de productos o servicios exentos, exonerados o no sujetos del Impuesto al valor agregado, debe aparecer, junto con de la descripción de los mismos o de su precio, el carácter E separado por un espacio en blanco y entre paréntesis según el siguiente formato: (E). <br><br>La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada. <br><br>
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. Especificación del monto total de la base imponible del impuesto al valor agregado, discriminada según la alícuota, indicando el porcentaje aplicable, así como la especificación del monto total exento o exonerado. 
+        #. Especificación del monto total del impuesto al valor agregado, discriminado según la alícuota indicando el porcentaje aplicable.
+        #. En los casos de operaciones gravadas con el impuesto al valor agregado, cuya contra- prestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deben constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deben aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.<br><br> Las facturas emitidas mediante Máquinas Fiscales darán derecho a crédito fiscal o al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la misma Imprima el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios en la propia factura.<br><br>
+
+    - **Artículo 15:** Las facturas emitidas sobre formatos o formas libres, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Numeración consecutiva y única. 
+        #. Número de control preimpreso. 
+        #. Total de los números de control asignados, expresado de la siguiente manera “desde el Nº… hasta el Nº...” 
+        #. Nombre y Apellido o razón social, domicilio fiscal y número de Registro Único de Información Fiscal (RIF) del emisor. 
+        #. La expresión "Contribuyente Formal" o "no sujeto al impuesto al valor agregado", de ser el caso.
+        #. Fecha de emisión, constituida por ocho (8) dígitos. 
+        #. Nombre y Apellido o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente del bien o receptor del servicio. Podrá prescindirse del número de Registro Único de Información Fiscal (RIF) cuando se trate de personas naturales que no requieran la factura a efectos tributarios, en cuyo caso deberá expresarse, como mínimo, el número de cédula de identidad o pasaporte, del adquirente o receptor. 
+        #. Descripción de la venta del bien o de la prestación del servicio, con indicación de la cantidad y monto. 
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos.
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable. 
+        #. Indicación del valor total de la venta o la prestación del servicio, o de la suma de ambos, Si corresponde. 
+        #. Razón social y el número de Registro Único de Información Fiscal (RIF) de la imprenta autorizada, así como la nomenclatura y fecha de la Providencia Administrativa de autorización. 
+        #. Fecha de elaboración por la imprenta autorizada, constituida por ocho (8) dígitos. 
+
+    - **Artículo 16:** Las facturas emitidas mediante Máquinas Fiscales, por los sujetos que no califiquen como contribuyentes ordinarios del impuesto al valor agregado, deben contener la siguiente información:
+
+        #. La denominación "Factura". 
+        #. Nombre y Apellido o razón social, número de Registro Único de Información Fiscal (RIF) y domicilio fiscal del emisor. 
+        #. La expresión "contribuyente formal" o "no sujeto al impuesto al valor agregado", según sea el caso. 
+        #. Número consecutivo y único. 
+        #. La hora y fecha de emisión. 
+        #. Descripción, cantidad y monto del bien o servicio. Podrá omitirse la cantidad en las prestaciones de servicio que por sus características no puedan expresarse. En los casos en que las características técnicas de la máquina fiscal limiten la Impresión de la descripción específica del bien servicio, deben identificarse los mismos genéricamente.<br><br> La descripción del bien o servicio debe estar separada, al menos, por un carácter en blanco de su precio. En caso de que la longitud de la descripción supere una línea, el texto puede continuar en las líneas siguientes imprimiéndose el correspondiente precio en la última línea ocupada.
+        #. En los casos que se carguen o cobren conceptos en adición al precio o remuneración convenidos o se realicen descuentos, bonificaciones, anulaciones y cualquier otro ajuste al precio, deberá indicarse la descripción y valor de los mismos. 
+        #. En los casos de operaciones cuya contraprestación haya sido expresada en moneda extranjera, equivalente a la cantidad correspondiente en moneda nacional, deberán constar ambas cantidades en la factura, con indicación del monto total y del tipo de cambio aplicable.
+        #. Indicación del valor total de la venta de los bienes o de la prestación del servicio o de la suma de ambos, Si corresponde, precedido de la palabra "TOTAL" y, al menos, un espacio en blanco. 
+        #. Logotipo Fiscal seguido del Número de Registro de la Máquina Fiscal, los cuales deberán aparecer en ese orden al final de la factura, en una misma línea, con al menos tres (3) espacios de separación.<br><br> En estos casos, las facturas emitidas mediante Máquinas Fiscales darán derecho al desembolso, cuando, además de cumplir con todos los requisitos establecidos en este artículo, la Máquina Fiscal sea capaz de imprimir el nombre o razón social y el número de Registro Único de Información Fiscal (RIF) del adquirente o receptor de los bienes o servicios.<br><br>
+
+    - **Artículo 19:** Los emisores de facturas sobre formas libres elaboradas por Imprentas autorizadas, o a través de máquinas fiscales, pueden contar con dispositivos de lectura de códigos de barra u otros mecanismos electrónicos que faciliten la captura de los datos relativos a la Identificación del adquirente del bien o receptor del servicio.
+
+    - **Artículo 40:** Las facturas y otros documentos que se emitan no deben tener tachaduras ni enmendaduras, salvo en los casos que autorice el Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT), mediante Providencia Administrativa de carácter general. 
+
+**Tipos de Documentos Ajustes de Cuentas por Pagar**
+****************************************************
+
+En ADempiere un ajuste es un documento que representa el ingreso o egreso monetario de la empresa, todo va a depender si el ajuste es de crédito o de débito. A continuación se define el comportamiento de un ajuste de débito y un ajuste de crédito de cuentas por pagar en ADempiere.
+
+**Ajuste de Débito de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere, este documento representa la deuda o la cantidad de dinero que la empresa le debe pagar al socio de negocio, mayormente este caso se presenta por la compra de productos o servicios, o por prestaciones que le hacen a la empresa.
+
+.. warning:: 
+
+    Este documento permite controlar las deudas que la empresa contrae con los socios de negocios tipo proveedor por la compra de productos o servicios.
+
+**Comportamiento**
+
+    En ADempiere un ajuste de débito de cuentas por pagar se define según su comportamiento, a continuación se explica el proceder de un **Ajuste de Débito de CxP**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Incrementa el saldo deudor de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de un ajuste de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Ajuste de Crédito de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere, este documento representa la deuda o la cantidad de dinero que el socio de negocio le debe reintegrar a la empresa. Suele presentarse el caso de devolución de productos o servicios comprados, donde amerita que se aplique un ajuste de crédito.
+
+.. warning:: 
+
+    Este documento permite controlar las deudas de los socios de negocios tipo proveedor con la empresa.
+
+**Comportamiento**
+
+    En ADempiere un ajuste de crédito de cuentas por pagar se define según su comportamiento, a continuación se explica el proceder de un **Ajuste de Crédito de CxP**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Decrementa el saldo      |
+    |                          |             | deudor de la empresa     |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Decrementa el saldo deudor de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Aumenta el monto de un ajuste de débito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Tipos de Documentos Notas de Débito de Cuentas por Pagar**
+************************************************************
+
+Es un documento que se aplica a una factura para aumentar el monto de la misma, una nota de débito se podría realizar bajo el concepto de gastos administrativos y siempre nace de un documento afectado como una factura o una nota de crédito. Actualmente en ADempiere se utilizan cinco (5) diferentes notas de débito como nacional, importación, intercompañía, empleado e indirectas.
+
+**Nota de Débito de Cuentas por Pagar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere una nota de débito en cuentas por pagar nacional es utilizada para generar un aumento en el monto de la deuda de la empresa con el proveedor, esta es emitida en moneda nacional al igual que la factura.
+
+.. warning:: 
+
+    Se genera a causa de gastos administrativos, interés por mora o otros gastos, aumentando de esta manera el monto de la factura y manteniendo con esto su contabilización en ADempiere. 
+
+**Comportamiento**
+
+    En ADempiere una nota de débito de cuentas por pagar nacional se define según su comportamiento, a continuación se explica el proceder de una **Nota de Débito de CxP Nacional**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Documento Fiscal:        | Si          | Genera la **Nota de      |
+    |                          |             | Débito de CxP Nacional** |
+    |                          |             | como un documento        |
+    |                          |             | fiscal.                  |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Generar Nro de Control   | Si          | Genera el número de      |
+    | Al Imprimir:             |             | control establecido en   |
+    |                          |             | la **Secuencia de Nro de |
+    |                          |             | Control**.               |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Genera un aumento en el monto total a cancelar de la factura nacional.
+    - Genera una nota de débito fiscal.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Nota de Débito de Cuentas por Pagar Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un documento legal idéntico a la nota de débito nacional, con la diferencia de que por ser de importación su monto se expresa en moneda extranjera y refleja en la factura de importación el monto extra con su respectiva descripción.
+
+.. warning:: 
+
+    Se genera a causa de gastos administrativos, interés por mora o otros gastos, aumentando de esta manera el monto de la factura y manteniendo con esto su contabilización en ADempiere.
+
+**Comportamiento**
+
+    En ADempiere una nota de débito de cuentas por pagar importación se define según su comportamiento, a continuación se explica el proceder de una **Nota de Débito de CxP Importación**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Documento Fiscal:        | Si          | Genera la **Nota de      |
+    |                          |             | Débito de CxP            |
+    |                          |             | Importación** como un    |
+    |                          |             | documento fiscal.        |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Generar Nro de Control   | Si          | Genera el número de      |
+    | Al Imprimir:             |             | control establecido en   |
+    |                          |             | la **Secuencia de Nro de |
+    |                          |             | Control**.               |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Genera un aumento en el monto total a cancelar de la factura importación.
+    - Genera una nota de débito fiscal.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Nota de Débito de Cuentas por Pagar Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un documento que se realiza para generar un aumento a facturas de cuentas por pagar intercompañía que pertenecen al mismo consorcio de la empresa.
+
+.. warning:: 
+
+    Se genera a causa de gastos administrativos, interés por mora o otros gastos, aumentando de esta manera el monto de la factura y manteniendo con esto su contabilización en ADempiere.
+
+**Comportamiento**
+
+    En ADempiere una nota de débito de cuentas por pagar intercompañía se define según su comportamiento, a continuación se explica el proceder de una **Nota de Débito de CxP Intercompañía**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Documento Fiscal:        | Si          | Genera la **Nota de      |
+    |                          |             | Débito de CxP            |
+    |                          |             | Intercompañía** como un  |
+    |                          |             | documento fiscal.        |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Generar Nro de Control   | Si          | Genera el número de      |
+    | Al Imprimir:             |             | control establecido en   |
+    |                          |             | la **Secuencia de Nro de |
+    |                          |             | Control**.               |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Genera un aumento en el monto total a cancelar de la factura intercompañía.
+    - Genera una nota de débito fiscal.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Nota de Débito de Cuentas por Pagar Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere se utiliza este documento para generar una nota de débito a la factura de cuentas por pagar empleado, aumentando el monto de la deuda que la empresa tiene con el empleado, el mismo se emite en moneda nacional.
+
+.. warning:: 
+
+    Se genera a causa de gastos administrativos, interés por mora o otros gastos, aumentando de esta manera el monto de la factura y manteniendo con esto su contabilización en ADempiere.
+
+**Comportamiento**
+
+    En ADempiere una nota de débito de cuentas por pagar empleado se define según su comportamiento, a continuación se explica el proceder de una **Nota de Débito de CxP Empleado**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Documento Fiscal:        | Si          | Genera la **Nota de      |
+    |                          |             | Débito de CxP Empleado** |
+    |                          |             | como un documento        |
+    |                          |             | fiscal.                  |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Generar Nro de Control   | Si          | Genera el número de      |
+    | Al Imprimir:             |             | control establecido en   |
+    |                          |             | la **Secuencia de Nro de |
+    |                          |             | Control**.               |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Genera un aumento en el monto total a cancelar de la factura empleado.
+    - Genera una nota de débito fiscal.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Nota de Débito de Cuentas por Pagar Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento fiscal emitido en moneda nacional, que refleja un aumento en el monto a cancelar de una factura de cuentas por pagar indirecta cuando el documento se encuentra en estado completo.
+
+.. warning:: 
+
+    Se genera a causa de gastos administrativos, interés por mora o otros gastos, aumentando de esta manera el monto de la factura y manteniendo con esto su contabilización en ADempiere.
+
+**Comportamiento**
+
+    En ADempiere una nota de débito de cuentas por pagar indirecta se define según su comportamiento, a continuación se explica el proceder de una **Nota de Débito CxP Indirecta**:
+
+    +--------------------------+-------------+--------------------------+
+    | **Campo**                | **Valor**   | **Comportamiento en      |
+    |                          |             | ADempiere**              |
+    +==========================+=============+==========================+
+    | Tipo de documento base:  | Factura CxP | Incrementa el saldo      |
+    |                          |             | deudor de la empresa.    |
+    +--------------------------+-------------+--------------------------+
+    | Documento controlado:    | Si          | Mantiene una **Secuencia |
+    |                          |             | de Control**.            |
+    +--------------------------+-------------+--------------------------+
+    | Copiar Número de         | Si          | **Copia el número de     |
+    | Documento en Reverso:    |             | documento en el          |
+    |                          |             | reverso** en lugar de    |
+    |                          |             | generar un nuevo número  |
+    |                          |             | agregándole el símbolo   |
+    |                          |             | **^** al final del       |
+    |                          |             | número de documento,     |
+    |                          |             | además el monto del      |
+    |                          |             | documento pasa a         |
+    |                          |             | **negativo**.            |
+    +--------------------------+-------------+--------------------------+
+    | Documento Fiscal:        | Si          | Genera la **Nota de      |
+    |                          |             | Débito CxP Indirecta**   |
+    |                          |             | como un documento        |
+    |                          |             | fiscal.                  |
+    +--------------------------+-------------+--------------------------+
+    | Asignar facturas         | Si          | Asigna automáticamente   |
+    | (Automático):            |             | el documento afectado.   |
+    +--------------------------+-------------+--------------------------+
+    | Generar Nro de Control   | Si          | Genera el número de      |
+    | Al Imprimir:             |             | control establecido en   |
+    |                          |             | la **Secuencia de Nro de |
+    |                          |             | Control**.               |
+    +--------------------------+-------------+--------------------------+
+    | Copias del documento:    | 1           | Establece el número de   |
+    |                          |             | copias a imprimir.       |
+    +--------------------------+-------------+--------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Genera un aumento en el monto total a cancelar de la factura indirecta.
+    - Genera una nota de débito fiscal.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Disminuye el monto de una nota de crédito, creando un cruce de cuentas.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas.
+
+**Tipos de Documentos Retenciones y Declaraciones de Cuentas por Pagar**
+************************************************************************
+
+Las retenciones siempre son realizadas por el cliente, ya sea en cuentas por cobrar o cuentas por pagar, las declaraciones de retenciones son realizadas tanto por el cliente como por el proveedor.
+
+Se entiende por retenciones en cuentas por pagar, la retención de un porcentaje (%) del monto que la empresa como cliente le va cancelar al proveedor, y por declaraciones se entiende la presentación ante el "**SENIAT**" de las diferentes retenciones que la empresa como cliente le aplicó a los proveedores. Existen actualmente en ADempiere, cuatro (4) diferentes documentos de retenciones y tres (3) diferentes documentos de declaraciones que a continuación se definen por su comportamiento en el mismo.
+
+**Retención de IVA 75% de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del setenta y cinco  (75) por ciento (%) del IVA que posee una factura emitida por el  proveedor, para ello se deben tener configuradas las retenciones  en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una Retención de IVA en cuentas por pagar se define  según su comportamiento, a continuación se explica el proceder de  una **Retención de IVA 75% de Cuentas por Pagar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxP                  | de 75% de IVA a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo proveedor.      |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención de IVA 75  | Genera el número de  |
+    | Documento:           | CxP                  | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RIVA75CxP-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una factura  de acuerdo a lo establecido en la ley del impuesto al valor  agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado: 
+
+    - Artículo 3: Constituyen hechos imponibles a los fines de esta Ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+        #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+        #. La importación definitiva de bienes muebles.
+        #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+        #. La venta de exportación de bienes muebles corporales.
+        #. La exportación de servicios
+
+**Retención de IVA 100% de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del cien (100) por  ciento (%) del IVA que posee una factura emitida por el  proveedor, para ello se deben tener configuradas las retenciones  en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de IVA en cuentas por pagar se define  según su comportamiento, a continuación se explica el proceder de  una **Retención de IVA 100% de Cuentas por Pagar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxP                  | de 100% de IVA a un  |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo proveedor.      |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención de IVA 100 | Genera el número de  |
+    | Documento:           | CxP                  | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RIVA100CxP-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una factura  de acuerdo a lo establecido en la ley del impuesto al valor  agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+    
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado: 
+
+    - Artículo 3: Constituyen hechos imponibles a los fines de esta Ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+        #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+        #. La importación definitiva de bienes muebles.
+        #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+        #. La venta de exportación de bienes muebles corporales.
+        #. La exportación de servicios
+
+**Retención de ISLR de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del ISLR que posee  una factura emitida por el proveedor, para ello se deben tener  configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de ISLR en cuentas por pagar se define  según su comportamiento, a continuación se explica el proceder de  una **Retención de ISLR de Cuentas por Pagar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxP                  | de ISLR a un socio   |
+    |                      |                      | de negocio           |
+    |                      |                      | proveedor.           |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención de ISLR    | Genera el número de  |
+    | Documento:           | CxP                  | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RISLRCxP-**".     |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de ISLR aplicado a una  factura de acuerdo a lo establecido en la ley de impuesto  sobre la renta.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 38.628 de fecha 16 de febrero de 2007 donde se establece la ley de impuesto sobre la renta, estipulando los siguientes artículos:
+
+    - **Artículo 1:** 
+
+        Los enriquecimientos anuales, netos y disponibles obtenidos en dinero o en especie, causarán impuestos según las normas establecidas en esta ley.
+
+        Salvo disposición en contrario de la presente ley, toda persona natural o jurídica, residente o domiciliada en la República Bolivariana de Venezuela, pagará impuestos sobre sus rentas de cualquier origen, sea que la causa o la fuente de ingresos esté situada dentro del país o fuera de él. Las personas naturales o jurídicas no residentes o no domiciliadas en la República Bolivariana de Venezuela estarán sujetas al impuesto establecido en esta Ley siempre que la fuente o la causa de sus enriquecimientos esté u ocurra dentro del país, aun cuando no tengan establecimiento permanente o base fija en la República Bolivariana de Venezuela. 
+
+        Las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, tributarán exclusivamente por los ingresos de fuente nacional o extranjera atribuibles a dicho establecimiento permanente o base fija.
+
+    - **Artículo 2:** 
+
+        Toda persona natural o jurídica, residente o domiciliada en La República Bolivariana de Venezuela, así como las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, podrán acreditar contra el impuesto que conforme a esta Ley les corresponda pagar, el impuesto sobre la renta que hayan pagado en el extranjero por los enriquecimientos de fuente extraterritorial por los cuales estén obligados al pago de impuesto en los términos de esta Ley.
+
+        A los efectos de la acreditación prevista en este artículo, se considera impuesto sobre la renta al que grava la totalidad de la renta o los elementos de renta, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, y los impuestos sobre los sueldos y salarios, así como los impuestos sobre las plusvalías. En caso de duda, la Administración Tributaria deberá determinar la naturaleza del impuesto acreditable. 
+
+        El monto del impuesto acreditable, proveniente de fuentes extranjeras a que se refiere este artículo, no podrá exceder a la cantidad que resulte de aplicar las tarifas establecidas en el Título III de esta Ley al total del enriquecimiento neto global del ejercicio de que se trate, en la proporción que el enriquecimiento neto de fuente extranjera represente del total de dicho enriquecimiento neto global.
+
+        En el caso de los enriquecimientos gravados con impuestos proporcionales en los términos establecidos en esta Ley, el monto del impuesto acreditable, no podrá exceder del impuesto sobre la renta que hubiese correspondido pagar en La República Bolivariana de Venezuela por estos enriquecimientos.
+
+        A los fines de la determinación del monto de impuesto efectivamente pagado en el extranjero acreditable en los términos establecidos en este artículo, deberá aplicarse el tipo de cambio vigente para el momento en que se produzca el pago del impuesto en el extranjero, calculado conforme a lo previsto en la Ley del Banco Central de Venezuela.
+
+    - **Artículo 4:** 
+
+        Son enriquecimientos netos los incrementos de patrimonio que resulten después de restar de los ingresos brutos, los costos y deducciones permitidos en esta Ley, sin perjuicio respecto del enriquecimiento neto de fuente territorial, del ajuste por inflación previsto en esta Ley.
+
+        A los fines de la determinación del enriquecimiento neto de fuente extranjera se aplicarán las normas de la presente Ley, determinantes de los ingresos, costos y deducciones de los enriquecimientos de fuente territorial.
+
+        La determinación de la base imponible para el cálculo del impuesto será el resultado de sumar el enriquecimiento neto de fuente territorial al enriquecimiento neto de fuente extraterritorial. No se admitirá la imputación de pérdidas de fuente extraterritorial al enriquecimiento o pérdida de fuente territorial.
+
+    - **Artículo 5:** 
+
+        Los enriquecimientos provenientes de la cesión del uso o goce de bienes, muebles o inmuebles, incluidos los derivados de regalías y demás participaciones análogas y los dividendos, los producidos por el trabajo bajo relación de dependencia o por el libre ejercicio de profesiones no mercantiles, la enajenación de bienes inmuebles y las ganancias fortuitas, se considerarán disponibles en el momento en que son pagados. Los enriquecimientos que no estén comprendidos en la enumeración anterior, se considerarán disponibles desde que se realicen las operaciones que los producen, salvo en las cesiones de crédito y operaciones de descuento, cuyo producto sea recuperable en varias anualidades, casos en los cuales se considerará disponible para el cesionario el beneficio que proporcionalmente corresponda.
+
+        En todos los casos a los que se refiere este artículo, los abonos en cuenta se considerarán como pagos, salvo prueba en contrario.
+
+    - **Artículo 7:** Están sometidos al régimen impositivo previsto en esta Ley:
+
+        #. Las personas naturales.                 
+        #. Las compañías anónimas y las sociedades de responsabilidad limitada.                
+        #. Las sociedades en nombre colectivo, en comandita simple, las comunidades, así como cualesquiera otras sociedades de personas, incluidas las irregulares o de hecho.               
+        #. Los titulares de enriquecimientos provenientes de actividades de hidrocarburos y conexas, tales como la refinación y el transporte, sus regalistas y quienes obtengan enriquecimientos derivados de la exportación de minerales, de hidrocarburos o de sus derivados.
+        #. Las asociaciones, fundaciones, corporaciones y demás entidades jurídicas o económicas no citadas en los literales anteriores.                
+        #. Los establecimientos permanentes, centros o bases fijas situados en el territorio nacional.
+
+    - **Artículo 13:** 
+
+        Las empresas propiedad de la Nación, de los Estados o de los Municipios, estarán sujetas a los impuestos y normas establecidas en esta ley, cualquiera que sea la forma jurídica de su constitución, aunque las Leyes especiales referentes a tales empresas dispongan lo contrario. 
+
+**Retención Municipal de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención municipal a una  factura emitida por el proveedor, para ello se deben tener  configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención municipal en cuentas por pagar se  define según su comportamiento, a continuación se explica el  proceder de una **Retención Municipal de Cuentas por Pagar**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Genera una retención |
+    | Base:                | CxP                  | municipal a un socio |
+    |                      |                      | de negocio tipo      |
+    |                      |                      | proveedor.           |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención Municipal  | Genera el número de  |
+    | Documento:           | CxP                  | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RMCxP-**". |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención municipal aplicado a una  factura de acuerdo a lo establecido en la ley de retencion  municipal correspondiente a cada municipio.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Este dependerá del municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. 
+
+**Retención de IVA 75% para Nota de Crédito de CxP**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del setenta y cinco  (75) por ciento (%) del IVA que posee una nota de crédito emitida  por el proveedor, para ello se deben tener configuradas las  retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una Retención de IVA para nota de crédito en cuentas  por pagar se define según su comportamiento, a continuación se  explica el proceder de una **Retención de IVA 75% para Nota de  Crédito de CxP**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Factura de CxP       | Genera una retención |
+    | Base:                |                      | de 75% de IVA a un   |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo proveedor.      |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención de IVA 75  | Genera el número de  |
+    | Documento:           | Nota de Crédito CxP. | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RIVA75NC-**".     |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una nota de  crédito de acuerdo a lo establecido en la ley del impuesto al  valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto de la nota de crédito de cuentas por pagar.
+
+**Implicación Fiscal**
+    
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado: 
+
+    - Artículo 3: Constituyen hechos imponibles a los fines de esta Ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+        #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+        #. La importación definitiva de bienes muebles.
+        #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+        #. La venta de exportación de bienes muebles corporales.
+        #. La exportación de servicios
+
+**Retención de IVA 100% para Nota de Crédito de CxP**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del cien (100) por  ciento (%) del IVA que posee una nota de crédito emitida por el  proveedor, para ello se deben tener configuradas las retenciones  en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una Retención de IVA para nota de crédito en cuentas  por pagar se define según su comportamiento, a continuación se  explica el proceder de una **Retención de IVA 100% para Nota de  Crédito de CxP**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Factura de CxP       | Genera una retención |
+    | Base:                |                      | de 100% de IVA a un  |
+    |                      |                      | socio de negocio     |
+    |                      |                      | tipo proveedor.      |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención de IVA 100 | Genera el número de  |
+    | Documento:           | Nota de Crédito CxP. | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RIVA100NC-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de IVA aplicado a una nota de  crédito de acuerdo a lo establecido en la ley del impuesto al  valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto de la nota de crédito de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en el decreto 206 de la Gaceta Oficial N° 5.363, donde se estipula el reglamento general del decreto con rango y fuerza de ley que establece el Impuesto al Valor Agregado: 
+
+    - Artículo 3: Constituyen hechos imponibles a los fines de esta Ley, las siguientes actividades, negocios jurídicos u operaciones:
+
+            #. La venta de bienes muebles corporales, incluida la de partes alícuotas en los derechos de propiedad sobre ellos; así como el retiro o desincorporación de bienes muebles realizados por los contribuyentes de este impuesto.
+            #. La importación definitiva de bienes muebles.
+            #. La prestación a título oneroso de servicios independientes ejecutados o aprovechados en el país, incluyendo aquellos que provengan del exterior, en los términos de esta Ley. También constituye hecho imponible, el consumo de los servicios propios del objeto, giro o actividad del negocio, en los casos a que se refiere el numeral 4 del artículo 4 de esta Ley.
+            #. La venta de exportación de bienes muebles corporales.
+            #. La exportación de servicios
+
+**Retención de ISLR para Nota de Crédito de CxP**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención del ISLR que posee  una nota de crédito emitida por el proveedor, para ello se deben  tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención de ISLR para nota de crédito en  cuentas por pagar se define según su comportamiento, a  continuación se explica el proceder de una **Retención de ISLR  para nota de crédito de CxP**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Factura de CxP       | Genera una retención |
+    | Base:                |                      | de ISLR a un socio   |
+    |                      |                      | de negocio           |
+    |                      |                      | proveedor.           |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención ISLR para  | Genera el número de  |
+    | Documento:           | Nota de Crédito CxP  | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**RISLRNC-**".      |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención de ISLR aplicado a una nota  de crédito de acuerdo a lo establecido en la ley de impuesto  sobre la renta.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto de la nota de crédito de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 38.628 de fecha 16 de febrero de 2007 donde se establece la ley de impuesto sobre la renta, estipulando los siguientes artículos:
+
+    - **Artículo 1:** 
+
+        Los enriquecimientos anuales, netos y disponibles obtenidos en dinero o en especie, causarán impuestos según las normas establecidas en esta ley.
+
+        Salvo disposición en contrario de la presente ley, toda persona natural o jurídica, residente o domiciliada en la República Bolivariana de Venezuela, pagará impuestos sobre sus rentas de cualquier origen, sea que la causa o la fuente de ingresos esté situada dentro del país o fuera de él. Las personas naturales o jurídicas no residentes o no domiciliadas en la República Bolivariana de Venezuela estarán sujetas al impuesto establecido en esta Ley siempre que la fuente o la causa de sus enriquecimientos esté u ocurra dentro del país, aun cuando no tengan establecimiento permanente o base fija en la República Bolivariana de Venezuela. 
+
+        Las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, tributarán exclusivamente por los ingresos de fuente nacional o extranjera atribuibles a dicho establecimiento permanente o base fija.
+
+    - **Artículo 2:** 
+
+        Toda persona natural o jurídica, residente o domiciliada en La República Bolivariana de Venezuela, así como las personas naturales o jurídicas domiciliadas o residenciadas en el extranjero que tengan un establecimiento permanente o una base fija en el país, podrán acreditar contra el impuesto que conforme a esta Ley les corresponda pagar, el impuesto sobre la renta que hayan pagado en el extranjero por los enriquecimientos de fuente extraterritorial por los cuales estén obligados al pago de impuesto en los términos de esta Ley.
+
+        A los efectos de la acreditación prevista en este artículo, se considera impuesto sobre la renta al que grava la totalidad de la renta o los elementos de renta, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, y los impuestos sobre los sueldos y salarios, así como los impuestos sobre las plusvalías. En caso de duda, la Administración Tributaria deberá determinar la naturaleza del impuesto acreditable. 
+
+        El monto del impuesto acreditable, proveniente de fuentes extranjeras a que se refiere este artículo, no podrá exceder a la cantidad que resulte de aplicar las tarifas establecidas en el Título III de esta Ley al total del enriquecimiento neto global del ejercicio de que se trate, en la proporción que el enriquecimiento neto de fuente extranjera represente del total de dicho enriquecimiento neto global.
+
+        En el caso de los enriquecimientos gravados con impuestos proporcionales en los términos establecidos en esta Ley, el monto del impuesto acreditable, no podrá exceder del impuesto sobre la renta que hubiese correspondido pagar en La República Bolivariana de Venezuela por estos enriquecimientos.
+
+        A los fines de la determinación del monto de impuesto efectivamente pagado en el extranjero acreditable en los términos establecidos en este artículo, deberá aplicarse el tipo de cambio vigente para el momento en que se produzca el pago del impuesto en el extranjero, calculado conforme a lo previsto en la Ley del Banco Central de Venezuela.
+
+    - **Artículo 4:** 
+
+        Son enriquecimientos netos los incrementos de patrimonio que resulten después de restar de los ingresos brutos, los costos y deducciones permitidos en esta Ley, sin perjuicio respecto del enriquecimiento neto de fuente territorial, del ajuste por inflación previsto en esta Ley.
+
+        A los fines de la determinación del enriquecimiento neto de fuente extranjera se aplicarán las normas de la presente Ley, determinantes de los ingresos, costos y deducciones de los enriquecimientos de fuente territorial.
+
+        La determinación de la base imponible para el cálculo del impuesto será el resultado de sumar el enriquecimiento neto de fuente territorial al enriquecimiento neto de fuente extraterritorial. No se admitirá la imputación de pérdidas de fuente extraterritorial al enriquecimiento o pérdida de fuente territorial.
+
+    - **Artículo 5:** 
+
+        Los enriquecimientos provenientes de la cesión del uso o goce de bienes, muebles o inmuebles, incluidos los derivados de regalías y demás participaciones análogas y los dividendos, los producidos por el trabajo bajo relación de dependencia o por el libre ejercicio de profesiones no mercantiles, la enajenación de bienes inmuebles y las ganancias fortuitas, se considerarán disponibles en el momento en que son pagados. Los enriquecimientos que no estén comprendidos en la enumeración anterior, se considerarán disponibles desde que se realicen las operaciones que los producen, salvo en las cesiones de crédito y operaciones de descuento, cuyo producto sea recuperable en varias anualidades, casos en los cuales se considerará disponible para el cesionario el beneficio que proporcionalmente corresponda.
+
+        En todos los casos a los que se refiere este artículo, los abonos en cuenta se considerarán como pagos, salvo prueba en contrario.
+
+    - **Artículo 7:** Están sometidos al régimen impositivo previsto en esta Ley:
+
+        #. Las personas naturales.                 
+        #. Las compañías anónimas y las sociedades de responsabilidad limitada.                
+        #. Las sociedades en nombre colectivo, en comandita simple, las comunidades, así como cualesquiera otras sociedades de personas, incluidas las irregulares o de hecho.               
+        #. Los titulares de enriquecimientos provenientes de actividades de hidrocarburos y conexas, tales como la refinación y el transporte, sus regalistas y quienes obtengan enriquecimientos derivados de la exportación de minerales, de hidrocarburos o de sus derivados.
+        #. Las asociaciones, fundaciones, corporaciones y demás entidades jurídicas o económicas no citadas en los literales anteriores.                
+        #. Los establecimientos permanentes, centros o bases fijas situados en el territorio nacional.
+
+    - **Artículo 13:** 
+
+        Las empresas propiedad de la Nación, de los Estados o de los Municipios, estarán sujetas a los impuestos y normas establecidas en esta ley, cualquiera que sea la forma jurídica de su constitución, aunque las Leyes especiales referentes a tales empresas dispongan lo contrario. 
+
+**Retención Municipal para Nota de Crédito de CxP**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar una retención municipal a una  nota de crédito emitida por el proveedor, para ello se deben  tener configuradas las retenciones en ADempiere.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una retención municipal para nota de crédito en  cuentas por pagar se define según su comportamiento, a  continuación se explica el proceder de una **Retención Municipal  para Nota de Crédito de CxP**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Factura de CxP       | Genera una retención |
+    | Base:                |                      | municipal a un socio |
+    |                      |                      | de negocio tipo      |
+    |                      |                      | proveedor.           |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Retención Municipal  | Genera el número de  |
+    | Documento:           | para Nota de Crédito | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "RMNC-".      |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Asignar Facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento de retención municipal aplicado a una nota  de crédito de acuerdo a lo establecido en la ley de retencion  municipal correspondiente a cada municipio.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto de la nota de crédito de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Este dependerá del municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. 
+
+**Declaración de IVA de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar retenciones de IVA a proveedores,  al ser presentadas ante el "**SENIAT**" son consideradas  declaraciones. El incumplimiento de las retenciones y  declaraciones de IVA puede causar multas y sanciones establecidas  en la ley.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una declaración de IVA de cuentas por pagar se  define según su comportamiento, a continuación se explica el  proceder de una **Declaración de IVA de CxP**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de documento base: | Factura de CxP | Genera una declaración  |
+    |                         |                | de retención de IVA     |
+    |                         |                | aplicada a los socios   |
+    |                         |                | de negocios tipo        |
+    |                         |                | proveedor.              |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento involucrando todas las retenciones de IVA  que la empresa aplicó a sus proveedores de acuerdo a lo  establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 41.546 de fecha 14 de diciembre de 2018 la cual dicta la providencia administrativa que establece el calendario de sujetos pasivos especiales y agentes de retención para aquellas obligaciones que deben cumplirse para el año 2019: 
+
+    - **Artículo 1:** Las declaraciones de los Sujetos Pasivos Especiales notificados de esa condición en forma expresa por el Servicio Nacional Integrado de Administración Aduanera y Tributaria, relativas al Impuesto al Valor Agregado, al Impuesto Sobre la Renta, Impuesto a las Actividades de Juegos de Envite o Azar, así como el enteramiento de los montos retenidos por los Agentes de Retención en materia de Impuesto Sobre la Renta e Impuesto al Valor Agregado, deberán ser presentadas y en su caso efectuados los respectivos pagos, según el último dígito del Registro Único de Información Fiscal (R.I.F) y en las fechas de vencimiento del calendario para el año 2019 que se establece a continuación:
+
+        #. Declaración de IVA, anticipos de IVA e ISLR, retenciones de IVA
+            |Calendario1|
+            |Calendario2|
+        #. Retenciones de impuesto sobre la renta
+            |Calendario3|
+
+    - **Artículo 2:** En el caso que cualquiera de las fechas programadas en esta Providencia Administrativa, coincida con un día declarado feriado por el Ejecutivo Nacional, Estadal o Municipal, la declaración y/o pago correspondiente deberá presentarse al día hábil siguiente.
+
+**Declaración de ISLR de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar retenciones de ISLR a  proveedores, al ser presentadas ante el "**SENIAT**" son  consideradas declaraciones. El incumplimiento de las retenciones  y declaraciones ISLR puede causar multas y sanciones establecidas  en la ley.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una declaración de ISLR en cuentas por pagar se  define según su comportamiento, a continuación se explica el  proceder de una **Declaración de ISLR de CxP**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de documento base: | Factura de CxP | Genera una declaración  |
+    |                         |                | de retención de ISLR    |
+    |                         |                | aplicada a los socios   |
+    |                         |                | de negocios tipo        |
+    |                         |                | proveedor.              |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento involucrando todas las retenciones de ISLR  que la empresa aplicó a sus proveedores de acuerdo a lo  establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Basado en Gaceta Oficial N° 41.546 de fecha 14 de diciembre de 2018 la cual dicta la providencia administrativa que establece el calendario de sujetos pasivos especiales y agentes de retención para aquellas obligaciones que deben cumplirse para el año 2019: 
+
+    - **Artículo 1:** Las declaraciones de los Sujetos Pasivos Especiales notificados de esa condición en forma expresa por el Servicio Nacional Integrado de Administración Aduanera y Tributaria, relativas al Impuesto al Valor Agregado, al Impuesto Sobre la Renta, Impuesto a las Actividades de Juegos de Envite o Azar, así como el enteramiento de los montos retenidos por los Agentes de Retención en materia de Impuesto Sobre la Renta e Impuesto al Valor Agregado, deberán ser presentadas y en su caso efectuados los respectivos pagos, según el último dígito del Registro Único de Información Fiscal (R.I.F) y en las fechas de vencimiento del calendario para el año 2019 que se establece a continuación:
+
+        #. Declaración de IVA, anticipos de IVA e ISLR, retenciones de IVA
+            |Calendario1|
+            |Calendario2|
+        #. Retenciones de impuesto sobre la renta
+            |Calendario3|
+
+    - **Artículo 2:** En el caso que cualquiera de las fechas programadas en esta Providencia Administrativa, coincida con un día declarado feriado por el Ejecutivo Nacional, Estadal o Municipal, la declaración y/o pago correspondiente deberá presentarse al día hábil siguiente.
+
+**Declaración Municipal de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es posible generar retenciones municipales a  proveedores, al ser presentadas ante el "**SENIAT**" son  consideradas declaraciones. El incumplimiento de las retenciones  y declaraciones municipales puede causar multas y sanciones  establecidas en la ley.
+
+.. warning:: 
+
+    En ADempiere es importante realizar el proceso para configurar las retenciones y así puedan ser generadas al momento de la retención ya que esta es la prueba ante el "**SENIAT**" de que se esta cumpliendo con lo establecido en la ley. Este documento asegura al ente público "**SENIAT**" que de verdad la empresa realizó el pago de las retenciones.
+
+**Comportamiento**
+
+    En ADempiere una declaración municipal de cuentas por pagar se  define según su comportamiento, a continuación se explica el  proceder de una **Declaración Municipal de CxP**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de documento base: | Factura de CxP | Genera una declaración  |
+    |                         |                | de retención municipal  |
+    |                         |                | aplicada a los socios   |
+    |                         |                | de negocios tipo        |
+    |                         |                | proveedor.              |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Asignar Facturas        | Si             | Asigna automáticamente  |
+    | (Automático):           |                | el documento afectado.  |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un documento involucrando todas las retenciones  municipales que la empresa aplicó a sus proveedores de acuerdo  a lo establecido en la ley del impuesto al valor agregado.
+    - Aparece reflejado de manera ordenada en la gestión de  retenciones de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar las retenciones a declarar.
+    - Aumenta el monto a pagar de la factura de cuentas por pagar.
+
+**Implicación Fiscal**
+
+    Este dependerá del municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. 
+
+**Tipo de Documento Pagaré Bancario de Cuentas por Pagar**
+**********************************************************
+
+Es un documento donde la empresa como cliente se compromete a pagar al proveedor una cantidad monetaria en la fecha acordada, misma fecha se establece en el pagaré.
+
+El tiempo mayormente utilizado para un pagaré es 30, 60 y 90 días.
+
+**Pagaré Bancario de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere el tipo de documento pagaré bancario es realizado en "**Documentos por Pagar**", seleccionando como tipo de documento el pagaré bancario. Este es un proceso que genera deudas a la empresa por prestamos solicitados.
+
+.. warning:: 
+
+    Refleja las deudas a corto plazo que la empresa tiene con un determinado socio de negocio tipo proveedor.
+
+**Comportamiento**
+
+    En ADempiere un pagaré bancario de cuentas por pagar se define según su comportamiento, a continuación se explica el proceder de un **Pagaré Bancario de CxP**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera un pagaré        |
+    |                         |                | bancario a un           |
+    |                         |                | proveedor.              |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Genera deudas a la empresa por prestamos solicitados.
+
+**Implicación Fiscal**
+
+    Basado en el código de comercio, decretado en gaceta extraordinaria N° 475 del 21 de diciembre de 1955.
+
+    - **Artículo 486:** Los pagarés o vales a la orden entre comerciantes o por actos comercio por parte del obligado, deben contener:
+
+        - La fecha.
+        - La cantidad en número y letras.
+        - La época de su pago.
+        - La persona a quien o a cuya orden deben pagarse.
+        - La exposición de si son por valor recibido y en qué especie o por valor en cuenta.
+
+    - **Artículo 487:** Son aplicables a los pagarés a la orden, a que se refiere el artículo anterior, las disposiciones acerca de las letras de cambio sobre:
+
+        - Los plazos en que vence.
+        - El endoso.
+        - Los términos para la presentación, cobro o protesto.
+        - El aval.
+        - El pago.
+        - El pago por intervención.
+        - El protesto.
+        - La prescripción.  
+
+    - **Artículo 488:** El portador de un pagaré protestado por falta de pago tiene derecho a cobrar de los responsables:
+
+        - El valor de la obligación.
+        - Los intereses desde la fecha del protesto.
+        - Los gastos del protesto. 
+        - Los intereses de éstos desde la demanda judicial.
+        - Los gastos judiciales que hubiesen desembolsado. 
+
+**Tipo de Documento Interés Bancario de Cuentas por Pagar**
+***********************************************************
+
+El interés es un dinero que se genera cuando se presentan casos de préstamos, créditos y depósitos, donde el banco como acreedor impone a la empresa como deudor un porcentaje (%) de dinero extra para compensar económicamente la disponibilidad de su dinero.
+
+**Interés Bancario de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere el prorcentaje de interés bancario es aplicado junto con el monto a pagar en el momento, es decir, cada vez que la empresa cancele al acreedor, debe cancelar el porcentaje de lo que debe más el porcentaje de intereses.
+
+.. warning:: 
+
+    Refleja los intereses que la empresa debe pagar por retraso de pago o por préstamo. 
+
+**Comportamiento**
+
+    En ADempiere los interés bancario de cuentas por pagar se definen según su comportamiento, a continuación se explica el proceder de los **Interés Bancario de CxP**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera intereses        |
+    |                         |                | bancarios a la empresa. |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Genera intereses a las deudas de la empresa por prestamos solicitados.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Tipos de Documentos de Cuentas por Pagar Gubernamental**
+**********************************************************
+
+Se refiere a las deudas con entes relacionados con el gobierno que aportan beneficio social a organizaciones, es decir, son aquellos que en pro a brindar servicios públicos a la nación, establecen normas y leyes que los ayudan a regular los procesos y la conducta social de las personas. Así mismo, estos entes gubernamentales se encargan del cumplimiento de las normativas establecidas.
+
+**Cuentas por Pagar Gubernamental**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    El documento cuentas por pagar gubernamental, es definido según su comportamiento en ADempiere y utilizado para las deudas de la empresa por los servicios prestados por entes públicos, como lo son el seguro social, banavih, seniat, inces, entre otros. Estas deudas son provenientes de declaraciones de retenciones, impuestos, entre otros. El incumplimiento en pago de estas deudas puede acarrear multas y sanciones legales establecidas en la ley.
+
+.. warning:: 
+
+    Es importante que las organizaciones cumplan con sus obligaciones con el estado ya que, los entes gubernamentales prestan un servico social a las organizaciones y estas, por así decirlo, deben pagar por la adquisición de los mismos.
+
+**Comportamiento**
+
+    En ADempiere una cuenta por pagar gubernamental se define según su comportamiento, a continuación se explica el proceder de **CxP Gubernamental**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera cuentas por      |
+    |                         |                | pagar gubernamentales a |
+    |                         |                | la empresa.             |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Genera un incremento de las deudas de la empresa correspondiente a entes gubernamentales.
+
+**Implicación Fiscal**
+
+    Basado en la Gaceta Oficial N° 30.800 en la cual se decreta la ley que establece el regimen para la conciliación, compensación y pagos de deudas entre organismos gubernamentales y entre estos y los estados o los municipios.
+
+    - **Artículo 1:** 
+
+        Se entiende por organismos gubernamentales a los efectos de esta Ley:
+
+        #. Los órganos del Poder Nacional y los Institutos Autónomos.
+        #. Las sociedades en las cuales la República, y los Institutos Autónomos tengan participación mayor del cincuenta por ciento del capital social y las fundaciones dirigidas por ellos.
+        #. Las empresas en las cuales las sociedades y fundaciones a que se refiere el ordinal anterior tengan participación mayor del cincuenta por ciento de su capital social y las fundaciones dirigidas por ellos.
+        #. Los Fondos y Patrimonios separados que se crearen de conformidad con la Ley.
+
+        **Parágrafo único:** 
+
+        Los organismos gubernamentales no podrán suministrar bienes y servicios a los Estados sino cuando éstos, en el contrato a que se refiere el artículo 2 de esta Ley, o al solicitar el suministro en el caso previsto en el artículo 6, se sometan expresamente a los términos de la presente Ley. Deberán proceder en la misma forma cuando el suministro se haga a aquellos Municipios que previamente determine el Ministerio de hacienda.
+
+    - **Artículo 2:** 
+
+        Las relaciones que mantengan entre si los organismos gubernamentales en razón de suministros de bienes y servicios que requieran en forma regular y continua, deberán establecerse mediante contratos en los cuales se harán constar las modalidades de los pagos que, en todo caso, deberán ser periódicos y por montos fijos previamente determinados por las partes.
+
+        En los contratos se incluirá una cláusula en la cual se haga constar la obligación de cada organismo de hacer la conciliación a que se refiere el artículo 5 de esta Ley. 
+
+    - **Artículo 5:** 
+
+        Con el fin de establecer la diferencia que existe entre el valor real de los bienes y servicios suministrados y los pagos fijos que se hubieren realizado, cada seis meses, como máximo, los organismos gubernamentales conciliarán los estados de cuenta que deberán enviarle aquellos organismos gubernamentales que, bajo el régimen de contratos a que se refiere el artículo 2 de esta Ley, le suministren bienes o servicios.
+
+        El organismo que resulte con saldo deudor, deberá cancelar su obligación dentro del mes siguiente al término del período conciliado.
+
+    - **Artículo 6:** 
+
+        En el caso de adquisiciones de bienes o servicios no amparados por los contratos a que refiere el artículo 2 de esta Ley, los organismos deudores deberán cancelar sus obligaciones en un plazo máximo de treinta días a partir de la fecha de recepción de los estados de cuenta mensuales a que se refiere el artículo 7.
+
+        La cancelación podrá hacerse mediante la aplicación de mecanismos compensatorios entre los distintos organismos, en los casos en que sea procedentes.
+
+        Si vencido el plazo señalado en el encabezamiento de este artículo, el organismo que recibió los bienes o servicios no hubiere cancelado el monto de su obligación, el organismo acreedor deberá suspender, de inmediato, el suministro que viniere efectuando. Si no lo hiciere, la máxima autoridad del organismo será personalmente responsable de los daños y perjuicios que pudiere ocasionar al mismo, e incurrirá en causal de destitución o despido en los términos del artículo 9 de esta Ley.
+
+        El Ministerio de Hacienda, cuando las circunstancias lo justifiquen, de oficio o a solicitud por parte interesada, podrá ordenar que se continúe el suministro en las condiciones que en cada caso determine.
+
+    - **Artículo 9:** 
+
+        El incumplimiento de las disposiciones de la presente Ley por parte de los funcionarios de los organismos gubernamentales que sean responsables de la tramitación, celebración y ejecución de los contratos y de los pagos que deban hacerse en virtud de los mismos serán causal de destitución o despido, según los casos. 
+
+    - **Artículo 10:** 
+
+        El incumplimiento reiterado de las obligaciones que los organismos gubernamentales mantengan entre sí en los términos de esta Ley, generará responsabilidad de las máximas autoridades de los organismos respectivos en los términos de las leyes correspondientes.
+
+**Tipos de Documentos de Cuentas por Pagar Gastos**
+***************************************************
+
+Son todos aquellos gastos que la empresa esta en la obligación de pagar, como gastos pendientes o gastos acumulados. Los gastos son considerados en algunas ocasiones inversiones, ya que la empresa puede gastar una cantidad de dinero en materia prima pero luego de la producción y venta ese dinero se reintegra con ganancias.
+
+**Cuentas por Pagar Gastos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere los gastos representan egresos monetarios, que muchas veces a futuro son recuperados. A continuación se define su comportamiento en el mismo.
+
+.. warning:: 
+
+    Representan egresos monetarios por deudas o muchas veces inversiones.
+
+**Comportamiento**
+
+    En ADempiere las cuentas por pagar gastos se definen según su comportamiento, a continuación se explica el proceder de **CxP Gastos**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Factura de CxP | Genera cuentas por      |
+    |                         |                | pagar gastos de la      |
+    |                         |                | empresa.                |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Copiar Número de        | Si             | **Copia el número de    |
+    | Documento en Reverso:   |                | documento en el         |
+    |                         |                | reverso** en lugar de   |
+    |                         |                | generar un nuevo número |
+    |                         |                | agregándole el símbolo  |
+    |                         |                | **^** al final del      |
+    |                         |                | número de documento,    |
+    |                         |                | además el monto del     |
+    |                         |                | documento pasa a        |
+    |                         |                | **negativo**.           |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Genera un incremento de las deudas de la empresa correspondiente a gastos de la misma.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Nota de Crédito de Cuentas por Pagar** |Nota de Crédito de Cuentas por Pagar|
+-------------------------------------------------------------------------------
+
+Es un documento que se aplica a una factura con la finalidad de disminuir el monto de la misma, ya sea por concepto de algún tipo de descuento promocional o por devolución de productos comprados.
+
+**Tipos de Documentos Nota de Crédito de Cuentas por Pagar**
+************************************************************
+
+En ADempiere se utilizan cinco (5) diferentes notas de créditos, pertenecientes a las cuentas por pagar y son definidas por su comportamiento.
+
+A continuación se definen las notas de crédito de cuentas por pagar según su comportamiento.
+
+**Nota de Crédito de Cuentas por Pagar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a una factura de cuentas por pagar nacional emitida por un socio del negocio tipo proveedor que se encuentra ubicado dentro del territorio de Venezuela, con la finalidad de disminuir el monto de la misma.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por pagar nacional se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxP Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Disminuye el saldo   |
+    | Base:                | CxP                  | deudor de la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Notas de Créditos de | Genera el número de  |
+    | Documento:           | CxP Nacional         | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**NCCxPN-**".       |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Crédito de CxP       |
+    |                      |                      | Nacional** como un   |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura emitida por un proveedor dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Pagar Importacion**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a una factura de cuentas por pagar importación emitida por un socio del negocio tipo proveedor que se encuentra ubicado fuera del territorio de Venezuela, con la finalidad de disminuir el monto de la misma.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por pagar importación se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxP Importación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Disminuye el saldo   |
+    | Base:                | CxP                  | deudor de la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Notas de Créditos de | Genera el número de  |
+    | Documento:           | CxP Importaciones    | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**NCCxPIM-**".      |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Crédito de CxP       |
+    |                      |                      | Importación** como   |
+    |                      |                      | un documento fiscal. |
+    +----------------------+----------------------+----------------------+
+    | Asignar facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura emitida por un proveedor fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Pagar Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a una factura de cuentas por pagar intercompañía emitida por otra empresa perteneciente al mismo consorcio, con la finalidad de disminuir el monto de la misma.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por pagar intercompañía se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxP Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Disminuye el saldo   |
+    | Base:                | CxP                  | deudor de la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Notas de Créditos de | Genera el número de  |
+    | Documento:           | CxP Intercompañía    | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**NCCxPIC-**".      |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Crédito de CxP       |
+    |                      |                      | Intercompañía** como |
+    |                      |                      | un documento fiscal. |
+    +----------------------+----------------------+----------------------+
+    | Asignar facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura emitida por otra empresa perteneciente a un mismo consorcio.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Pagar Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a la factura de cuentas por pagar empleado realizada por el trabajador a la empresa por una venta determinada, con la finalidad de disminuir el monto de la misma.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por pagar empleado se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxP Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Disminuye el saldo   |
+    | Base:                | CxP                  | deudor de la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Notas de Créditos de | Genera el número de  |
+    | Documento:           | CxP Empleados        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**NCCxPE-**".       |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Crédito de CxP       |
+    |                      |                      | Empleado** como un   |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura emitida por un empleado de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Nota de Crédito de Cuentas por Pagar Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento legal que se aplica a una factura de cuentas por pagar indirecta emitida por un socio del negocio tipo proveedor a la empresa cuando esta adquiere un compromiso de compra con entrega indirecta, con la finalidad de disminuir el monto de la factura.
+
+.. warning:: 
+
+    Permite su contabilización generando el descuento posterior a su aplicación en la factura.
+
+**Comportamiento**
+
+    En ADempiere una nota de crédito de cuentas por pagar indirecta se define según su comportamiento, a continuación se explica el proceder de una **Nota de Crédito de CxP Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Crédito de   | Disminuye el saldo   |
+    | Base:                | CxP                  | deudor de la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Notas de Créditos de | Genera el número de  |
+    | Documento:           | CxP Indirecta        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre               |
+    |                      |                      | "**NCCxPI-**".       |
+    +----------------------+----------------------+----------------------+
+    | Copiar Número de     | Si                   | **Copia el número de |
+    | Documento en         |                      | documento en el      |
+    | Reverso:             |                      | reverso** en lugar   |
+    |                      |                      | de generar un nuevo  |
+    |                      |                      | número agregándole   |
+    |                      |                      | el símbolo **^** al  |
+    |                      |                      | final del número de  |
+    |                      |                      | documento, además el |
+    |                      |                      | monto del documento  |
+    |                      |                      | pasa a **negativo**. |
+    +----------------------+----------------------+----------------------+
+    | Documento Fiscal:    | Si                   | Genera la **Nota de  |
+    |                      |                      | Crédito de CxP       |
+    |                      |                      | Indirecta** como un  |
+    |                      |                      | documento fiscal.    |
+    +----------------------+----------------------+----------------------+
+    | Asignar facturas     | Si                   | Asigna               |
+    | (Automático):        |                      | automáticamente el   |
+    |                      |                      | documento afectado.  |
+    +----------------------+----------------------+----------------------+
+    | Generar Nro de       | Si                   | Genera el número de  |
+    | Control Al Imprimir: |                      | control establecido  |
+    |                      |                      | en la **Secuencia de |
+    |                      |                      | Nro de Control**.    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+    - Convierte el documento en un documento fiscal al estar en estado completo, generando una nota de crédito fiscal.
+    - Disminuye el monto total a cancelar de una factura emitida por un proveedor cuando la empresa adquiere un compromiso de compra con entrega indirecta.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la providencia que establece las normas generales de emisión de facturas y otros documentos, en gaceta oficial número 38.997, el cual estipula:
+
+    - **Artículo 1:** La providencia tiene por objeto establecer normas para la emisión de facturación, órdenes de entrega o guías de despacho, notas de débito y notas de crédito, de conformidad con la normativa Que regula la tributación nacional atribuida al Servicio Nacional Integrado de Administración Aduanera y Tributaria (SENIAT). 
+
+    - **Artículo 22:** Las notas de débito o de crédito deben emitirse en el caso de ventas de bienes o prestaciones de servicios que quedaren sin efecto parcial o totalmente u originaren un ajuste, por cualquier causa, y por las cuales se otorgaron facturas. El original y las copias de las notas de débito y de crédito, deben contener el enunciado: "Nota de Débito" o "Nota de Crédito". 
+
+    - **Artículo 23:** Las notas de débito y de crédito emitidas a través de los medios señalados en los numerales 1 y 2 del Artículo 6 de esta Providencia, deben cumplir con los requisitos previstos en el Artículo 13 o en el Artículo 15 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben hacer referencia a la fecha, número y monto de la factura que soportó la operación.
+
+    - **Artículo 24:** Las notas de débito y de crédito emitidas a través de Máquinas Fiscales deben tener una numeración consecutiva y única y contener los requisitos señalados en el Artículo 14 o en el Artículo 16 de esta Providencia, según sea el caso, con excepción de lo establecido en el numeral 1 de los referidos artículos. Igualmente, deben contener:
+
+        #. Nombre y apellido o razón social y número de Registro Único de Información Fiscal (RIF) o cédula de identidad del comprador.
+        #. Número y fecha de la factura que soportó la operación.
+        #. Número de Registro de la Máquina Fiscal a través de la cual se emitió la factura que soportó la operación. 
+        #. Número de Control de la factura que soportó la operación, Si ésta fue emitida sobre un formato o una forma libre.
+
+        Lo anterior con intención de controlar el proceso de generación de notas de débito aplicadas a facturas
+
+**Comisión de Ventas** |Comisión de Ventas|
+-------------------------------------------
+
+Es el documento donde se reflejan las comisiones de ventas que le corresponden a los trabajadores de la empresa. Las comisiones son incentivos que las empresas le ofrecen a sus trabajadores para que estos se motiven a vender más, mientras más ventas tenga una empresa más ganancias monetarias posee.
+
+**Tipo de Documento Comisión de Ventas**
+****************************************
+
+En ADempiere se utiliza el documento comisión de ventas para controlar contablemente las comisiones por motivo de las ventas de los productos y servicios.
+
+A continuación se define el comportamiento del documento comisión de ventas.
+
+**Comisión de Venta**
+~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento utilizado en la empresa para controlar y dar seguimiento a las comisiones que los trabajadores se ganan por las ventas de los productos y servicios.
+
+.. warning:: 
+
+    Las comisiones por ventas son ofrecidas por las empresas a sus trabajadores como motivación para que estos vendan más productos y servicios.
+
+**Comportamiento**
+
+    En ADempiere la comisión de venta se define según su comportamiento, a continuación se explica el proceder de una **Comisión de Venta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Secuencia de         | Genera una comisión  |
+    | Base:                | Comisión             | al trabajador por    |
+    |                      |                      | ventas realizadas.   |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Secuencia de         | Genera el número de  |
+    | Documento:           | Comisión             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 50.000 y su       |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**SC-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de ventas de ADempiere.
+    - Genera una comisión sobre las ventas realizadas por el trabajador.
+    - Aumenta el monto total a pagar a un empleado de la empresa por las ventas de los productos y servicios pertenecientes a la misma.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Selección de Pago** |Selección de Pago de Cuentas por Pagar|
+--------------------------------------------------------------
+
+Este documento permite seleccionar los documentos por pagar que posea la empresa, agrupándolos para luego ser pagados todos o algunos de ellos, dependiendo de la cantidad de pagos que sean autorizados.
+
+**Tipo de Documento Solicitud de Pagos de Cuentas por Pagar**
+*************************************************************
+
+Es un documento que se elabora cuando no se poseen todos los datos necesarios para realizar la selección de pagos, en este documento se solicita que se paguen los documentos agrupados. Un caso de solicitud de pagos, podría ser cuando no se sabe exactamente desde que cuenta se realizarán los pagos.
+
+**Solicitud de Pagos de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un proceso realizado por el departamento de cuentas por pagar o tesorería de una empresa. Dicho departamento se encarga de realizar la solicitud de pagos y esperar autorización de sus superiores para proceder a realizar la selección de pagos.
+
+.. warning:: 
+
+    Posterior a la elaboración del documento selección de pagos y con una previa autorización se puede realizar el pago de uno, algunos o todos los documentos agrupados en la selección de pago.
+
+**Comportamiento**
+
+    En ADempiere la solicitud de pagos se define según su comportamiento, a continuación se explica el proceder de **Solicitud de Pagos**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Selección de Pago    | Genera un documento  |
+    | Base:                | CxP                  | de **Solicitud de    |
+    |                      |                      | Pagos** a la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Solicitud de Pagos   | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**SOP-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Agrupa los documentos por pagar que la empresa posee, solicitando autorización para ser pagados.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Tipo de Documento Selección de Pagos de Cuentas por Pagar**
+*************************************************************
+
+Es un documento que se elabora cuando se poseen todos los datos necesarios para realizar la selección de pagos, en este documento se agrupan todas las cuentas por pagar que posee la empresa. Posterior a este proceso, se procede a realizar el pago.
+
+**Selección de Pagos de Cuentas por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un proceso realizado por el departamento de cuentas por pagar o tesorería de una empresa. Dicho departamento se encarga de realizar la selección de pagos para luego proceder a realizar el pago, si tiene los permisos para realizar el proceso de pago.
+
+.. warning:: 
+
+    Posterior a la elaboración del documento selección de pagos y con una previa autorización se puede realizar el pago de uno, algunos o todos los documentos agrupados en la selección de pago.
+
+**Comportamiento**
+
+    En ADempiere la selección de pagos de cuentas por pagar se define según su comportamiento, a continuación se explica el proceder de **Selección de Pagos de CxP**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Selección de Pago    | Genera un documento  |
+    | Base:                | CxP                  | de **Selección de    |
+    |                      |                      | Pagos** a la         |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Selección de Pago    | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**SP-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Agrupa los documentos por pagar que la empresa posee.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Pagos** |Pagos|
+-----------------
+
+Son todos aquellos egresos monetarios por las compras de productos o adquisiciones de servicios de la empresa. Adicional a ello, se considera pago la cancelación de las deudas que una empresa posee con los socios de negocios por préstamos u otros motivos que generen cuentas por pagar.
+
+**Tipos de Documentos Pago de Cuentas por Pagar**
+*************************************************
+
+En ADempiere un pago es realizado previo a una autorización, siendo este muy delicado por tratarse del egreso monetario de la empresa. En general son utilizados cinco (5) tipos de documentos de pago con diferentes comportamientos que se definen a continuación.
+
+**Pago de Cuentas por Pagar Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere al pago de las deudas que la empresa tiene con los socios de negocio a nivel nacional, este proceso se puede realizar de una, varias o todas la deudas que posee la misma.
+
+.. warning:: 
+
+    Este tipo de documento no incluye las cuentas por pagar con motivo de reembolso, viáticos o gastos directos que posee la empresa. 
+
+**Comportamiento**
+
+    En ADempiere un pago de cuentas por pagar nacional se define según su comportamiento, a continuación se explica el proceder de un **Pago de CxP Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Pagos de CxP         | Crea un documento de |
+    | Base:                |                      | pago a un socio de   |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Pagos CxP Gastos     | Genera el número de  |
+    | Documento:           | Nacionales           | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**PCxPN-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso monetario de la empresa por la compra de productos y servicios dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Pago de Cuentas por Pagar Internacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere al pago de las deudas que la empresa tiene con los socios de negocio a nivel internacional, el pago de estas se pueden realizar bajo un proceso de selección de pagos con previa autorización.
+
+.. warning:: 
+
+    Este tipo de documento no incluye las cuentas por pagar con motivo de reembolso, viáticos o gastos directos que posee la empresa. 
+
+**Comportamiento**
+
+    En ADempiere un pago de cuentas por pagar internacional se define según su comportamiento, a continuación se explica el proceder de un **Pago de CxP Internacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Pagos de CxP         | Crea un documento de |
+    | Base:                |                      | pago a un socio de   |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Pagos CxP Gastos     | Genera el número de  |
+    | Documento:           | Internacional        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**PCxPI-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso monetario de la empresa por la compra de productos y servicios fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+    No posee implicación fiscal por no ser un documento legal.
+
+**Pago de Cuentas por Pagar Gasto Directo**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a la cancelación de las cuentas por pagar correspondiente a los gastos directos de la empresa. Entendiendo como gasto directo lo utilizado para realizar los productos o servicios.
+
+.. warning:: 
+
+    Con este tipo de documento se reflejan solamente los pagos por motivo de gasto directo.
+
+**Comportamiento**
+
+    En ADempiere un pago de cuentas por pagar gasto directo se define según su comportamiento, a continuación se explica el proceder de un **Pago de CxP Gasto Directo**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Pagos de CxP         | Crea un documento de |
+    | Base:                |                      | pago a un socio de   |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Pagos CxP Gastos     | Genera el número de  |
+    | Documento:           | Directos             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**PCxCG-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso monetario de la empresa por concepto de gasto directo.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Pago de Cuentas por Pagar Reembolso**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a todas las cuentas por pagar que la empresa posee como reembolso. Entendiendo como reembolso el reintegro monetario pagado anteriormente por un determinado socio de negocio.
+
+.. warning:: 
+
+    Con este tipo de documento se reflejan solamente los pagos por motivo de reembolso.
+
+**Comportamiento**
+
+    En ADempiere un pago de cuentas por pagar reembolso se define según su comportamiento, a continuación se explica el proceder de un **Pago de CxP Reembolso**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Pagos de CxP         | Crea un documento de |
+    | Base:                |                      | pago a un socio de   |
+    |                      |                      | negocio determinado. |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Pagos CxP Gastos     | Genera el número de  |
+    | Documento:           | Reembolso            | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**PCxPR-**". |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso monetario de la empresa por concepto de reembolso.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Pago de Cuentas por Pagar Viáticos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a todas las cuentas por pagar que la empresa posee como viáticos. Entendiendo como viáticos una cantidad de dinero que se le facilita a una persona para cubrir los gastos de un viaje determinado.
+
+.. warning:: 
+
+    Con este tipo de documento se reflejan solamente los pagos por motivo de viáticos. 
+
+**Comportamiento**
+
+    En ADempiere un pago de cuentas por pagar viáticos se define según su comportamiento, a continuación se explica el proceder de un **Pago de CxP Viáticos**:
+
+    +-----------------------+--------------------+-----------------------+
+    | **Campo**             | **Valor**          | **Comportamiento en   |
+    |                       |                    | ADempiere**           |
+    +=======================+====================+=======================+
+    | Tipo de Documento     | Pagos de CxP       | Crea un documento de  |
+    | Base:                 |                    | pago a un socio de    |
+    |                       |                    | negocio determinado.  |
+    +-----------------------+--------------------+-----------------------+
+    | Documento Controlado: | Si                 | Mantiene una          |
+    |                       |                    | **Secuencia de        |
+    |                       |                    | Control**.            |
+    +-----------------------+--------------------+-----------------------+
+    | Secuencia del         | Pagos CxP Viáticos | Genera el número de   |
+    | Documento:            |                    | secuencia establecido |
+    |                       |                    | para el orden de los  |
+    |                       |                    | tipos de documentos   |
+    |                       |                    | de ADempiere,         |
+    |                       |                    | configurado en la     |
+    |                       |                    | secuencia de          |
+    |                       |                    | documentos y es       |
+    |                       |                    | incrementable en 1,   |
+    |                       |                    | en este caso la       |
+    |                       |                    | secuencia comienza en |
+    |                       |                    | 1.000.000 y su        |
+    |                       |                    | prefijo esta          |
+    |                       |                    | compuesto por las     |
+    |                       |                    | iniciales de su       |
+    |                       |                    | nombre "**PCxPV-**".  |
+    +-----------------------+--------------------+-----------------------+
+    | Copias del Documento: | 1                  | Establece el número   |
+    |                       |                    | de copias a imprimir. |
+    +-----------------------+--------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso monetario de la empresa por concepto de viáticos.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Asignación de Pagos** |Asignación de Pagos|
+---------------------------------------------
+
+Es el documento que la empresa elabora previo al pago recibido o realizado por concepto de anticipo, con la finalidad de asociarlo a una factura determinada y disminuir el monto total a pagar de la misma.
+
+**Tipo de Documento Asignación de Pagos**
+*****************************************
+
+En ADempiere es el documento que enlaza el pago de un anticipo con una factura. Es definido según su comportamiento y explicado a continuación.
+
+**Asignación de Pagos**
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento que permite asociar un pago recibido por el socio del negocio tipo cliente a una factura determinada a nombre del mismo.
+
+    Adicional a ello, el documento permite reflejar un pago realizado por la empresa a un socio del negocio tipo proveedor por concepto de anticipo y asociarlo a una factura determinada.
+
+.. warning:: 
+
+    Es utilizado por la empresa cuando en una compra/venta se solicita un anticipo del monto total a pagar de una factura.
+
+**Comportamiento**
+
+    En ADempiere una asignación de pago se define según su comportamiento, a continuación se explica el proceder de una **Asignación de Pago**:
+
+    +-----------------------+--------------------+-----------------------+
+    | **Campo**             | **Valor**          | **Comportamiento en   |
+    |                       |                    | ADempiere**           |
+    +=======================+====================+=======================+
+    | Tipo de documento     | Asignación de Pago | Asocia un pago        |
+    | Base:                 |                    | determinado a una     |
+    |                       |                    | factura.              |
+    +-----------------------+--------------------+-----------------------+
+    | Documento Controlado: | Si                 | Mantiene una          |
+    |                       |                    | **Secuencia de        |
+    |                       |                    | Control**.            |
+    +-----------------------+--------------------+-----------------------+
+    | Copias del Documento: | 1                  | Establece el número   |
+    |                       |                    | de copias a imprimir. |
+    +-----------------------+--------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el egreso o ingreso monetario por los pagos que la empresa realiza o recibe como anticipos de las facturas.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+    - Asocia un pago realizado o recibido a una factura determinada.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Compras** |Compras|
+---------------------
+
+Son todos los ingresos de productos y servicios, donde se entrega una cantidad monetaria como pago de ellos. Para que una empresa pueda realizar compras, necesita pasar por un proceso de análisis y selección de productos con la intención de conseguir la mejor calidad posible, siempre que el costo monetario no sea tan alto.
+
+**Tipos de Documentos Recepción de Compras**
+********************************************
+
+Los documentos de recepción en ADempiere controlan el ingreso de los productos comprados por la empresa. Existen cinco (5) diferentes documentos de recepción y cada uno define un comportamiento diferente que a continuación se describe.
+
+**Recepción Nacional**
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se reciben los productos o servicios comprados a nivel nacional, es decir, en todo el territorio de Venezuela.
+
+.. warning:: 
+
+    En ADempiere los documentos de recepción de compras controlan el ingreso de productos al almacén.        
+
+**Comportamiento**
+
+    En ADempiere la recepción nacional se define según su comportamiento, a continuación se explica el proceder de **Recepción Nacional**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera un documento  |
+    | Base:                | Productos            | de **Recepción       |
+    |                      |                      | Nacional** a la      |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Recepción Nacionales | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RC-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrada al almacén de los productos y servicios comprados a proveedores dentro de Venezuela.
+    - Permite su contabilización a traves de la existencia de los productos o servicios en almacén.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Recepción Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se reciben los productos o servicios comprados fuera del territorio de Venezuela, se realiza la importación a Venezuela de los productos o servicios comprados para luego realizar la recepción de los mismos.
+
+.. warning:: 
+
+    En ADempiere los documentos de recepción de compras controlan el ingreso de productos al almacén.        
+
+**Comportamiento**
+
+    En ADempiere la recepción importación se define según su comportamiento, a continuación se explica el proceder de **Recepción Importación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera un documento  |
+    | Base:                | Productos            | de **Recepción       |
+    |                      |                      | Importación** a la   |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Recepción            | Genera el número de  |
+    | Documento:           | Importaciones        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RIM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrada al almacén de los productos y servicios comprados a proveedores fuera de Venezuela.
+    - Permite su contabilización a traves de la existencia de los productos o servicios en almacén.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Recepción Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere una recepción intercompañía es cuando se reciben los productos o servicios comprados a otras empresas pertenecientes al mismo consorcio.
+
+.. warning:: 
+
+    En ADempiere los documentos de recepción de compras controlan el ingreso de productos al almacén.        
+
+**Comportamiento**
+
+    En ADempiere la recepción intercompañía se define según su comportamiento, a continuación se explica el proceder de **Recepción Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera un documento  |
+    | Base:                | Productos            | de **Recepción       |
+    |                      |                      | Intercompañía** a la |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Recepción            | Genera el número de  |
+    | Documento:           | Intercompañía        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RIC-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrada al almacén de los productos y servicios comprados a empresas pertenecientes al mismo consorcio.
+    - Permite su contabilización a traves de la existencia de los productos o servicios en almacén.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Recepción Empleado**
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se reciben los productos y servicios que la empresa le compra a sus propios trabajadores. La recepción de la compra se realiza dentro de la emprea.
+
+.. warning:: 
+
+    En ADempiere los documentos de recepción de compras controlan el ingreso de productos al almacén.        
+
+**Comportamiento**
+
+    En ADempiere la recepción empleado se define según su comportamiento, a continuación se explica el proceder de **Recepción Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera un documento  |
+    | Base:                | Productos            | de **Recepción       |
+    |                      |                      | Empleado** a la      |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Recepción Empleados  | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**REM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrada al almacén de los productos y servicios comprados a empleados de la empresa.
+    - Permite su contabilización a traves de la existencia de los productos o servicios en almacén.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Recepción Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se compran productos o servicios a un vendedor determinado, pero se reciben los productos o servicios del proveedor.
+
+.. warning:: 
+
+    En ADempiere los documentos de recepción de compras controlan el ingreso de productos al almacén.        
+
+**Comportamiento**
+
+    En ADempiere la recepción indirecta se define según su comportamiento, a continuación se explica el proceder de **Recepción Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Recepción de         | Genera un documento  |
+    | Base:                | Productos            | de **Recepción       |
+    |                      |                      | Indirecta** a la     |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Recepción Indirecta  | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**RIN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la entrada al almacén de los productos y servicios comprados con entrega indirecta.
+    - Permite su contabilización a traves de la existencia de los productos o servicios en almacén.
+    - Aparece reflejado de manera ordenada en la gestión de compras de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Tipos de Documentos Devolución de Compras**
+*********************************************
+
+Los documentos de devolución en ADempiere controlan el egreso de los productos comprados por la empresa. Existen cinco (5) diferentes documentos de devolución de compras y cada uno define un comportamiento diferente que a continuación se describe.
+
+**Devolución Proveedor Nacional**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de los productos comprados o servicios adquiridos de proveedores ubicados dentro del territorio nacional.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el egreso de productos del almacén por devolución a proveedor.
+
+**Comportamiento**
+
+    En ADempiere la devolución proveedor nacional se define según su comportamiento, a continuación se explica el proceder de **Devolución Proveedor Nacional**:
+
+    +----------------------+---------------------+----------------------+
+    | **Campo**            | **Valor**           | **Comportamiento en  |
+    |                      |                     | ADempiere**          |
+    +======================+=====================+======================+
+    | Tipo de Documento    | Entrega de Producto | Genera un documento  |
+    | Base:                |                     | de **Devolución      |
+    |                      |                     | Proveedor Nacional** |
+    |                      |                     | a la empresa.        |
+    +----------------------+---------------------+----------------------+
+    | Documento            | Si                  | Mantiene una         |
+    | Controlado:          |                     | \**Secuencia de      |
+    |                      |                     | Control.**opción     |
+    |                      |                     | mantiene una         |
+    |                      |                     | **Secuencia de       |
+    |                      |                     | Control.**           |
+    +----------------------+---------------------+----------------------+
+    | Secuencia del        | Devolución Nacional | Genera el número de  |
+    | Documento:           |                     | secuencia            |
+    |                      |                     | establecido para el  |
+    |                      |                     | orden de los tipos   |
+    |                      |                     | de documentos de     |
+    |                      |                     | ADempiere,           |
+    |                      |                     | configurado en la    |
+    |                      |                     | secuencia de         |
+    |                      |                     | documentos y es      |
+    |                      |                     | incrementable en 1,  |
+    |                      |                     | en este caso la      |
+    |                      |                     | secuencia comienza   |
+    |                      |                     | en 1.000.000 y su    |
+    |                      |                     | prefijo esta         |
+    |                      |                     | compuesto por las    |
+    |                      |                     | iniciales de su      |
+    |                      |                     | nombre "**DN-**".    |
+    +----------------------+---------------------+----------------------+
+    | Copias del           | 1                   | Establece el número  |
+    | Documento:           |                     | de copias a          |
+    |                      |                     | imprimir.            |
+    +----------------------+---------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios comprados a proveedores dentro de Venezuela.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución Proveedor Importación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de los productos comprados o servicios adquiridos de proveedores ubicados fuera del territorio de Venezuela.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el egreso de productos del almacén por devolución a proveedor.
+
+**Comportamiento**
+
+    En ADempiere la devolución proveedor importación se define según su comportamiento, a continuación se explica el proceder de **Devolución Proveedor Importación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera un documento  |
+    | Base:                |                      | de **Devolución      |
+    |                      |                      | Proveedor            |
+    |                      |                      | Importación** a la   |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución           | Genera el número de  |
+    | Documento:           | Importación          | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DIM-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios comprados a proveedores fuera de Venezuela.
+    - Permite su contabilización en moneda extranjera convertida a moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución Proveedor Intercompañía**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se devuelve a la otra empresa perteneciente al mismo consorcio, los productos comprados o servicios adquiridos de la misma.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el egreso de productos del almacén por devolución a proveedor.
+
+**Comportamiento**
+
+    En ADempiere la devolución proveedor intercompañía se define según su comportamiento, a continuación se explica el proceder de **Devolución Proveedor Intercompañía**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera un documento  |
+    | Base:                |                      | de **Devolución      |
+    |                      |                      | Proveedor            |
+    |                      |                      | Intercompañía** a la |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución           | Genera el número de  |
+    | Documento:           | Intercompañía        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DIN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios comprados empresas pertenecientes a un mismo consorcio.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución Proveedor Empleado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a las devoluciones de productos comprados o servicios adquiridos de empleados de la misma empresa.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el egreso de productos del almacén por devolución a proveedor.
+
+**Comportamiento**
+
+    En ADempiere la devolución proveedor empleado se define según su comportamiento, a continuación se explica el proceder de **Devolución Proveedor Empleado**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera un documento  |
+    | Base:                |                      | de **Devolución      |
+    |                      |                      | Proveedor Empleado** |
+    |                      |                      | a la empresa.        |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Empleados | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DE-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios comprados a empleados de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Devolución Proveedor Indirecta**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es cuando se devuelve al proveedor los productos comprados o servicios adquiridos de forma indirecta o con entrega indirecta.
+
+.. warning:: 
+
+    En ADempiere los documentos de devolución controlan el egreso de productos del almacén por devolución a proveedor.
+
+**Comportamiento**
+
+    En ADempiere la devolución proveedor indirecta se define según su comportamiento, a continuación se explica el proceder de **Devolución Proveedor Indirecta**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Entrega de Producto  | Genera un documento  |
+    | Base:                |                      | de **Devolución      |
+    |                      |                      | Proveedor            |
+    |                      |                      | Indirecta** a la     |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control.**           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Devolución Indirecta | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DI-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja la devolución de los productos y servicios comprados con entrega indirecta.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de devoluciones de ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Asignar OC** |Asignar OC|
+---------------------------
+
+Es el tipo de documento utilizado en las empresas cuando se esta haciendo el cierre del mes, para asignar una orden de compra a un documento de recepción cuando la operación no fue realizada en el momento de su ciclo normal en ADempiere, permitiendo con este proceso realizar un cruce de documentos a final del mes.
+
+**Tipo de Documento Asignar OC**
+********************************
+
+En ADempiere el documento cumple con el proceso de asociar una recepción de productos y servicios a una orden de compra, así como también a una factura.
+
+**Asignar OC**
+~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento para solventar un problema de asignación pero lo más recomendable es que se realice su proceso normal de asignación de orden de compra.
+
+.. warning:: 
+
+    Todos los documentos de las ordenes de compra deben estar asignadas a las recepciones o facturas correspondientes cuando se realice el cierre de mes en la empresa.
+
+**Comportamiento**
+
+    En ADempiere el tipo de documento asignar OC se define según su comportamiento, a continuación se explica el proceder del tipo de documento **Asignar OC**:
+
+    +-----------------------+------------+---------------------------+
+    | **Campo**             | **Valor**  | **Comportamiento en       |
+    |                       |            | ADempiere**               |
+    +=======================+============+===========================+
+    | Tipo de Documento:    | Asignar OC | Genera un documento de    |
+    |                       |            | **Asignar OC** a una      |
+    |                       |            | empresa.                  |
+    +-----------------------+------------+---------------------------+
+    | Copias del Documento: | 1          | Establece el número de    |
+    |                       |            | copias a imprimir.        |
+    +-----------------------+------------+---------------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un enlace entre un documento orden de compra y un documento recepción correspondiente a la misma operación.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Extracto Bancario** |Extracto Bancario|
+-----------------------------------------
+
+Es un documento donde se encuentran reflejados los movimientos que se realizaron en una cuenta, el mismo puede ser generado por el titular de la cuenta. Este documento se genera cada cierto tiempo, mayormente se hace mensual.
+
+En las empresas es utilizado para comparar los valores economicos con los movimientos realizados.
+
+**Tipo de Documento Extracto Bancario**
+***************************************
+
+En ADempiere es un proceso que solo puede ser realizado por el departamento de finanzas, ya que para acceder al mismo se deben tener los permisos necesarios. Solamente el departamento de finanzas es responsable del extracto bancario.
+
+El tipo de documento extracto bancario se define según su comportamiento y es explicado a continuación.
+
+**Cierre de Caja**
+~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el reporte detallado que se realiza en la empresa comparando la salida de los productos y servicios con el dinero en caja, es decir, lo vendido en el día con el dinero existente en caja. Muchas veces es llamado cuadre de saldos porque se comprueba que las ventas cuadren exactamente con el dinero recibido.
+
+.. warning:: 
+
+    El cierre de caja debe hacerse diariamente en una empresa, así se puede apreciar el flujo financiero de la empresa.
+
+**Comportamiento**
+
+    En ADempiere el cierre de caja se define según su comportamiento, a continuación se explica el proceder del **Cierre de Caja**:
+
+    +-----------------------+-------------------+-----------------------+
+    | **Campo**             | **Valor**         | **Comportamiento en   |
+    |                       |                   | ADempiere**           |
+    +=======================+===================+=======================+
+    | Tipo de Documento     | Extracto Bancario | Genera un documento   |
+    | Base:                 |                   | de **Cierre de Caja** |
+    |                       |                   | a la empresa.         |
+    +-----------------------+-------------------+-----------------------+
+    | Documento Controlado: | Si                | Mantiene una          |
+    |                       |                   | **Secuencia de        |
+    |                       |                   | Control**.            |
+    +-----------------------+-------------------+-----------------------+
+    | Secuencia del         | Cierre de Caja    | Genera el número de   |
+    | Documento:            |                   | secuencia establecido |
+    |                       |                   | para el orden de los  |
+    |                       |                   | tipos de documentos   |
+    |                       |                   | de ADempiere,         |
+    |                       |                   | configurado en la     |
+    |                       |                   | secuencia de          |
+    |                       |                   | documentos y es       |
+    |                       |                   | incrementable en 1,   |
+    |                       |                   | en este caso la       |
+    |                       |                   | secuencia comienza en |
+    |                       |                   | 2 y su prefijo esta   |
+    |                       |                   | compuesto por las     |
+    |                       |                   | iniciales de su       |
+    |                       |                   | nombre "**CC-**".     |
+    +-----------------------+-------------------+-----------------------+
+    | Copias del Documento: | 1                 | Establece el número   |
+    |                       |                   | de copias a imprimir. |
+    +-----------------------+-------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un reporte de los movimientos de la caja realizados en el día.
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+    
+No posee implicación fiscal por no ser un documento legal.
+
+**Extracto Bancario**
+~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento generado por el banco, donde se encuentran expresados todos los movimientos que se realizaron en un periodo determinado. Para una empresa es el estado de cuenta utilizado para comparar los reportes generados en el cierre caja de la misma, con el dinero disponible en la cuenta bancaria.
+
+.. warning:: 
+
+    Mayormente el extracto bancario es generado mensualmente en las empresas, para los ultimos o primeros del mes.
+
+**Comportamiento**
+
+    En ADempiere el extracto bancario se define según su comportamiento, a continuación se explica el proceder del **Extracto Bancario**:
+
+    +-----------------------+-------------------+-----------------------+
+    | **Campo**             | **Valor**         | **Comportamiento en   |
+    |                       |                   | ADempiere**           |
+    +=======================+===================+=======================+
+    | Tipo de Documento     | Extracto Bancario | Genera un documento   |
+    | Base:                 |                   | de **Extracto         |
+    |                       |                   | Bancario** a la       |
+    |                       |                   | empresa.              |
+    +-----------------------+-------------------+-----------------------+
+    | Documento Controlado: | Si                | Mantiene una          |
+    |                       |                   | **Secuencia de        |
+    |                       |                   | Control**.            |
+    +-----------------------+-------------------+-----------------------+
+    | Copias del Documento: | 1                 | Establece el número   |
+    |                       |                   | de copias a imprimir. |
+    +-----------------------+-------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un reporte de los movimientos en la cuenta bancaria.
+    - Aparece reflejado de manera ordenada en gestión de saldos pendientes de ADempiere.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Nómina** |Nómina|
+-------------------
+
+Es el listado de trabajadores que desempeñan algún tipo de actividad en una empresa. Cada empresa debe manejar diferentes nóminas, por lo que son clasificadas en nómina regular, turnos mixtos, de alimentación, bono especial, entre otras utilizadas para cancelar las pagos correspondientes a los trabajadores de las empresas.
+
+Cada una de las nóminas descriptas anteriormente representa los pagos de salarios y beneficios que la empresa le hace a sus trabajadores como lo indica la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076. La cancelación o pago de la nómina se realiza dependiendo de las reglas del negocio, es decir, la empresa puede cancelar nómina semanal, quincenal o mensual.
+
+**Tipo de Documento Nómina**
+****************************
+
+En ADempiere este tipo de documento es utilizado para cancelar a los trabajadores los sueldos, salarios, utilidades, comisiones, bonos, retroactivos, vacaciones y prestaciones sociales, como pago de las actividades desempeñadas en la empresa.
+
+**Nómina Bono de Alimentación**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere la cancelación de la nómina del bono de alimentación  o cesta ticket debe ser realizada por el personal de recursos  humanos que tenga los permisos necesarios para el proceso de  nómina, la misma se debe cancelar quincenalmente.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina bono de alimentación se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Bono de Alimentación**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nómina               | Genera un documento  |
+    | Base:                |                      | de **Nómina Bono de  |
+    |                      |                      | Alimentación** a la  |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Nómina Bono de       | Genera el número de  |
+    | Documento:           | Alimentación         | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.002 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**NBA-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina bono de  alimentación según lo establecido en la LOTTT, en su artículo  104.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 104 y 529 donde se considera obligatorio lo siguiente:
+
+    - **Artículo 104:** 
+
+        **Salario**
+
+        **Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda.**
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial.
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 529:**
+
+        **Infracción a la normativa sobre alimentación y centros de educación inicial**
+
+        El patrono o patrona que viole la normativa relacionada con la Ley de Alimentación de los trabajadores y de las trabajadoras, se le impondrá una multa no menor del equivalente de sesenta unidades tributarias, ni mayor del equivalente a ciento veinte unidades tributarias.
+
+**Nómina Mensual**
+~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un listado de trabajadores de la empresa a los  que se les cancela el sueldo cada treinta (30) días. Este proceso  de nómina mensual debe ser realizado por el personal de recursos  humanos que tenga los permisos necesarios para el proceso de  nómina.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina mensual se define según su comportamiento,  a continuación se explica el proceder de **Nómina Mensual**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Nómina         | Genera un documento de  |
+    |                         |                | **Nómina Mensual** a la |
+    |                         |                | empresa.                |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Secuencia del           | Nómina Mensual | Genera el número de     |
+    | Documento:              |                | secuencia establecido   |
+    |                         |                | para el orden de los    |
+    |                         |                | tipos de documentos de  |
+    |                         |                | ADempiere, configurado  |
+    |                         |                | en la secuencia de      |
+    |                         |                | documentos y es         |
+    |                         |                | incrementable en 1, en  |
+    |                         |                | este caso la secuencia  |
+    |                         |                | comienza en 1.000.004 y |
+    |                         |                | su prefijo esta         |
+    |                         |                | compuesto por las       |
+    |                         |                | iniciales de su nombre  |
+    |                         |                | "**NM-**".              |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 113.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 98, 99, 100, 103, 104, 113, 123, 124, 126, 129 y 130 donde se considera obligatorio lo siguiente:
+
+    - **Artículo 98:**
+
+        **Derecho al salario** 
+
+        Todo trabajador o trabajadora tiene derecho a un salario suficiente que le permita vivir con dignidad y cubrir para sí y su familia las necesidades materiales, sociales e intelectuales. El salario goza de la protección especial del Estado y constituye un crédito laboral de exigibilidad inmediata. Toda mora en su pago genera intereses.
+
+    - **Artículo 99:** 
+
+        **Libre estipulación del salario** 
+
+        El salario se estipulará libremente garantizando la justa distribución de la riqueza. En ningún caso será inferior al salario mínimo fijado por el Ejecutivo Nacional conforme a la Ley.
+
+    - **Artículo 100:**
+
+        **Fijación**
+
+        Para fijar el monto del salario se tendrá en cuenta:
+
+        #. La satisfacción de las necesidades materiales, sociales e intelectuales del trabajador, la trabajadora, sus familiares y dependientes, que les permitan una vida digna y decorosa.
+        #. La justa distribución de la riqueza como el reconocimiento del mayor valor del trabajo frente al capital.
+        #. La cantidad y calidad del servicio prestado.
+        #. El principio de igual salario por igual trabajo.
+        #. La equivalencia con los salarios devengados por trabajadores y trabajadoras de la localidad, o de aquellos y aquellas que presten el mismo servicio.
+
+    - **Artículo 103:**
+
+        **Irrenunciabilidad del salario** 
+
+        El derecho al salario es irrenunciable y no puede cederse en todo o en parte, a título gratuito u oneroso, salvo a los hijos e hijas y al cónyuge o persona con quien tenga unión estable de hecho el trabajador o trabajadora.
+
+        Los trabajadores y trabajadoras podrán autorizar al patrono o patrona que les descuenten de su salario cuotas únicas o periódicas en beneficio de la organización sindical o caja de ahorros a que estén afiliados o afiliadas de conformidad con sus estatutos y la Ley.
+
+    - **Artículo 104:** 
+
+        **Salario** 
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda.
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial.
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 113:** 
+
+        **Salario por unidad de tiempo** 
+
+        Se entenderá que el salario ha sido estipulado por unidad de tiempo, cuando se toma en cuenta el trabajo que se realiza en un determinado lapso, sin usar como medida el resultado del mismo. 
+
+        **Cuando el salario sea estipulado por mes se entenderá por salario diario la treintava parte de la remuneración mensual.** Se entenderá por salario hora la alícuota resultante de dividir el salario diario por el número de horas de la jornada diurna, nocturna ó mixta, según sea el caso. 
+
+        Cuando durante la semana varíe el número de horas trabajadas al día, el valor de la hora se establecerá tomando el promedio de horas diarias trabajadas en los días laborados durante la semana.
+
+    - **Artículo 123:** 
+
+        **Forma de pago del salario** 
+
+        El salario deberá pagarse en moneda de curso legal. Por acuerdo entre el patrono o la patrona y el trabajador o la trabajadora, podrá hacerse mediante cheque bancario o por órgano de una entidad de ahorro y préstamo u otra institución bancaria, conforme a las normas que establezca el Reglamento de esta Ley. 
+
+        No se permitirá el pago en mercancías, vales, fichas o cualquier otro signo representativo con que quiera sustituirse la moneda. Podrá estipularse como parte del salario, cuando ello conlleve un beneficio social para el trabajador o la trabajadora, la dotación de vivienda, la provisión de comida y otros beneficios de naturaleza semejante.
+
+    - **Artículo 124:**
+
+        **Autorización de pago** 
+
+        El salario será pagado directamente al trabajador o la trabajadora o a la persona que él o ella autorice expresamente en forma escrita. Esta autorización será revocable.
+
+    - **Artículo 126:**
+
+        **Oportunidad de pago** 
+
+        El trabajador o la trabajadora y el patrono o la patrona, acordarán el lapso fijado para el pago del salario, que no podrá ser, mayor de una quincena, pero podrá ser hasta de un mes cuando el trabajador reciba del patrono o la patrona alimentación y vivienda.
+
+    - **Artículo 129** 
+
+        **Salario Mínimo** 
+
+        El Estado garantiza a los trabajadores y las trabajadoras del sector público y del sector privado un salario mínimo que será ajustado cada año, conforme a lo establecido en la Constitución de la República Bolivariana de Venezuela. El salario mínimo será igual para todos los trabajadores y las trabajadoras en el territorio nacional y deberá pagarse en moneda de curso legal. En consecuencia, no podrá establecerse discriminación alguna en su monto o disfrute, incluyendo aquellas fundadas en razones geográficas, ramas de actividad económica o categoría de trabajadores y trabajadoras. No podrá pactarse un salario inferior al establecido como salario mínimo por el Ejecutivo Nacional.
+
+        Previo estudio y mediante decreto, el Ejecutivo Nacional fijará cada año el salario mínimo. A tal efecto, mediante amplia consulta conocerá las opiniones de las distintas organizaciones sociales e instituciones en materia socioeconómica.
+
+    - **Artículo 130:** 
+
+        **Violación al salario mínimo**
+
+        El pago de un salario inferior al mínimo será sancionado de acuerdo con las previsiones establecidas en esta Ley. El patrono infractor o la patrona infractora quedará obligado u obligada, además, a pagar a los trabajadores y las trabajadoras la diferencia entre el salario mínimo y lo realmente pagado, así como sus incidencias sobre los beneficios, prestaciones e indemnizaciones, por todo el tiempo en que hubiere recibido salarios más bajos que los fijados, además de pagarle el monto equivalente a los intereses que devengaría esa cantidad a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+**Nómina Quincenal**
+~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un listado de trabajadores de la empresa a los  que se les cancela el sueldo cada quince (15) días. Este proceso  de nómina quincenal debe ser realizado por el personal de  recursos humanos que tenga los permisos necesarios para el  proceso de nómina.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina quincenal se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Quincenal**:
+
+    +------------------------+------------------+------------------------+
+    | **Campo**              | **Valor**        | **Comportamiento en    |
+    |                        |                  | ADempiere**            |
+    +========================+==================+========================+
+    | Tipo de Documento      | Nómina           | Genera un documento de |
+    | Base:                  |                  | **Nómina Quincenal** a |
+    |                        |                  | la empresa.            |
+    +------------------------+------------------+------------------------+
+    | Documento Controlado:  | Si               | Mantiene una           |
+    |                        |                  | **Secuencia de         |
+    |                        |                  | Control**.             |
+    +------------------------+------------------+------------------------+
+    | Secuencia del          | Nómina Quincenal | Genera el número de    |
+    | Documento:             |                  | secuencia establecido  |
+    |                        |                  | para el orden de los   |
+    |                        |                  | tipos de documentos de |
+    |                        |                  | ADempiere, configurado |
+    |                        |                  | en la secuencia de     |
+    |                        |                  | documentos y es        |
+    |                        |                  | incrementable en 1, en |
+    |                        |                  | este caso la secuencia |
+    |                        |                  | comienza en 1.000.008  |
+    |                        |                  | y su prefijo esta      |
+    |                        |                  | compuesto por las      |
+    |                        |                  | iniciales de su nombre |
+    |                        |                  | "**NQ-**".             |
+    +------------------------+------------------+------------------------+
+    | Copias del Documento:  | 1                | Establece el número de |
+    |                        |                  | copias a imprimir.     |
+    +------------------------+------------------+------------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 126.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 98, 99, 100, 103, 104, 113, 123, 124, 126, 129 y 130 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 98:**
+
+        **Derecho al salario**
+
+        Todo trabajador o trabajadora tiene derecho a un salario suficiente que le permita vivir con dignidad y cubrir para sí y su familia las necesidades materiales, sociales e intelectuales. El salario goza de la protección especial del Estado y constituye un crédito laboral de exigibilidad inmediata. Toda mora en su pago genera intereses.
+
+    - **Artículo 99:**
+
+        **Libre estipulación del salario**
+
+        El salario se estipulará libremente garantizando la justa distribución de la riqueza. En ningún caso será inferior al salario mínimo fijado por el Ejecutivo Nacional conforme a la Ley.
+
+    - **Artículo 100:**
+
+        **Fijación**
+
+        Para fijar el monto del salario se tendrá en cuenta:
+
+        #. La satisfacción de las necesidades materiales, sociales e intelectuales del trabajador, la trabajadora, sus familiares y dependientes, que les permitan una vida digna y decorosa.
+        #. La justa distribución de la riqueza como el reconocimiento del mayor valor del trabajo frente al capital.
+        #. La cantidad y calidad del servicio prestado.
+        #. El principio de igual salario por igual trabajo.
+        #. La equivalencia con los salarios devengados por trabajadores y trabajadoras de la localidad, o de aquellos y aquellas que presten el mismo servicio.
+
+    - **Artículo 103:**
+
+        **Irrenunciabilidad del salario** 
+
+        El derecho al salario es irrenunciable y no puede cederse en todo o en parte, a título gratuito u oneroso, salvo a los hijos e hijas y al cónyuge o persona con quien tenga unión estable de hecho el trabajador o trabajadora.
+
+        Los trabajadores y trabajadoras podrán autorizar al patrono o patrona que les descuenten de su salario cuotas únicas o periódicas en beneficio de la organización sindical o caja de ahorros a que estén afiliados o afiliadas de conformidad con sus estatutos y la Ley.
+
+    - **Artículo 104:**
+
+        **Salario**
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda.
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial.
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 113:**
+
+        **Salario por unidad de tiempo**
+
+        Se entenderá que el salario ha sido estipulado por unidad de tiempo, cuando se toma en cuenta el trabajo que se realiza en un determinado lapso, sin usar como medida el resultado del mismo.
+
+        Cuando el salario sea estipulado por mes se entenderá por salario diario la treintava parte de la remuneración mensual. Se entenderá por salario hora la alícuota resultante de dividir el salario diario por el número de horas de la jornada diurna, nocturna ó mixta, según sea el caso. 
+
+        Cuando durante la semana varíe el número de horas trabajadas al día, el valor de la hora se establecerá tomando el promedio de horas diarias trabajadas en los días laborados durante la semana.
+
+    - **Artículo 123:**
+
+        **Forma de pago del salario** 
+
+        El salario deberá pagarse en moneda de curso legal. Por acuerdo entre el patrono o la patrona y el trabajador o la trabajadora, podrá hacerse mediante cheque bancario o por órgano de una entidad de ahorro y préstamo u otra institución bancaria, conforme a las normas que establezca el Reglamento de esta Ley.
+
+        No se permitirá el pago en mercancías, vales, fichas o cualquier otro signo representativo con que quiera sustituirse la moneda. Podrá estipularse como parte del salario, cuando ello conlleve un beneficio social para el trabajador o la trabajadora, la dotación de vivienda, la provisión de comida y otros beneficios de naturaleza semejante.
+
+    - **Artículo 124:**
+
+        **Autorización de pago**
+
+        El salario será pagado directamente al trabajador o la trabajadora o a la persona que él o ella autorice expresamente en forma escrita. Esta autorización será revocable.
+
+    - **Artículo 126:**
+
+        **Oportunidad de pago** 
+
+        **El trabajador o la trabajadora y el patrono o la patrona, acordarán el lapso fijado para el pago del salario, que no podrá ser, mayor de una quincena,** pero podrá ser hasta de un mes cuando el trabajador reciba del patrono o la patrona alimentación y vivienda.
+
+    - **Artículo 129**
+
+        **Salario Mínimo** 
+
+        El Estado garantiza a los trabajadores y las trabajadoras del sector público y del sector privado un salario mínimo que será ajustado cada año, conforme a lo establecido en la Constitución de la República Bolivariana de Venezuela. El salario mínimo será igual para todos los trabajadores y las trabajadoras en el territorio nacional y deberá pagarse en moneda de curso legal. En consecuencia, no podrá establecerse discriminación alguna en su monto o disfrute, incluyendo aquellas fundadas en razones geográficas, ramas de actividad económica o categoría de trabajadores y trabajadoras. No podrá pactarse un salario inferior al establecido como salario mínimo por el Ejecutivo Nacional.
+
+        Previo estudio y mediante decreto, el Ejecutivo Nacional fijará cada año el salario mínimo. A tal efecto, mediante amplia consulta conocerá las opiniones de las distintas organizaciones sociales e instituciones en materia socioeconómica.
+
+    - **Artículo 130:**
+
+        **Violación al salario mínimo**
+
+        El pago de un salario inferior al mínimo será sancionado de acuerdo con las previsiones establecidas en esta Ley. El patrono infractor o la patrona infractora quedará obligado u obligada, además, a pagar a los trabajadores y las trabajadoras la diferencia entre el salario mínimo y lo realmente pagado, así como sus incidencias sobre los beneficios, prestaciones e indemnizaciones, por todo el tiempo en que hubiere recibido salarios más bajos que los fijados, además de pagarle el monto equivalente a los intereses que devengaría esa cantidad a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+**Nómina Semanal**
+~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un listado de trabajadores de la empresa a los  que se les cancela el sueldo cada siete (7) días. Este proceso de  nómina semanal debe ser realizado por el personal de recursos  humanos que tenga los permisos necesarios para el proceso de  nómina.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina semanal se define según su comportamiento,  a continuación se explica el proceder de **Nómina Semanal**:
+
+    +-------------------------+----------------+-------------------------+
+    | **Campo**               | **Valor**      | **Comportamiento en     |
+    |                         |                | ADempiere**             |
+    +=========================+================+=========================+
+    | Tipo de Documento Base: | Nómina         | Genera un documento de  |
+    |                         |                | **Nómina Semanal** a la |
+    |                         |                | empresa.                |
+    +-------------------------+----------------+-------------------------+
+    | Documento Controlado:   | Si             | Mantiene una            |
+    |                         |                | **Secuencia de          |
+    |                         |                | Control**.              |
+    +-------------------------+----------------+-------------------------+
+    | Secuencia del           | Nómina Semanal | Genera el número de     |
+    | Documento:              |                | secuencia establecido   |
+    |                         |                | para el orden de los    |
+    |                         |                | tipos de documentos de  |
+    |                         |                | ADempiere, configurado  |
+    |                         |                | en la secuencia de      |
+    |                         |                | documentos y es         |
+    |                         |                | incrementable en 1, en  |
+    |                         |                | este caso la secuencia  |
+    |                         |                | comienza en 1.000.019 y |
+    |                         |                | su prefijo esta         |
+    |                         |                | compuesto por las       |
+    |                         |                | iniciales de su nombre  |
+    |                         |                | "**NS-**".              |
+    +-------------------------+----------------+-------------------------+
+    | Copias del Documento:   | 1              | Establece el número de  |
+    |                         |                | copias a imprimir.      |
+    +-------------------------+----------------+-------------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 113.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 98, 99, 100, 103, 104, 113, 123, 124, 126, 129 y 130 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 98:**
+
+        **Derecho al salario**
+
+        Todo trabajador o trabajadora tiene derecho a un salario suficiente que le permita vivir con dignidad y cubrir para sí y su familia las necesidades materiales, sociales e intelectuales. El salario goza de la protección especial del Estado y constituye un crédito laboral de exigibilidad inmediata. Toda mora en su pago genera intereses.
+
+    - **Artículo 99:**
+
+        **Libre estipulación del salario** 
+
+        El salario se estipulará libremente garantizando la justa distribución de la riqueza. En ningún caso será inferior al salario mínimo fijado por el Ejecutivo Nacional conforme a la Ley.
+
+    - **Artículo 100:**
+
+        **Fijación**
+
+        Para fijar el monto del salario se tendrá en cuenta:
+
+        #. La satisfacción de las necesidades materiales, sociales e intelectuales del trabajador, la trabajadora, sus familiares y dependientes, que les permitan una vida digna y decorosa.
+        #. La justa distribución de la riqueza como el reconocimiento del mayor valor del trabajo frente al capital.
+        #. La cantidad y calidad del servicio prestado.
+        #. El principio de igual salario por igual trabajo.
+        #. La equivalencia con los salarios devengados por trabajadores y trabajadoras de la localidad, o de aquellos y aquellas que presten el mismo servicio.
+
+    - **Artículo 103:**
+
+        **Irrenunciabilidad del salario**
+
+        El derecho al salario es irrenunciable y no puede cederse en todo o en parte, a título gratuito u oneroso, salvo a los hijos e hijas y al cónyuge o persona con quien tenga unión estable de hecho el trabajador o trabajadora.
+
+        Los trabajadores y trabajadoras podrán autorizar al patrono o patrona que les descuenten de su salario cuotas únicas o periódicas en beneficio de la organización sindical o caja de ahorros a que estén afiliados o afiliadas de conformidad con sus estatutos y la Ley.
+
+    - **Artículo 104:**
+
+        **Salario**
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda.
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial. 
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 113:**
+
+        **Salario por unidad de tiempo**
+
+        Se entenderá que el salario ha sido estipulado por unidad de tiempo, cuando se toma en cuenta el trabajo que se realiza en un determinado lapso, sin usar como medida el resultado del mismo.
+
+        Cuando el salario sea estipulado por mes se entenderá por salario diario la treintava parte de la remuneración mensual. Se entenderá por salario hora la alícuota resultante de dividir el salario diario por el número de horas de la jornada diurna, nocturna ó mixta, según sea el caso.
+
+        **Cuando durante la semana varíe el número de horas trabajadas al día, el valor de la hora se establecerá tomando el promedio de horas diarias trabajadas en los días laborados durante la semana.**
+
+    - **Artículo 123:** 
+
+        **Forma de pago del salario**
+
+        El salario deberá pagarse en moneda de curso legal. Por acuerdo entre el patrono o la patrona y el trabajador o la trabajadora, podrá hacerse mediante cheque bancario o por órgano de una entidad de ahorro y préstamo u otra institución bancaria, conforme a las normas que establezca el Reglamento de esta Ley.
+
+        No se permitirá el pago en mercancías, vales, fichas o cualquier otro signo representativo con que quiera sustituirse la moneda. Podrá estipularse como parte del salario, cuando ello conlleve un beneficio social para el trabajador o la trabajadora, la dotación de vivienda, la provisión de comida y otros beneficios de naturaleza semejante.
+
+    - **Artículo 124:**
+
+        **Autorización de pago**
+
+        El salario será pagado directamente al trabajador o la trabajadora o a la persona que él o ella autorice expresamente en forma escrita. Esta autorización será revocable.
+
+    - **Artículo 126:**
+
+        **Oportunidad de pago**
+
+        El trabajador o la trabajadora y el patrono o la patrona, acordarán el lapso fijado para el pago del salario, que no podrá ser, mayor de una quincena, pero podrá ser hasta de un mes cuando el trabajador reciba del patrono o la patrona alimentación y vivienda.
+
+    - **Artículo 129**
+
+        **Salario Mínimo**
+
+        El Estado garantiza a los trabajadores y las trabajadoras del sector público y del sector privado un salario mínimo que será ajustado cada año, conforme a lo establecido en la Constitución de la República Bolivariana de Venezuela. El salario mínimo será igual para todos los trabajadores y las trabajadoras en el territorio nacional y deberá pagarse en moneda de curso legal. En consecuencia, no podrá establecerse discriminación alguna en su monto o disfrute, incluyendo aquellas fundadas en razones geográficas, ramas de actividad económica o categoría de trabajadores y trabajadoras. No podrá pactarse un salario inferior al establecido como salario mínimo por el Ejecutivo Nacional.
+
+        Previo estudio y mediante decreto, el Ejecutivo Nacional fijará cada año el salario mínimo. A tal efecto, mediante amplia consulta conocerá las opiniones de las distintas organizaciones sociales e instituciones en materia socioeconómica.
+
+    - **Artículo 130:**
+
+        **Violación al salario mínimo**
+
+        El pago de un salario inferior al mínimo será sancionado de acuerdo con las previsiones establecidas en esta Ley. El patrono infractor o la patrona infractora quedará obligado u obligada, además, a pagar a los trabajadores y las trabajadoras la diferencia entre el salario mínimo y lo realmente pagado, así como sus incidencias sobre los beneficios, prestaciones e indemnizaciones, por todo el tiempo en que hubiere recibido salarios más bajos que los fijados, además de pagarle el monto equivalente a los intereses que devengaría esa cantidad a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+**Nómina Retroactivo**
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es el pago de la diferencia pendiente por cancelar a  los trabajadores por motivo de aumento salarial decretado a mitad  de mes, vigente desde el inicio del mes.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina retroactivo se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Retroactivo**:
+
+    +-----------------------+--------------------+-----------------------+
+    | **Campo**             | **Valor**          | **Comportamiento en   |
+    |                       |                    | ADempiere**           |
+    +=======================+====================+=======================+
+    | Tipo de Documento     | Nómina             | Genera un documento   |
+    | Base:                 |                    | de **Nómina           |
+    |                       |                    | Retroactivo** a la    |
+    |                       |                    | empresa.              |
+    +-----------------------+--------------------+-----------------------+
+    | Documento Controlado: | Si                 | Mantiene una          |
+    |                       |                    | **Secuencia de        |
+    |                       |                    | Control**.            |
+    +-----------------------+--------------------+-----------------------+
+    | Secuencia del         | Nómina Retroactivo | Genera el número de   |
+    | Documento:            |                    | secuencia establecido |
+    |                       |                    | para el orden de los  |
+    |                       |                    | tipos de documentos   |
+    |                       |                    | de ADempiere,         |
+    |                       |                    | configurado en la     |
+    |                       |                    | secuencia de          |
+    |                       |                    | documentos y es       |
+    |                       |                    | incrementable en 1,   |
+    |                       |                    | en este caso la       |
+    |                       |                    | secuencia comienza en |
+    |                       |                    | 1.000.000 y su        |
+    |                       |                    | prefijo esta          |
+    |                       |                    | compuesto por las     |
+    |                       |                    | iniciales de su       |
+    |                       |                    | nombre "**NR-**".     |
+    +-----------------------+--------------------+-----------------------+
+    | Copias del Documento: | 1                  | Establece el número   |
+    |                       |                    | de copias a imprimir. |
+    +-----------------------+--------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 433.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en su artículo 433 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 433:**
+
+        **Cláusulas retroactivas**
+
+        Si en la convención colectiva de trabajo se estipularen cláusulas de aplicación retroactiva, las mismas beneficiarán a los trabajadores y trabajadoras activos al momento de la homologación de la convención, salvo disposición en contrario de las partes.
+
+**Nómina Vacaciones**
+~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es el pago de quince (15) días hábiles más un (1)  día adicional por año que la empresa cancela a sus trabajadores  en vacaciones, estas deben ser canceladas al comienzo de las  mismas y el número de días aumentará hasta llegar a treinta (30)  días.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina vacaciones se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Vacaciones**:
+
+    +-----------------------+-------------------+-----------------------+
+    | **Campo**             | **Valor**         | **Comportamiento en   |
+    |                       |                   | ADempiere**           |
+    +=======================+===================+=======================+
+    | Tipo de Documento     | Nómina            | Genera un documento   |
+    | Base:                 |                   | de **Nómina           |
+    |                       |                   | Vacaciones** a la     |
+    |                       |                   | empresa.              |
+    +-----------------------+-------------------+-----------------------+
+    | Documento Controlado: | Si                | Mantiene una          |
+    |                       |                   | **Secuencia de        |
+    |                       |                   | Control**.            |
+    +-----------------------+-------------------+-----------------------+
+    | Secuencia del         | Nómina Vacaciones | Genera el número de   |
+    | Documento:            |                   | secuencia establecido |
+    |                       |                   | para el orden de los  |
+    |                       |                   | tipos de documentos   |
+    |                       |                   | de ADempiere,         |
+    |                       |                   | configurado en la     |
+    |                       |                   | secuencia de          |
+    |                       |                   | documentos y es       |
+    |                       |                   | incrementable en 1,   |
+    |                       |                   | en este caso la       |
+    |                       |                   | secuencia comienza en |
+    |                       |                   | 1.000.008 y su        |
+    |                       |                   | prefijo esta          |
+    |                       |                   | compuesto por las     |
+    |                       |                   | iniciales de su       |
+    |                       |                   | nombre "**NV-**".     |
+    +-----------------------+-------------------+-----------------------+
+    | Copias del Documento: | 1                 | Establece el número   |
+    |                       |                   | de copias a imprimir. |
+    +-----------------------+-------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en sus artículos 121, 190,  191 y 192.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 104, 121, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 203, 236, 254 y 533 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 104:**
+
+        **Salario**
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda.
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial.
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 121:**
+
+        **Salario para vacaciones**
+
+        **El salario base para el cálculo de lo que corresponda al trabajador o trabajadora por concepto de vacaciones, será el salario normal devengado en el mes efectivo de labores inmediatamente anterior a la oportunidad del disfrute.**
+
+        En caso de salario por unidad de obra, por pieza, a destajo o a comisión, será el promedio del salario normal devengado durante los tres meses inmediatamente anteriores a la oportunidad del disfrute.
+
+    - **Artículo 189:**
+
+        **Aprovechamiento del tiempo libre y turismo social**
+
+        Los patronos y las patronas facilitarán en lo posible que dentro del tiempo de vacaciones el trabajador o la trabajadora, sus familiares y dependientes puedan utilizar el tiempo libre, creando programas de turismo y entretenimiento de carácter social, deportivo y otros de similar naturaleza. Se tomarán en cuenta los acuerdos que se realicen con las organizaciones sindicales, los consejos de trabajadores y trabajadoras, consejos comunales y cualquier otra institución que tenga como finalidad facilitar una mejor calidad de vida a los trabajadores, las trabajadoras y sus familias.
+
+    - **Artículo 190:**
+
+        **Vacaciones** 
+
+        **Cuando el trabajador o la trabajadora cumpla un año de trabajo ininterrumpido para un patrono o una patrona, disfrutará de un período de vacaciones remuneradas de quince días hábiles. Los años sucesivos tendrá derecho además a un día adicional remunerado por cada año de servicio, hasta un máximo de quince días hábiles.**
+
+        Las vacaciones que se interrumpan por hechos no imputables al trabajador o a la trabajadora, se reactivarán al cesar esas circunstancias.
+
+        **Durante el periodo de vacaciones el trabajador o la trabajadora tendrá derecho a percibir el beneficio de alimentación, conforme a las previsiones establecidas en la Ley que regula la materia.**
+
+        Durante el período de vacaciones no podrá intentarse ni iniciarse algún procedimiento para despido, traslado o desmejora contra el trabajador o la trabajadora.
+
+        El servicio de un trabajador o una trabajadora no se considerará interrumpido por sus vacaciones anuales, a los fines del pago de cotizaciones, contribuciones a la Seguridad Social o cualquiera otra análoga pagadera en su interés mientras preste sus servicios.
+
+    - **Artículo 191:**
+
+        **Vacaciones colectivas**
+
+        **Si el patrono o la patrona otorgare vacaciones colectivas a su personal mediante la suspensión de actividades durante cierto número de días al año, a cada trabajador o trabajadora se imputarán esos días a lo que le corresponda por concepto de sus vacaciones anuales de conformidad con lo dispuesto en el artículo anterior. Si de acuerdo con esta norma tuviere derecho a días adicionales de vacaciones, la oportunidad y forma de tomarlas se fijará como lo prevén las disposiciones de este Capítulo.**
+
+        Si el trabajador o la trabajadora para el momento de las vacaciones colectivas no hubiere cumplido el tiempo suficiente para tener derecho a vacaciones anuales, los días correspondientes a las vacaciones colectivas serán para él de descanso remunerado y en cuanto excedieren el lapso vacacional que le correspondería se le imputarán a sus vacaciones futuras.
+
+        Cuando se trate de entidades de trabajo que por las características del servicio que prestan o la naturaleza de sus actividades deban permanecer abiertas y en funcionamiento durante todo el año, los trabajadores y las trabajadoras y los patronos y las patronas podrán convenir un régimen de vacaciones.
+
+    - **Artículo 192:**
+
+        **Bono vacacional**
+
+        **Los patronos y las patronas pagarán al trabajador o a la trabajadora en la oportunidad de sus vacaciones, además del salario correspondiente, una bonificación especial para su disfrute equivalente a un mínimo de quince días de salario normal más un día por cada año de servicios hasta un total de treinta días de salario normal. Este bono vacacional tiene carácter salarial.**
+
+    -**Artículo 193:**
+
+        **Preservación de comidas y alojamiento durante las vacaciones**
+
+        Si el trabajador o la trabajadora recibe de su patrono o patrona comida o alojamiento o ambas cosas a la vez como parte de su remuneración ordinaria, tendrá derecho durante su vacación anual a continuar recibiéndolas o su valor en lugar de éstas, el cual será fijado por acuerdo entre las partes y, en caso de desacuerdo, será fijado por el Inspector o Inspectora del Trabajo, tomando en cuenta el costo de vida, el monto del salario y demás factores concurrentes.
+
+    - **Artículo 194:**
+
+        **Oportunidad de pago del salario en vacaciones**
+
+        El pago del salario correspondiente a los días de vacaciones deberá efectuarse al inicio de ellas. Cuando haya de pagarse además la alimentación o alojamiento, o ambas cosas, su pago se hará también al comienzo de las mismas.
+
+    - **Artículo 195:**
+
+        **Vacaciones no disfrutadas**
+
+        Cuando por cualquier causa termine la relación de trabajo sin que el trabajador o la trabajadora haya disfrutado de las vacaciones a que tiene derecho, el patrono o la patrona deberá pagarle la remuneración correspondiente calculada al salario normal devengado a la fecha de la terminación de la relación laboral.
+
+    - **Artículo 196:**
+
+        **Vacaciones fraccionadas**
+
+        Cuando termine la relación de trabajo antes de cumplirse el año de servicio, ya sea que la terminación ocurra durante el primer año o en los siguientes, el trabajador o la trabajadora tendrá derecho a que se le pague el equivalente a la remuneración que se hubiera causado en relación a las vacaciones anuales y el bono vacacional, en proporción a los meses completos de servicio durante ese año, como pago fraccionado de las vacaciones que le hubieran correspondido.
+
+    - **Artículo 197:**
+
+        **Disfrute efectivo de vacaciones remuneradas**
+
+        El trabajador o la trabajadora deberá disfrutar las vacaciones de manera efectiva y obligatoria, esta misma obligación existe para el patrono o la patrona de concederlas.
+
+        En caso de ser necesaria la suspensión de las vacaciones, la misma debe ser autorizada por el Inspector o Inspectora del Trabajo, previa verificación del cumplimiento de los hechos que la motivan.
+
+        Mientras exista la relación de trabajo, el convenio mediante el cual el patrono o la patrona paga la remuneración de las mismas, sin conceder el tiempo necesario para que el trabajador o la trabajadora las disfrute, lo obliga a concederlas con su respectiva remuneración, sin que pueda alegar en su favor el hecho de haber cumplido anteriormente con el requisito del pago.
+
+    - **Artículo 198:**
+
+        **Trabajadores y trabajadoras al servicio de dos o más patronos o patronas**
+
+        El disfrute de las vacaciones anuales remuneradas del trabajador o de la trabajadora que preste servicios a dos o más patronos y patronas, deberá concederse al cumplir el año de servicio ininterrumpido con el de la relación más antigua. Los demás patronos y patronas deberán otorgarle el descanso y pagarlo con el salario equivalente y proporcional a los meses completos que tuviese al servicio de cada uno de ellos.
+
+        En este caso no se computarán dichas fracciones para la concesión de las vacaciones siguientes.
+
+    - **Artículo 199:**
+
+        **Acumulación de períodos vacacionales**
+
+        El goce de una vacación anual podrá posponerse a solicitud del trabajador o de la trabajadora para permitir la acumulación hasta de dos períodos, cuando la finalidad de dicha acumulación sea conveniente para el solicitante.
+
+        También podrá postergarse o adelantarse el período de disfrute de vacaciones a los fines de hacerlos coincidir con las vacaciones escolares. 
+
+        En caso que el trabajador o la trabajadora no presente dicha solicitud, el patrono o la patrona deberá garantizar el disfrute efectivo del período de vacacionales remuneradas.
+
+    - **Artículo 203:**
+
+        **Registro de vacaciones**
+
+        El patrono o la patrona llevará un registro de vacaciones, según lo establezca el reglamento de esta Ley.
+
+    - **Artículo 236:**
+
+        **Vacaciones remuneradas**
+
+        Los trabajadores o trabajadores agrícolas permanentes gozarán anualmente de vacaciones remuneradas conforme a esta Ley. Los trabajadores y trabajadoras agrícolas por temporada tendrán derecho al pago de las vacaciones que le corresponden al término de la relación de trabajo conforme a esta Ley.
+
+        Los miembros de una familia que trabajen en una misma unidad de producción agrícola tendrán derecho a disfrutar las vacaciones en el mismo período si así lo deciden.
+
+    - **Artículo 254:**
+
+        **Días adicionales del período vacacional**
+
+        Además del derecho a disfrutar de sus vacaciones anuales en tierra, el trabajador o la trabajadora gozará igualmente de tres días de descanso remunerado, independientemente del período de vacación anual a que tiene derecho, cuando el buque no permanezca regularmente más de veinticuatro horas en el puerto.
+
+        En ambos casos tendrá derecho a alimentación y alojamiento o a su equivalente en dinero.
+
+    - **Artículo 533:**
+
+        **Infracción al salario mínimo o la oportunidad de pago del salario y las vacaciones**
+
+        En caso de que el patrono o patrona pague al trabajador o trabajadora un salario inferior al mínimo fijado, o no pague oportunamente el salario semanal, quincenal y las vacaciones se le impondrá una multa no menor del equivalente a ciento veinte unidades tributarias, ni mayor del equivalente a trescientas sesenta unidades tributarias.
+
+**Nómina de Prestaciones Sociales**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Se refiere a un dinero que la empresa le aparta al trabajador,  consta de cinco (5) días al comenzar a trabajar, cinco (5) días  más uno (1), al cumplir el año y así sucesivamente, adicional a  ello, cada tres (3) meses la empresa va haciendo un apartado de  cinco (5) días más uno.
+
+    La empresa cancela el acumulado de este apartado cuando el  trabajador se retira de la empresa.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina prestaciones sociales se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Prestaciones Sociales**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nómina               | Genera un documento  |
+    | Base:                |                      | de **Nómina          |
+    |                      |                      | Prestaciones         |
+    |                      |                      | Sociales** a la      |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Nómina Prestaciones  | Genera el número de  |
+    | Documento:           | Sociales             | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.001 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**NPS-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 142.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 92, 93, 122, 128, 130, 141, 142, 143, 144 y 147 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 92:** 
+
+        **Indemnización por terminación de la relación de trabajo por causas ajenas al trabajador o trabajadora** 
+
+        En caso de terminación de la relación de trabajo por causas ajenas a la voluntad del trabajador o trabajadora, o en los casos de despido sin razones que lo justifiquen cuando el trabajador o la trabajadora manifestaran su voluntad de no interponer el procedimiento para solicitar el reenganche, el patrono o patrona deberá pagarle una indemnización equivalente al monto que le corresponde por las prestaciones sociales.
+
+    - **Artículo 93:** 
+
+        **Improcedencia o terminación del procedimiento de estabilidad**
+
+        Si el trabajador amparado o trabajadora amparada por la estabilidad recibiere voluntariamente lo que le corresponde por concepto de sus prestaciones sociales, más un monto equivalente a éstas por concepto de indemnización, no se llevará a cabo el procedimiento de estabilidad. En caso que la aceptación de dichos pagos por parte del trabajador o trabajadora se hiciere en el curso del procedimiento indicado, éste terminará con el pago adicional de los salarios caídos.
+
+    - **Artículo 122:** 
+
+        **Salario base para el cálculo de prestaciones sociales** 
+
+        El salario base para el cálculo de lo que corresponda al trabajador y trabajadora por concepto de prestaciones sociales, y de indemnizaciones por motivo de la terminación de la relación de trabajo, será el último salario devengado, calculado de manera que integre todos los conceptos salariales percibidos por el trabajador o trabajadora. 
+
+        En caso de salario por unidad de obra, por pieza, a destajo, a comisión o de cualquier otra modalidad de salario variable, la base para el cálculo será el promedio del salario devengado durante los seis meses inmediatamente anteriores, calculado de manera que integre todos los conceptos salariales percibidos por el trabajador o trabajadora. 
+
+        El salario a que se refiere el presente artículo, además de los beneficios devengados, incluye la alícuota de lo que le corresponde percibir por bono vacacional y por utilidades. 
+
+        A los fines indicados, la participación del trabajador o trabajadora en los beneficios líquidos o utilidades a que se contrae esta Ley, se distribuirá entre el tiempo de servicio durante el ejercicio respectivo. Si para el momento del cálculo de las prestaciones sociales no se han determinado los beneficios líquidos o utilidades por no haber vencido el ejercicio económico anual del patrono o patrona, éste o ésta queda obligado u obligada a incorporar en el cálculo de la indemnización la cuota parte correspondiente, una vez que se hubieren determinado los beneficios o utilidades. El patrono o patrona procederá al pago dentro de los treinta días siguientes a la fecha de determinación de las utilidades o beneficios. En los casos que no corresponda el pago de participación de beneficios o utilidades, se incluirá la alícuota correspondiente a la bonificación de fin de año como parte del salario.
+
+    - **Artículo 128:** 
+
+        **Intereses moratorios** 
+
+        La mora en el pago del salario, las prestaciones sociales e indemnizaciones, generan intereses calculados a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+    - **Artículo 130:** 
+
+        **Violación al salario mínimo** 
+
+        El pago de un salario inferior al mínimo será sancionado de acuerdo con las previsiones establecidas en esta Ley. El patrono infractor o la patrona infractora quedará obligado u obligada, además, a pagar a los trabajadores y las trabajadoras la diferencia entre el salario mínimo y lo realmente pagado, así como sus incidencias sobre los beneficios, prestaciones e indemnizaciones, por todo el tiempo en que hubiere recibido salarios más bajos que los fijados, además de pagarle el monto equivalente a los intereses que devengaría esa cantidad a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+    - **Artículo 141:** 
+
+        **Régimen de prestaciones sociales** 
+
+        Todos los trabajadores y trabajadoras tienen derecho a prestaciones sociales que les recompensen la antigüedad en el servicio y los ampare en caso de cesantía. El régimen de prestaciones sociales regulado en la presente Ley establece el pago de este derecho de forma proporcional al tiempo de servicio, calculado con el último salario devengado por el trabajador o trabajadora al finalizar la relación laboral, garantizando la intangibilidad y progresividad de los derechos laborales. Las prestaciones sociales son créditos laborales de exigibilidad inmediata. Toda mora en su pago genera intereses, los cuales constituyen deudas de valor y gozan de los mismos privilegios y garantías de la deuda principal.
+
+    - **Artículo 142:** 
+
+        **Garantía y cálculo de prestaciones sociales** 
+
+        Las prestaciones sociales se protegerán, calcularán y pagarán de la siguiente manera:
+
+        **El patrono o patrona depositará a cada trabajador o trabajadora por concepto de garantía de las prestaciones sociales el equivalente a quince días cada trimestre, calculado con base al último salario devengado. El derecho a este depósito se adquiere desde el momento de iniciar el trimestre.**
+
+        **Adicionalmente y después del primer año de servicio, el patrono o patrona depositará a cada trabajador o trabajadora dos días de salario, por cada año, acumulativos hasta treinta días de salario.**
+
+        **Cuando la relación de trabajo termine por cualquier causa se calcularán las prestaciones sociales con base a treinta días por cada año de servicio o fracción superior a los seis meses calculada al último salario.**
+
+        **El trabajador o trabajadora recibirá por concepto de prestaciones sociales el monto que resulte mayor entre el total de la garantía depositada de acuerdo a lo establecido en los literales a y b, y el cálculo efectuado al final de la relación laboral de acuerdo al literal c.**
+
+            #. Si la relación de trabajo termina antes de los tres primeros meses, el pago que le corresponde al trabajador o trabajadora por concepto de prestaciones sociales será de cinco días de salario por mes trabajado o fracción.
+            #. El pago de las prestaciones sociales se hará dentro de los cinco días siguientes a la terminación de la relación laboral, y de no cumplirse el pago generará intereses de mora a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país.
+
+    - **Artículo 143:** 
+
+        **Depósito de la garantía de las prestaciones sociales** 
+
+        Los depósitos trimestrales y anuales a los que hace referencia el artículo anterior se efectuarán en un fideicomiso individual o en un Fondo Nacional de Prestaciones Sociales a nombre del trabajador o trabajadora, atendiendo la voluntad del trabajador o trabajadora. 
+
+        La garantía de las prestaciones sociales también podrá ser acreditada en la contabilidad de la entidad de trabajo donde labora el trabajador o trabajadora, siempre que éste lo haya autorizado por escrito previamente. 
+
+        Lo depositado por concepto de la garantía de las prestaciones sociales devengará intereses al rendimiento que produzcan los fideicomisos o el Fondo Nacional de Prestaciones Sociales, según sea el caso. 
+
+        Cuando el patrono o patrona lo acredite en la contabilidad de la entidad de trabajo por autorización del trabajador o trabajadora, la garantía de las prestaciones sociales devengará intereses a la tasa promedio entre la pasiva y la activa, determinada por el Banco Central de Venezuela. 
+
+        En caso de que el patrono o patrona no cumpliese con los depósitos establecidos, la garantía de las prestaciones sociales devengará intereses a la tasa activa determinada por el Banco Central de Venezuela, tomando como referencia los seis principales bancos del país, sin perjuicio de las sanciones previstas en la Ley. 
+
+        El patrono o patrona deberá informar trimestralmente al trabajador o trabajadora, en forma detallada, el monto que fue depositado o acreditado por concepto de garantía de las prestaciones sociales. 
+
+        La entidad financiera o el Fondo Nacional de Prestaciones Sociales, según el caso, entregará anualmente al trabajador o trabajadora los intereses generados por su garantía de prestaciones sociales. Asimismo, informará detalladamente al trabajador o trabajadora el monto del capital y los intereses. 
+
+        Las prestaciones sociales y los intereses que éstas generan, están exentos del Impuesto Sobre la Renta. Los intereses serán calculados mensualmente y pagados al cumplir cada año de servicio, salvo que el trabajador o trabajadora, mediante manifestación escrita, decidiere capitalizarlos.
+
+    - **Artículo 144:** 
+
+        **Anticipo de prestaciones sociales** 
+
+        El trabajador o trabajadora tendrá derecho al anticipo de hasta un setenta y cinco por ciento de lo depositado como garantía de sus prestaciones sociales, para satisfacer obligaciones derivadas de:
+
+        #. La construcción, adquisición, mejora o reparación de vivienda para él y su familia.
+        #. La liberación de hipoteca o cualquier otro gravamen sobre vivienda de su propiedad.
+        #. La inversión en educación para él, ella o su familia; y
+        #. Los gastos por atención médica y hospitalaria para él, ella y su familia. 
+
+        Si las prestaciones sociales estuviesen acreditadas en la contabilidad de la entidad de trabajo, el patrono o patrona deberá otorgar al trabajador o trabajadora crédito o aval, en los supuestos indicados, hasta el monto del saldo a su favor. Si optare por avalar será a su cargo la diferencia de intereses que pudiere resultar en perjuicio del trabajador o de la trabajadora. 
+
+        Si las prestaciones sociales estuviesen depositadas en una entidad financiera o en el Fondo Nacional de Prestaciones Sociales, el trabajador o trabajadora podrá garantizar con ese capital las obligaciones contraídas para los fines antes previstos.
+
+    - **Artículo 147:** 
+
+        **Fondo Nacional de Prestaciones Sociales** 
+
+        Mediante ley especial se determinará el régimen de creación, funcionamiento y supervisión del Fondo Nacional de Prestaciones Sociales.
+
+**Nómina Utilidades**
+~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es un bono que la empresa le paga a sus trabajadores  por las ganacias o los intereses que esta obtuvo por la venta de  productos o servicios en el año. El pago de las utilidades varía  en los trabajadores según su antigüedad en la empresa.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina utilidades se define según su  comportamiento, a continuación se explica el proceder de **Nómina  Utilidades**:
+
+    +-----------------------+-------------------+-----------------------+
+    | **Campo**             | **Valor**         | **Comportamiento en   |
+    |                       |                   | ADempiere**           |
+    +=======================+===================+=======================+
+    | Tipo de Documento     | Nómina            | Genera un documento   |
+    | Base:                 |                   | de **Nómina           |
+    |                       |                   | Utilidades** a la     |
+    |                       |                   | empresa.              |
+    +-----------------------+-------------------+-----------------------+
+    | Documento Controlado: | Si                | Mantiene una          |
+    |                       |                   | **Secuencia de        |
+    |                       |                   | Control**.            |
+    +-----------------------+-------------------+-----------------------+
+    | Secuencia del         | Nómina Utilidades | Genera el número de   |
+    | Documento:            |                   | secuencia establecido |
+    |                       |                   | para el orden de los  |
+    |                       |                   | tipos de documentos   |
+    |                       |                   | de ADempiere,         |
+    |                       |                   | configurado en la     |
+    |                       |                   | secuencia de          |
+    |                       |                   | documentos y es       |
+    |                       |                   | incrementable en 1,   |
+    |                       |                   | en este caso la       |
+    |                       |                   | secuencia comienza en |
+    |                       |                   | 1.000.003 y su        |
+    |                       |                   | prefijo esta          |
+    |                       |                   | compuesto por las     |
+    |                       |                   | iniciales de su       |
+    |                       |                   | nombre "**NU-**".     |
+    +-----------------------+-------------------+-----------------------+
+    | Copias del Documento: | 1                 | Establece el número   |
+    |                       |                   | de copias a imprimir. |
+    +-----------------------+-------------------+-----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 131.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 104, 131, 132, 133, 137, 138 y 139 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 104:** 
+
+        **Salario** 
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda. 
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial. 
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 131:** 
+
+        **Beneficios anuales o utilidades** 
+
+        **Las entidades de trabajo deberán distribuir entre todos sus trabajadores y trabajadoras, por lo menos, el quince por ciento (15%) de los beneficios líquidos que hubieren obtenido al fin de su ejercicio anual. A este fin, se entenderá por beneficios líquidos, la suma de los enriquecimientos netos gravables y de los exonerados conforme a la Ley de Impuesto Sobre la Renta.** 
+
+        Esta obligación tendrá, respecto de cada trabajador o trabajadora como límite mínimo, el equivalente al salario de treinta días y como límite máximo el equivalente al salario de cuatro meses. Cuando el trabajador o trabajadora no hubiese laborado todo el año, la bonificación se reducirá a la parte proporcional correspondiente a los meses completos de servicios prestados. Cuando la terminación de la relación de trabajo ocurra antes del cierre del ejercicio, la liquidación de la parte correspondiente a los meses servidos podrá hacerse al vencimiento del ejercicio.
+
+    - **Artículo 132:** 
+
+        **Bonificación de fin de año** 
+
+        **Las entidades de trabajo con fines de lucro pagarán a sus trabajadores y trabajadoras, dentro de los primeros quince días del mes de diciembre de cada año o en la oportunidad establecida en la convención colectiva, una cantidad equivalente a treinta días de salario, por lo menos, imputable a la participación en los beneficios o utilidades que pudiera corresponder a cada trabajador o trabajadora en el año económico respectivo de acuerdo con lo establecido en esta Ley.** Si cumplido éste, el patrono o la patrona no obtuviere beneficio la cantidad entregada de conformidad con este artículo deberá considerarse como bonificación y no estará sujeta a repetición. Si el patrono o la patrona obtuviere beneficios cuyo monto no alcanzare a cubrir los treinta días de salario entregados anticipadamente, se considerará extinguida la obligación.
+
+    - **Artículo 133:** 
+
+        **Determinación de monto distribuible** 
+
+        Para la determinación del monto distribuible por concepto de participación en los beneficios o utilidades de los trabajadores y las trabajadoras, se tomará como base la declaración que hubiere presentado la entidad de trabajo ante la Administración del Impuesto Sobre la Renta. Cuando el monto de los beneficios resulte mayor de lo declarado, la entidad de trabajo estará obligada a efectuar una distribución adicional dentro del mes siguiente a la fecha en que se determine.
+
+    - **Artículo 137:** 
+
+        **Oportunidad para el pago de participación en los beneficios o utilidades** 
+
+        La cantidad que corresponda a cada trabajador y trabajadora por concepto de participación en los beneficios o utilidades deberá pagársele dentro de los dos meses inmediatamente siguientes al día del cierre del ejercicio de las entidades de trabajo.
+
+    - **Artículo 138:** 
+
+        **Verificación de utilidades** 
+
+        La mayoría absoluta de los trabajadores y las trabajadoras de una entidad de trabajo, o su sindicato o la Inspectoría del Trabajo podrá solicitar por ante la Administración Tributaria el examen y verificación de los respectivos inventarios y balances para comprobar la renta obtenida en uno o más ejercicios anuales. La Administración Tributaria rendirá su informe en un lapso no mayor a seis meses. Este informe deberá ser remitido a los y las solicitantes, al patrono o patrona y a la Inspectoría del Trabajo.
+
+    - **Artículo 139:** 
+
+        **Utilidades convenidas** 
+
+        En caso de que el patrono o la patrona y el trabajador o la trabajadora hayan convenido en que éste perciba una participación convencional que supere a la participación legal pautada en este Capítulo, el monto de ésta comprenderá aquélla, a menos que las partes hubieren convenido expresamente lo contrario. Lo mismo se hará en el supuesto de que el monto de la participación legal llegue a superar el de la participación convenida por las partes.
+
+**Nómina por Pagos Especiales**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere los pagos especiales son los pagos adicionales a lo  estipulado en la ley que la empresa le cancela a sus trabajadores  como bonificación por rendimiento, entre otros motivos.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina por pagos especiales se define según su  comportamiento, a continuación se explica el proceder de **Nómina  por Pagos Especiales**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nómina               | Genera un documento  |
+    | Base:                |                      | de **Nómina por      |
+    |                      |                      | Pagos Especiales** a |
+    |                      |                      | la empresa.          |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Nómina por Pagos     | Genera el número de  |
+    | Documento:           | Especiales           | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**NPE-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 132.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 132, 140 y 530 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 132:** 
+
+        **Bonificación de fin de año** 
+
+        **Las entidades de trabajo con fines de lucro pagarán a sus trabajadores y trabajadoras, dentro de los primeros quince días del mes de diciembre de cada año o en la oportunidad establecida en la convención colectiva, una cantidad equivalente a treinta días de salario, por lo menos, imputable a la participación en los beneficios o utilidades que pudiera corresponder a cada trabajador o trabajadora en el año económico respectivo de acuerdo con lo establecido en esta Ley.** Si cumplido éste, el patrono o la patrona no obtuviere beneficio la cantidad entregada de conformidad con este artículo deberá considerarse como bonificación y no estará sujeta a repetición. Si el patrono o la patrona obtuviere beneficios cuyo monto no alcanzare a cubrir los treinta días de salario entregados anticipadamente, se considerará extinguida la obligación.
+
+    - **Artículo 140:** 
+
+        **Bonificación de fin de año en patronos o patronas sin fines de lucro** 
+
+        Los patronos y las patronas cuyas actividades no tengan fines de lucro, estarán exentos del pago de la participación en los beneficios, pero deberán otorgar a sus trabajadores y trabajadoras una bonificación de fin de año equivalente a por lo menos treinta días de salario.
+
+    - **Artículo 530:** 
+
+        **Infracción a la normativa sobre participación en los beneficios** 
+
+        Al patrono o patrona que no pague correctamente a sus trabajadores o trabajadoras la participación en los beneficios, o la bonificación o prima de navidad que les corresponda, se le impondrá una multa no menor del equivalente a sesenta unidades tributarias, ni mayor del equivalente a ciento veinte unidades tributarias.
+
+**Nómina por Comisiones**
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    En ADempiere es el pago que la empresa le cancela a sus  trabajadores por productos realizados, ventas realizadas, entre  otros. Las empresas que pagan esta nómina, lo hacen como  incentivo para que sus trabajadores se motiven a seguir.
+
+.. warning:: 
+
+    En ADempiere los documentos de nómina, controlan los pagos que la empresa le genera a sus trabajadores por la cancelación de los trabajos realizados para misma.
+
+**Comportamiento**
+
+    En ADempiere la nómina por comisiones se define según su  comportamiento, a continuación se explica el proceder de **Nómina  por Comisiones**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nómina               | Genera un documento  |
+    | Base:                |                      | de **Nómina por      |
+    |                      |                      | Comisiones** a la    |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Nómina por           | Genera el número de  |
+    | Documento:           | Comisiones           | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**NPC-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite realizar la ejecución de la nómina basado en el tipo  de documento que se seleccione en el documento.
+    - Permite realizar el pago del documento cuando este se  encuentre en estado completo, por concepto de nómina mensual  según lo establecido en la LOTTT, en su artículo 110.
+    - Permite la visualización de los reportes del pago  correspondiente a cada trabajador de la empresa.
+    - Permite su contabilización en moneda nacional vigente.
+    - Aparece reflejado de manera ordenada en la gestión de recursos  humanos y nómina de ADempiere.
+
+**Implicación Fiscal**
+
+    Basado en la ley orgánica del trabajo, los trabajadores y las trabajadoras, publicada en gaceta oficial N° 6.076 en sus artículos 104 y 110 donde se considera obligatorio lo siguiente: donde se estipula.
+
+    - **Artículo 104:** 
+
+        **Salario** 
+
+        Se entiende por salario la remuneración, provecho o ventaja, cualquiera fuere su denominación o método de cálculo, siempre que pueda evaluarse en moneda de curso legal, que corresponda al trabajador o trabajadora por la prestación de su servicio y, entre otros, comprende las comisiones, primas, gratificaciones, participación en los beneficios o utilidades, sobresueldos, bono vacacional, así como recargos por días feriados, horas extraordinarias o trabajo nocturno, alimentación y vivienda. 
+
+        Los subsidios o facilidades que el patrono o patrona otorgue al trabajador o trabajadora, con el propósito de que éste o ésta obtenga bienes y servicios que le permitan mejorar su calidad de vida y la de su familia tienen carácter salarial. 
+
+        A los fines de esta Ley se entiende por salario normal, la remuneración devengada por el trabajador o trabajadora en forma regular y permanente por la prestación de su servicio. Quedan por tanto excluidos del mismo las percepciones de carácter accidental, las derivadas de la prestaciones sociales y las que esta Ley considere que no tienen carácter salarial. Para la estimación del salario normal ninguno de los conceptos que lo conforman producirá efectos sobre si mismo.
+
+    - **Artículo 110:** 
+
+        **Reconocimiento por productividad** 
+
+        **Los aumentos de productividad en una entidad de trabajo y la mejora de la producción, causarán una más alta remuneración para los trabajadores y las trabajadoras. A estos fines, el patrono o patrona y el sindicato o, cuando no exista éste, sus trabajadores y trabajadoras acordarán, con relación a los procesos de producción en un departamento, sección o puesto de trabajo, planes y programas orientados a mejorar tanto la calidad del producto como la productividad y en ellos considerarán los incentivos para los y las participantes, según su contribución.**
+
+**Selección de Pagos Nómina** |Selección de Pago Nómina|
+--------------------------------------------------------
+
+La selección de pagos nómina es donde se agrupan todas las nóminas que posee una empresa, y que se necesitan pagar. Se realiza este procedimiento para no ir pagando nómina por nómina, sino que simplemente se agrupan en un solo documento todas las nóminas a pagar para luego generar el pago.
+
+**Tipo de Documento Selección de Pagos Nómina**
+***********************************************
+
+En ADempiere este proceso solo puede ser realizado por un usuario que posea los permisos necesarios para acceder a la información de las nóminas, ya que esta es muy delicada.
+
+**Selección de Pagos Nómina**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Este proceso es similar al proceso de selección de pago de cuentas por pagar, con la diferencia de que en vez de seleccionar las cuentas por pagar se seleccionan las nóminas a pagar, para que luego se pueda proceder al pago de la selección de pagos nómina.
+
+.. warning:: 
+
+    El proceso del tipo de documento de selección de pagos nómina es diferente al proceso de selección de pagos de cuentas por pagar y del proceso de pago como tal.
+
+**Comportamiento**
+
+    En ADempiere la selección de pagos nómina se define según su comportamiento, a continuación se explica el proceder de **Selección de Pagos Nómina**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Selección de Pago    | Genera un documento  |
+    | Base:                | CxP                  | de **Selección de    |
+    |                      |                      | Pagos Nómina** a la  |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Selección de Pagos   | Genera el número de  |
+    | Documento:           | Nómina               | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**SPN-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Aparece reflejado de manera ordenada en la gestión de saldos pendientes de ADempiere.
+    - Agrupa las nóminas por pagar que la empresa posee.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite controlar los saldos abiertos de la empresa, por medio del estándar de control y seguimiento establecido en ADempiere.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Orden de Mantenimiento** |Orden de Mantenimiento|
+---------------------------------------------------
+
+Es un documento en el que se planifican todas las tareas que debe realizar el departamento de mantenimiento en la empresa de forma específica, es emitido por el jefe de dicho departamento para sus tecnicos, este documento sirve como soporte en las auditorías que le realicen a la empresa.
+
+**Tipo de Documento Orden de Mantenimiento**
+********************************************
+
+En ADempiere el tipo de documento orden de mantenimiento indica el tiempo de duración, los materiales necesarios, los costos aproximados, entre otros datos de igual importancia. Es definido según su comportamiento y explicado a continuación.
+
+**Orden de Mantenimiento**
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento que contiene la cantidad de datos necesarios para que el técnico tome las decisiones necesarias al momento de realizar el mantenimiento ya que la misma le indica a que máquina o equipo debe realizar el mantenimiento, donde se encuentra ubicado y que tareas especificas debe realizar.
+
+.. warning:: 
+
+    Cada uno de los datos incluidos en la orden de mantenimiento permite realizar el mismo de una manera eficiente, de igual manera, la elaboración del documento permite llevar un control de los diferentes mantenimientos realizados.
+
+**Comportamiento**
+
+    En ADempiere la orden de mantenimiento se define según su comportamiento, a continuación se explica el proceder de **Orden de Mantenimiento**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Orden de             | Genera una **Orden   |
+    | Base:                | Mantenimiento        | de Mantenimiento** a |
+    |                      |                      | la empresa.          |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Orden de             | Genera el número de  |
+    | Documento:           | Mantenimiento        | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 86.000 y su       |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**OMA-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja el mantenimiento realizado a las máquinas o equipos de la empresa.
+    - Permite calcular y cancelar los costos correspondientes al mantenimiento.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Depreciación de Activos** |Depreciación de Activos|
+-----------------------------------------------------
+
+Es el tipo de documento en el que se refleja el costo generado a lo largo de la utilización del activo, el mismo es restado de los ingresos monetarios producidos por el activo.
+
+**Tipo de Documento Depreciación de Activos**
+*********************************************
+
+En ADempiere el documento es realizado a lo largo del proceso de utilización del activo, así como también, posterior al proceso de adición de activos. Es un documento definido según su comportamiento, especificado a continuación.
+
+**Depreciación de Activos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    La situación en la que se encuentre el activo de la empresa será el inicio del proceso de depreciación del mismo, por lo tanto, es realizado por medio de variantes como los ingresos generados y el costo que requiere para mejorar.
+
+.. warning:: 
+
+    Los activos pertenecientes a una misma clasificación deben depreciarse con el mismo metodo utilizado desde el principio.
+
+**Comportamiento**
+
+    En ADempiere la depreciación de activos se define según su comportamiento, a continuación se explica el proceder de la **Depreciación de Activos**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Fixed Assets         | Genera una           |
+    | Base:                | Depreciation         | **Depreciación de    |
+    |                      |                      | Activos** a una      |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Depreciación de      | Genera el número de  |
+    | Documento:           | Activo               | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**DAC-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Permite conocer la depreciación perteneciente a cada activo que tiene la empresa.
+    - Permite decidir si se aplica una adicción, un reemplazo o una venta de los activos de la empresa.
+    - Permite su contabilización en la moneda nacional vigente del momento de la emisión del documento.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Adición de Activos** |Adición de Activos|
+-------------------------------------------
+
+Es el tipo de documento que permite reflejar las modificaciones que se apliquen a los activos de la empresa con la finalidad de mejorarlos, ampliando con esto su productividad, los activos de una empresa pueden ser los bienes y las propiedades de la misma.
+
+De igual manera permite reflejar un activo nuevo a la empresa por la compra del mismo, de esta manera se reflejará su valor y la cantidad que hay de ese activo.
+
+**Tipo de Documento Adición de Activos**
+****************************************
+
+En ADempiere es posible realizar una adición de activos tangibles e intangibles para revalorizar los mismos para una empresa, es definido según su comportamiento explicado a continuación.
+
+**Adición de Activos**
+~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento que refleja los cambios que son realizados a los activos de la empresa con la finalidad de cambiar su desempeño productivo o mejorarlo para beneficio económico de la empresa.
+
+.. warning:: 
+
+    La mejora de los activos de la empresa es una inversión a futuro cuando de maquinaria se trata.
+
+**Comportamiento**
+
+    En ADempiere la adición de activos se define según su comportamiento, a continuación se explica el proceder de la **Adición de Activos**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Fixed Assets         | Genera una **Adición |
+    | Base:                | Document             | de Activos** a la    |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Adición de Activos   | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**AA-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Refleja las mejoras aplicadas a los activos de la empresa.
+    - Genera a la empresa un documento con las especificaciones de los activos con los que cuenta la misma por medio de reportes.
+    - Permite añadir a la empresa un activo nuevo por adquisición o compra realizada.
+    - Permite su contabilización en la moneda nacional vigente del momento de la emisión del documento.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Venta de Activos** |Venta de Activos|
+---------------------------------------
+
+Es el tipo de documento que refleja la venta de los activos que posee un empresa, dicha venta puede realizarse porque el activo ya cumplió con su tiempo de vida util dentro de la empresa o porque se presenta la oportunidad de vender el activo para adquirir uno mejor y más eficiente, que genere mayores ingresos productivos o monetarios a la empresa.
+
+**Tipo de Documento Venta de Activos**
+**************************************
+
+En ADempiere es un documento utilizado para reflejar la venta de los activos de la empresa independientemente del motivo de la misma, es definido según su comportamiento especificado a continuación.
+
+**Venta de Activos**
+~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es un documento necesario para realizar la contabilización de la empresa, permitiendo con este llevar el control de las ventas de los activos de la empresa, independientemente del motivo que esta tenga.
+
+.. warning:: 
+
+    La venta de los activos siempre va a depender de la generación de ingresos, el tiempo de vida util o la oportunidad de adquirir un activo mejor.
+
+**Comportamiento**
+
+    En ADempiere la venta de activos se define según su comportamiento, a continuación se explica el proceder de la **Venta de Activos**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Fixed Assets         | Genera un documento  |
+    | Base:                | Disposal             | de **Venta de        |
+    |                      |                      | Activos** a la       |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | Venta de Activos     | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000.000 y su    |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**VA-**".    |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un ingreso monetario a cambio del activo.
+    - Permite su contabilización en moneda nacional vigente.
+    - Permite adquirir un activo más competente y que genere a la empresa y mayor ingreso monetario.
+
+**Implicación Fiscal**
+
+    No posee implicación fiscal por no ser un documento legal.
+
+**Nota de Contabilidad** |Nota de Contabilidad|
+-----------------------------------------------
+
+Es un documento utilizado por la empresa para registrar movimientos de los que la misma no posee ningún tipo de formato para contabilizar, el formato de una nota de contabilidad no puede variar, sin embargo, se debe especificar su clasificación cuando la empresa maneje diferentes operaciones que no poseen formato.
+
+**Tipo de Documento Nota de Contabilidad**
+******************************************
+
+En ADempiere es un documento utilizado para reflejar operaciones sin formato en la contabilidad de una determinada empresa, obteniendo de esta manera un control sobre aquellas que generan ingresos o egresos a la misma.
+
+**Nota de Contabilidad**
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Definición**
+
+    Es el documento donde se especifican los datos de la operación de ingreso o egreso monetario que la empresa requiere para realizar la contabilización de la misma, entre ellos no debe faltar el nombre de la empresa que lo emite, nombre, número y fecha del comprobante, la descripción del contenido del documento, pero sobre todo las firmas de los involucrados como lo son el que elaboró, revisó, aprobó y contabilizó el documento.
+
+.. warning:: 
+
+    La numeración de una nota de contabilidad debe ser consecutiva para cada una de las diferentes operaciones por las cuales la empresa emite la misma.
+
+**Comportamiento**
+
+    En ADempiere la nota de contabilidad se define según su comportamiento, a continuación se explica el proceder de la **Nota de Contabilidad**:
+
+    +----------------------+----------------------+----------------------+
+    | **Campo**            | **Valor**            | **Comportamiento en  |
+    |                      |                      | ADempiere**          |
+    +======================+======================+======================+
+    | Tipo de Documento    | Nota de Contabilidad | Genera una **Nota de |
+    | Base:                |                      | Contabilidad** a la  |
+    |                      |                      | empresa.             |
+    +----------------------+----------------------+----------------------+
+    | Documento            | Si                   | Mantiene una         |
+    | Controlado:          |                      | **Secuencia de       |
+    |                      |                      | Control**.           |
+    +----------------------+----------------------+----------------------+
+    | Secuencia del        | GL Journal           | Genera el número de  |
+    | Documento:           |                      | secuencia            |
+    |                      |                      | establecido para el  |
+    |                      |                      | orden de los tipos   |
+    |                      |                      | de documentos de     |
+    |                      |                      | ADempiere,           |
+    |                      |                      | configurado en la    |
+    |                      |                      | secuencia de         |
+    |                      |                      | documentos y es      |
+    |                      |                      | incrementable en 1,  |
+    |                      |                      | en este caso la      |
+    |                      |                      | secuencia comienza   |
+    |                      |                      | en 1.000 y su        |
+    |                      |                      | prefijo esta         |
+    |                      |                      | compuesto por las    |
+    |                      |                      | iniciales de su      |
+    |                      |                      | nombre "**GLJ-**".   |
+    +----------------------+----------------------+----------------------+
+    | Copias del           | 1                    | Establece el número  |
+    | Documento:           |                      | de copias a          |
+    |                      |                      | imprimir.            |
+    +----------------------+----------------------+----------------------+
+
+**Implicación en ADempiere**
+
+    - Genera un soporte de la operación de ingreso o egreso monetario realizada.
+    - Permite reflejar la operación en la contabilización de la empresa.
+
+**Implicación Fiscal**
+    
+    Basado en el código de comercio, publicado en gaceta oficial n°475 del 21 de diciembre de 1955, donde estipula en su artículo 32 lo siguiente:
+
+    **Artículo 32:**
+
+        Todo comerciante debe llevar en idioma castellano su contabilidad, la cual comprenderá, obligatoriamente, el libro Diario, el libro Mayor y el de Inventarios.
+
+        Podrá llevar, además, todos los libros auxiliares que estimara conveniente para el mayor orden y claridad de sus operaciones. 
     
