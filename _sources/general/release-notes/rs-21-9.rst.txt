@@ -44,5 +44,5 @@ Sólo aplicar cambios del binario
 **Correcciones**
 ----------------
 
-- Corrección de problemas con caché en la migración de almacenamiento de datos externo.
----------------------------------------------------------------------------------------
+Corrección de problemas con caché en la migración de almacenamiento de datos externo.
+*************************************************************************************
