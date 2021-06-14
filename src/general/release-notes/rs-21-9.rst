@@ -4,6 +4,7 @@
 ===========
 
 **Fecha de Liberación:** 2021-05-29
+-----------------------------------
 
 **Soporte a versiones:**
 ------------------------
@@ -43,4 +44,5 @@ Sólo aplicar cambios del binario
 **Correcciones**
 ----------------
 
-  - Corrección de problemas con caché en la migración de almacenamiento de datos externo.
+- Corrección de problemas con caché en la migración de almacenamiento de datos externo.
+---------------------------------------------------------------------------------------
