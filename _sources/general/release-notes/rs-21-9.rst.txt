@@ -7,7 +7,6 @@
 -----------------------------------
 
 **Soporte a versiones:**
-------------------------
 
 - ADempiereBase: Versión de Liberación: 3.9.3-rs-4.3
 - CST-STD: Versión de Liberación: rs-22.2
@@ -30,19 +29,18 @@
 - Performance-Analysis: 1.0.2
 
 **Detalle Técnico:**
---------------------
+
 
 - CST-STD: 
 
   - Fixed error with File Storage for process: https://github.com/adempiere/adempiere/pull/3483
 
 **Requerimientos**
-------------------
+
 
 Sólo aplicar cambios del binario
 
 **Correcciones**
-----------------
+
 
 Corrección de problemas con caché en la migración de almacenamiento de datos externo.
-*************************************************************************************

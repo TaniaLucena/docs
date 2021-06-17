@@ -4,9 +4,9 @@
 ===========
 
 **Fecha de Liberación:** 2021-05-24
+-----------------------------------
 
 **Soporte a versiones:**
-------------------------
 
 - ADempiereBase: Versión de Liberación: 3.9.3-rs-4.3
 - CST-STD: Versión de Liberación: rs-21.3
@@ -29,7 +29,6 @@
 - Performance-Analysis: 1.0.2
 
 **Detalle Técnico:**
---------------------
 
 - CST-STD: 
 
@@ -41,7 +40,6 @@
 
 
 **Requerimientos**
-------------------
 
 Se deben aplicar los siguientes XMLs en el proyecto:
 
@@ -61,7 +59,6 @@ Se deben aplicar los siguientes XMLs en el proyecto:
 
 
 **Correcciones**
-----------------
 
 - Se permite ver siempre el tipo de conversión en todos los documentos.
 - Se correige problemas con acceso de tercero por usuario

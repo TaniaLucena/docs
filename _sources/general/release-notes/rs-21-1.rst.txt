@@ -1,12 +1,12 @@
-.. _documento/versión-21-1:
+.. _documento versión 21-1:
 
 **rs-21.1**
 ===========
 
 **Fecha de Liberación:** 2021-05-19
+-----------------------------------
 
 **Soporte a versiones:**
-------------------------
 
 - ADempiereBase: Versión de Liberación: 3.9.3-rs-4.3
 - CST-STD: Versión de Liberación: rs-21.2
@@ -29,7 +29,6 @@
 - Performance-Analysis: 1.0.2
 
 **Detalle Técnico:**
---------------------
 
 - Cash-Management: 
 
@@ -39,9 +38,7 @@
 
   - Fixed error saving record access for business partner
 
-
 **Requerimientos**
-------------------
 
 Se deben aplicar los siguientes XMLs en el proyecto:
 
@@ -59,9 +56,7 @@ Se deben aplicar los siguientes XMLs en el proyecto:
   - 05850_Add_Third_Party_Access_Functionality.xml
   - 05860_Add_Setup_for_Third_Party_Access.xml
 
-
 **Correcciones**
-----------------
 
 - Se permite ver siempre el tipo de conversión en todos los documentos.
 - Se correige problemas con acceso de tercero por usuario
