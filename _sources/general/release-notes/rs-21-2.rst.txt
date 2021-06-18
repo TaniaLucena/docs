@@ -28,7 +28,7 @@
 - LVE: 1.3.3
 - Performance-Analysis: 1.0.2
 
-**Detalle Técnico:**
+.. data:: Detalle Técnico:
 
 - CST-STD: 
 
@@ -39,11 +39,11 @@
   - Fixed error saving record access for business partner
 
 
-**Requerimientos**
+.. data:: Requerimientos
 
 Se deben aplicar los siguientes XMLs en el proyecto:
 
-**Cash-Management**
+- **Cash-Management**
 
   - 07090_Add_Validation_Rule_for_Deposit.xml
 
@@ -58,7 +58,7 @@ Se deben aplicar los siguientes XMLs en el proyecto:
   - 05860_Add_Setup_for_Third_Party_Access.xml
 
 
-**Correcciones**
+.. data:: Correcciones
 
 - Se permite ver siempre el tipo de conversión en todos los documentos.
 - Se correige problemas con acceso de tercero por usuario
