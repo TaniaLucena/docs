@@ -38,23 +38,15 @@
 
   - Fixed error saving record access for business partner
 
-.. data:: Requerimientos
+.. function:: Requerimientos(Cash-Management, LVE, Third-Party-Access)
 
-Se deben aplicar los siguientes XMLs en el proyecto:
-
-- **Cash-Management**
-
-  - 07090_Add_Validation_Rule_for_Deposit.xml
-
-- **LVE**
-
-  - 0102_Mostrar_Tipo_de_Conversion.xml.xml
-
-- **Third-Party-Access**
-
-  - 05840_Add_Entity_Type_for_Third_Party_Access.xml
-  - 05850_Add_Third_Party_Access_Functionality.xml
-  - 05860_Add_Setup_for_Third_Party_Access.xml
+    Se deben aplicar los siguientes XMLs en el proyecto:
+  
+    :Cash-Management:                 07090_Add_Validation_Rule_for_Deposit.xml
+    :LVE:                             0102_Mostrar_Tipo_de_Conversion.xml.xml
+    :Third-Party-Access:              05840_Add_Entity_Type_for_Third_Party_Access.xml
+                                      05850_Add_Third_Party_Access_Functionality.xml
+                                      05860_Add_Setup_for_Third_Party_Access.xml
 
 .. data:: Correcciones
 
