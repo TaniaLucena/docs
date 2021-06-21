@@ -38,7 +38,7 @@
 
 .. data:: Requerimientos
 
-Sólo montar los cambios del binario
+    Sólo montar los cambios del binario
 
 .. data:: Correcciones
 

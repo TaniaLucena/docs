@@ -45,9 +45,9 @@
 
 .. data:: Requerimientos
 
-Aplicar los XML's:
+    Aplicar los XML's:
 
-- Withholding: 043_Add_Currency_Type_Filter_Withholding_Generate.xml
+    :Withholding:                     043_Add_Currency_Type_Filter_Withholding_Generate.xml
 
 .. data:: Correcciones
 

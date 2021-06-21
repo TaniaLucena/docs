@@ -6,7 +6,7 @@
 **Fecha de Liberación:** 2021-05-18
 -----------------------------------
 
-.. data:: Soporte a versiones:
+.. data:: Soporte a versiones
 
 - ADempiereBase: Versión de Liberación: 3.9.3-rs-4.3
 - CST-STD: Versión de Liberación: rs-21.2
@@ -28,7 +28,7 @@
 - LVE: 1.3.3
 - Performance-Analysis: 1.0.2
 
-.. data:: Detalle Técnico:
+.. data:: Detalle Técnico
 
 - CST-STD: 
 
@@ -38,18 +38,18 @@
 
 .. data:: Requerimientos
 
-Se deben aplicar los siguientes XMLs en el proyecto **CST-STD**:
+    Se deben aplicar los siguientes XMLs en el proyecto **CST-STD**:
 
-- 07680_Add_Function_Daily_Salary_by_HRProcress.xml
-- 07690_Add_Subject_for_Standard_Request_Type.xml
-- 07710_Add_columns_to_RV_C_RFQResponse_View.xml
+        07680_Add_Function_Daily_Salary_by_HRProcress.xml
+        07690_Add_Subject_for_Standard_Request_Type.xml
+        07710_Add_columns_to_RV_C_RFQResponse_View.xml
 
-Para los reportes se deben importar los siguientes:
+    Para los reportes se deben importar los siguientes:
 
-- Productos_por_Relacionar.arxml
-- Productos_Relacionados_al_Proveedor.arxml
+        Productos_por_Relacionar.arxml
+        Productos_Relacionados_al_Proveedor.arxml
 
-.. data:: Novedades:
+.. data:: Novedades
 
 - Se agregan columnas de referencia en el reporte detalle de solicitud con respuesta.
 - Se agrega el **Asunto** por defecto en las solicitudes estándares.

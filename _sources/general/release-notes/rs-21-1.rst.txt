@@ -38,7 +38,7 @@
 
   - Fixed error saving record access for business partner
 
-.. function:: Requerimientos(Cash-Management, LVE, Third-Party-Access)
+.. data:: Requerimientos
 
     Se deben aplicar los siguientes XMLs en el proyecto:
   
@@ -48,7 +48,8 @@
                                       05850_Add_Third_Party_Access_Functionality.xml
                                       05860_Add_Setup_for_Third_Party_Access.xml
 
-.. data:: Correcciones
+**Correcciones**
+----------------
 
 - Se permite ver siempre el tipo de conversión en todos los documentos.
 - Se correige problemas con acceso de tercero por usuario
