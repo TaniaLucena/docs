@@ -36,7 +36,7 @@
 
 .. data:: Requerimientos
 
-Sólo aplicar cambios del binario
+    Sólo aplicar cambios del binario
 
 .. data:: Correcciones
 

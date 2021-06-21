@@ -35,11 +35,12 @@
   - Fixed error with validation for business partner value
 
 - RethinkDB Replicator
+
   - Fix error with batch error
 
-  .. data:: Requerimientos
+.. data:: Requerimientos
 
-Sólo montar los cambios del binario
+    Sólo montar los cambios del binario
 
 Correcciones
 
