@@ -90,12 +90,13 @@ Antes de aplicar esta versión se debe considerar tener los siguientes servicios
 
     - Fixed error with default organization for Sales Order updated from POS
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
-- **Mejoras:**
+.. data:: Mejoras
  
     - Ahora se puede ver el error que retorna la impresora fiscal o el servidor de impresora fiscal en ADempiere (Ventana **Log de Impresora Fiscal**)
 
-- **Correcciones:**
+.. data:: Correcciones
  
     - Los documentos multi-moneda que no son de consignación ya no recalculan precio en función de documento de orden de compra

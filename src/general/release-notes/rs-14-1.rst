@@ -23,6 +23,7 @@ Es obligatorio aplicar los XML's antes del cambio puesto que se requieren para:
 
   - Elimina columnas innecesarias para el Buscador de Facturas en el Crear Desde en Cuentas por Pagar
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
 - Se corrige problemas con duplicidad en órdenes de compras al momento de crear lineas de documento por pagar desde Facturas de Entrega Directa

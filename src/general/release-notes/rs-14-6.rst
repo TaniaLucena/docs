@@ -60,9 +60,10 @@
  
     - Soporte a la versión 1.3.3 de Fiscal Printer API
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
-- **Mejoras:**
+.. data:: Mejoras
 
     - Se disminuye el tiempo de espera entre ADempiere y el servidor de impresión fiscal
     - El envío del documento fiscal se convierte en un envío asíncrono

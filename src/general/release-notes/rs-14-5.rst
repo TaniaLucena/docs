@@ -59,10 +59,11 @@
     - Soporte a guardar la fecha y hora de impresión del documento fiscal
     - Corrección de número de documento <Serie de Impresora>-<null>
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
-- **Mejoras:**
-  
+.. data:: Mejoras
+
     - Se disminuye el tiempo de espera entre ADempiere y el servidor de impresión fiscal
     - El envío del documento fiscal se convierte en un envío asíncrono
     - Se disminuye el consumo de memoria en espera de respuesta de impresora fiscal en ADempiere
