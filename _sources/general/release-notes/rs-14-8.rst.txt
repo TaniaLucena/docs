@@ -3,8 +3,7 @@
 **rs-14.8**
 ===========
 
-**Soporte a versiones:**
-------------------------
+.. data:: Soporte a versiones
 
 - ADempiereBase:
  
@@ -14,8 +13,7 @@
  
  - Versión de Liberación: rs-18.8
 
-**Nota crítica:**
------------------
+.. data:: Nota crítica:
 
 - Se debe verificar que existan los siguientes XML's y si no existen se deben aplicar para cada una de las instalaciones (Los XML's se encuentran en el directoriio migration/393lts-394lts de ADempiereBase):
  
@@ -38,8 +36,7 @@
   - 07240_Add_Test_data_for_Functionality_Setup.xml
   - 07240_Change_Deposit_from_Cash_References.xml
 
-**Detalle Técnico:**
---------------------
+.. data:: Detalle Técnico:
 
 - ADempiereBase: 
  
@@ -49,9 +46,9 @@
  
  - Add compatibility with 3.9.3-rs-3.9 of ERPyA granted version
 
-**Novedades:**
---------------
+**Correcciones/Mejoras**
+------------------------
 
-- Mejoras:
- 
- - Actualización a la última versión estable del core de ADempiere garantizado por ERP Consultores y Asociados, CA 3.9.3-rs-3.9
+.. data:: Mejoras
+
+  - Actualización a la última versión estable del core de ADempiere garantizado por ERP Consultores y Asociados, CA 3.9.3-rs-3.9

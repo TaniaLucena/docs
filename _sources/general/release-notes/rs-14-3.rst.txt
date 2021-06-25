@@ -24,7 +24,8 @@ Es obligatorio aplicar los XML's antes del cambio puesto que se requieren para:
  - Agrega soporte a conversión de Estado de Cuenta de Socio de negocio en función de una moneda de parámetro
  - Agrega moneda como columna a la tabla temporal de estado de cuenta
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
 - Se agrega soporte a estado de cuentas por socio de negocio en función de una moneda a convertir (por defecto la moneda de la compañía)
 - Se eliminan dependencias no utilizadas en CST-STD

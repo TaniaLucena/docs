@@ -119,7 +119,10 @@
 <li class="toctree-l3"><a class="reference internal" href="rs-14-7.html"><strong>rs-14.7</strong></a></li>
 <li class="toctree-l3"><a class="reference internal" href="rs-14-6.html"><strong>rs-14.6</strong></a></li>
 <li class="toctree-l3"><a class="reference internal" href="rs-14-5.html"><strong>rs-14.5</strong></a></li>
-<li class="toctree-l3 current"><a class="current reference internal" href="#"><strong>rs-14.4</strong></a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#"><strong>rs-14.4</strong></a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#correcciones-mejoras"><strong>Correcciones/Mejoras</strong></a></li>
+</ul>
+</li>
 <li class="toctree-l3"><a class="reference internal" href="rs-14-3.html"><strong>rs-14.3</strong></a></li>
 <li class="toctree-l3"><a class="reference internal" href="rs-14-2.html"><strong>rs-14.2</strong></a></li>
 <li class="toctree-l3"><a class="reference internal" href="rs-14-1.html"><strong>rs-14.1</strong></a></li>
@@ -311,28 +314,30 @@
 </ul>
 </li>
 </ul>
+<div class="section" id="correcciones-mejoras">
+<h2><strong>Correcciones/Mejoras</strong><a class="headerlink" href="#correcciones-mejoras" title="Permalink to this headline">¶</a></h2>
 <dl class="data">
-<dt id="Novedades">
-<code class="sig-name descname">Novedades</code><a class="headerlink" href="#Novedades" title="Permalink to this definition">¶</a></dt>
-<dd></dd></dl>
-
-<ul class="simple">
-<li><p><strong>Mejoras</strong></p>
-<ul>
+<dt id="Mejoras">
+<code class="sig-name descname">Mejoras</code><a class="headerlink" href="#Mejoras" title="Permalink to this definition">¶</a></dt>
+<dd><ul class="simple">
 <li><p>Se agrega soporte a registro de fecha y hora de impresión de documento fiscal en el documento de cuentas por pagar</p></li>
 <li><p>Se implementa caché para ID de tablas cuando se buscan según su nombre</p></li>
 <li><p>Se escribe la instancia de atributos en la orden de devolución desde la entrega o factura</p></li>
 </ul>
-</li>
-<li><p><strong>Correcciones</strong></p>
-<ul>
+</dd></dl>
+
+<dl class="data">
+<dt id="Correcciones">
+<code class="sig-name descname">Correcciones</code><a class="headerlink" href="#Correcciones" title="Permalink to this definition">¶</a></dt>
+<dd><ul class="simple">
 <li><p>Corrección de número de documento cuando no se tiene respuesta de la impresora: antes se escribía así <strong>Serie de Impresora</strong>-<strong>null</strong> ahora sólo deja que se incremente el correlativo</p></li>
 <li><p>Corrección de transacciones pendientes:
 - 3037 | Select AD_Reference_ID FROM AD_Column WHERE AD_Column_ID=$1
 - 3038 | Select AD_Reference_ID FROM AD_Column WHERE AD_Column_ID=$1</p></li>
 </ul>
-</li>
-</ul>
+</dd></dl>
+
+</div>
 </div>
 
 

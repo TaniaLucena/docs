@@ -47,15 +47,16 @@ Es obligatorio aplicar los XML's antes del cambio puesto que se requieren para:
   - Implementación de caché para id de tablas basado en el nombre
   - Corrección de nombres de transacciones cuando se POInfo y POInfoColumn
 
-.. data:: Novedades
+**Correcciones/Mejoras**
+------------------------
 
-- **Mejoras**
+.. data:: Mejoras
 
   - Se agrega soporte a registro de fecha y hora de impresión de documento fiscal en el documento de cuentas por pagar
   - Se implementa caché para ID de tablas cuando se buscan según su nombre
   - Se escribe la instancia de atributos en la orden de devolución desde la entrega o factura
 
-- **Correcciones**
+.. data:: Correcciones
 
   - Corrección de número de documento cuando no se tiene respuesta de la impresora: antes se escribía así **Serie de Impresora**-**null** ahora sólo deja que se incremente el correlativo
   - Corrección de transacciones pendientes:
