@@ -11,7 +11,7 @@
 .. _Dotnet SDK 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 .. _Acrobat Reader DC: https://get.adobe.com/es/reader/otherversions/
 .. _Foxit PDF Reader: https://www.foxit.com/es-la/downloads/
-.. _Cliente de Impresión (All In One): https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-rs-2.3.exe
+.. _Cliente de Impresión (All In One): https://masia.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-rs-2.3.exe
 .. _src/lve/fiscal-printer:
 .. _documento/instalar-local-printing-all-in-one:
 

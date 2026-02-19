@@ -1,7 +1,7 @@
 .. _documento/versión-49-5:
 
-.. _Formulación de Arroz: https://stackoverflow.com/c/erpya/questions/349/350#350
-.. _Reporte Saldo en Banco: https://github.com/erpcya/CONTROL-ANCA/issues/220
+.. _Formulación de Arroz: https://stackoverflow.com/c/masia/questions/349/350#350
+.. _Reporte Saldo en Banco: https://github.com/masia/CONTROL-ANCA/issues/220
 
 **rs-49-5**
 ===========

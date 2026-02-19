@@ -1,29 +1,29 @@
 {% extends "layout.html" %}
 {% set title = 'Descargar' %}
-{% set url = 'https://docs-erpya.nyc3.digitaloceanspaces.com/erpya.%s' %}
+{% set url = 'https://docs-masia.nyc3.digitaloceanspaces.com/masia.%s' %}
 {% if git_branch == 'master' %}
-  {% set rtd_ver = 'latest' %}
+{% set rtd_ver = 'latest' %}
 {% else %}
-  {% set rtd_ver = git_branch %}
+{% set rtd_ver = git_branch %}
 {% endif %}
 
 {% block body %}
 <h1>Descargar Documentación de ADempiere {{ release }} </h1>
 
-<p>Para descargar un archivo que contenga todos los documentos para esta versión de ADempiere en uno de varios formatos, siga uno de los enlaces de esta tabla.</p>
+<p>Para descargar un archivo que contenga todos los documentos para esta versión de ADempiere en uno de varios formatos,
+  siga uno de los enlaces de esta tabla.</p>
 
 <table class="docutils">
   <tr>
     <td>PDF (A4 paper size)</td>
-    <td><a href="https://docs-erpya.nyc3.digitaloceanspaces.com/latex/erpya.pdf">Descargar</a> (~230 MB)</td>
+    <td><a href="https://docs-masia.nyc3.digitaloceanspaces.com/latex/masia.pdf">Descargar</a> (~230 MB)</td>
   </tr>
   <tr>
     <td>EPUB</td>
-    <td><a href="https://docs-erpya.nyc3.digitaloceanspaces.com/epub/ERPYA.epub">Descargar</a> (~230 MB)</td>
+    <td><a href="https://docs-masia.nyc3.digitaloceanspaces.com/epub/masia.epub">Descargar</a> (~230 MB)</td>
   </tr>
 </table>
 
 <p>Estos archivos contienen todo el contenido de la documentación.</p>
 
 {% endblock %}
-

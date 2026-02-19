@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Detalle de Almacenamiento Antes| image:: resources/detalle-almacenamiento-antes.png
 .. |Menú de ADempiere| image:: resources/menu-inventario-uso-interno.png
@@ -72,7 +72,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 8. Campo Fecha de Movimiento
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por la empresa `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por la empresa `Alimentos Masía`_.
 
         |Tipo de Documento|
 

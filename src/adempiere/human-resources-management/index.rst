@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/human-resources-management:
 
 ===============================

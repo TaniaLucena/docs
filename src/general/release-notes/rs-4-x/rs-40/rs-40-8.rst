@@ -1,5 +1,5 @@
-.. _Lectura de peso en otros equipos que no es el de romana: https://github.com/erpcya/CONTROL-ANCA/issues/159
-.. _Visor de registro de peso: https://github.com/erpcya/CONTROL-ANCA/issues/154
+.. _Lectura de peso en otros equipos que no es el de romana: https://github.com/masia/CONTROL-ANCA/issues/159
+.. _Visor de registro de peso: https://github.com/masia/CONTROL-ANCA/issues/154
 .. _documento/versión-40-8:
 
 **rs-40-8**

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu.png
 .. |Icono Registro Nuevo 1| image:: resources/icono-nuevo.png
 .. |Campo Organización 1| image:: resources/organizacion.png
@@ -39,7 +39,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos P
 
         Imagen 3. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizado el tipo de documento "**Orden de Pago Obligaciones Laborales**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. Para ejemplificar el registro es utilizado el tipo de documento "**Orden de Pago Obligaciones Laborales**".
 
         |Campo Tipo de Documento 1|
 

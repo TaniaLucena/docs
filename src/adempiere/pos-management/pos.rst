@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de toma de pedido pos| image:: resources/pos.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Ventana Selecciona Terminal PDV| image:: resources/window-select-terminal-pdv.png
@@ -68,7 +68,7 @@ Podrá visualizar la ventana "**Selecciona Terminal PDV**", para seleccionar el 
 
         Esta opción es habilitada cuando el socio del negocio vendedor tiene configurado más de un terminal de punto de venta.
 
-La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `ERPyA`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la toma de pedido por el punto de venta.
+La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `Alimentos Masía`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la toma de pedido por el punto de venta.
 
 Seleccione el icono "**Registro Nuevo**" para crear un nuevo registro de orden de venta. 
 

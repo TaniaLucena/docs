@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere| image:: resources/menu-adempiere.png
 .. |Ventana Cierre de Caja| image:: resources/icono-registro-nuevo.png
@@ -37,7 +37,7 @@ Seleccione en el campo "**Organización**", la organización para la cual está 
 
     Imagen 3. Campo Organización
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
     |Campo Tipo de Documento|
 

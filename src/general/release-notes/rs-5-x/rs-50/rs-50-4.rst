@@ -1,7 +1,7 @@
 .. _documento/versión-50-4:
 
-.. _Manejo de Control de Parques: https://github.com/erpcya/Control-ERPYA/issues/909
-.. _Manejo de contról de tiempo en Parques: https://stackoverflow.com/c/erpya/questions/370/371#371
+.. _Manejo de Control de Parques: https://github.com/masia/Control-masia/issues/909
+.. _Manejo de contról de tiempo en Parques: https://stackoverflow.com/c/masia/questions/370/371#371
 
 **rs-50-4**
 ===========

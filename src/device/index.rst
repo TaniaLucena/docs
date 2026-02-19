@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/device:
 
 ================
 **Dispositivos**
 ================
 
-En esta seccion se describen los Dispositivos, que pueden se conectados a ADempiere a trave de las aplicaciones desarrolladas por `ERPyA`_
+En esta seccion se describen los Dispositivos, que pueden se conectados a ADempiere a trave de las aplicaciones desarrolladas por `Alimentos Masía`_
 
 .. toctree::
     :maxdepth: 2

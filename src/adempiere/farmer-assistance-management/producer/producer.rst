@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de Productor| image:: resources/producer-menu.png
 .. |ventana productor| image:: resources/producer-window.png
 .. |icono registros nuevo de la ventana productor| image:: resources/new-records-icon-in-the-producer-window.png
@@ -288,7 +288,7 @@ Seleccione en el campo "**Región de Ventas**", la región o área de ventas en 
 
     .. note::
 
-        Para conocer más sobre las regiones de ventas que puede tener una compañía u organización, visite el documento :ref:`documento/region-ventas`, elaborado por `ERPyA`_.
+        Para conocer más sobre las regiones de ventas que puede tener una compañía u organización, visite el documento :ref:`documento/region-ventas`, elaborado por `Alimentos Masía`_.
 
 .. warning::
 

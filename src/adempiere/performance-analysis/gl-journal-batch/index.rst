@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Estructura de Diario Contable| image:: resources/structure-gljournal.png
 .. |Estructura de Diario Contable Ejemplo| image:: resources/structure-gljournal-example.png
 .. _src/adempiere/performance-analysis/gl-journal-batch:
@@ -77,7 +77,7 @@ Adicionalmente, esta funcionalidad permite la realización de lotes de asientos 
 
 Pese a que usted cuenta con esta bondad, no se recomienda la realización de notas contables para procesos contemplados en ADempiere, puesto cada transacción administrativa registra los hechos contables de forma automática, en consecuencia se sugiere sea utilizado solo en casos excepcionales.
 
-`ERPyA`_  quiere ofrecerle un instructivo paso a paso con el cual podrá alcanzar un registro exitoso como diario contable en ADempiere ERP & CRM,.
+`Alimentos Masía`_  quiere ofrecerle un instructivo paso a paso con el cual podrá alcanzar un registro exitoso como diario contable en ADempiere ERP & CRM,.
 
 .. toctree::
     :maxdepth: 2

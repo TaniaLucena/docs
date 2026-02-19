@@ -1,5 +1,5 @@
 .. _documento/versión-47-0:
-.. _Registro de Peso del Frijol: https://github.com/erpcya/Control-VEALCA/issues/79
+.. _Registro de Peso del Frijol: https://github.com/masia/Control-VEALCA/issues/79
 .. |Proceso de Recalculo desde el Menú| image:: resources/rs-47-0-reprocess-invoices-from-purchase-orders-menu.png
 .. |Proceso de Recalculo desde la Ventana| image:: resources/rs-47-0-reprocess-invoices-from-purchase-orders-window.png
 

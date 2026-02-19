@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Opción Contabilizado de la Ventana Requisición| image:: resources/option-posted-from-the-requisition-window.png
 .. |Asiento Contable de la Ventana Requisición| image:: resources/requisition-window-accounting-entry.png
 .. |Opción Contabilizado de la Ventana Ordenes de Compra| image:: resources/option-posted-from-the-purchase-orders-window.png
@@ -25,7 +25,7 @@
 **Requisición**
 ---------------
 
-Realice el procedimiento regular para generar una requisición en ADempiere, el mismo es explicado en el documento :ref:`documento/requisición-compra`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una requisición en ADempiere, el mismo es explicado en el documento :ref:`documento/requisición-compra`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento de requisición se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Requisición**".
 
@@ -42,7 +42,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Orden de Compra**
 -------------------
 
-Realice el procedimiento regular para generar una orden de compra directa en ADempiere, el mismo es explicado en el documento :ref:`documento/orden-de-compra`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una orden de compra directa en ADempiere, el mismo es explicado en el documento :ref:`documento/orden-de-compra`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento de orden de compra se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Órdenes de Compra**".
 
@@ -59,7 +59,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Factura de Cuentas por Pagar**
 --------------------------------
 
-Realice el procedimiento regular para generar un documento por pagar en ADempiere, el mismo es explicado en el documento :ref:`documento/documento-por-pagar`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un documento por pagar en ADempiere, el mismo es explicado en el documento :ref:`documento/documento-por-pagar`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento de factura por pagar se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Documentos por Pagar**".
 
@@ -76,7 +76,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Asignación Factura/Recepción**
 --------------------------------
 
-Realice el procedimiento regular para generar una asignación en ADempiere, el mismo es explicado en el documento :ref:`documento/asignar-orden-de-compra-recepción-factura`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una asignación en ADempiere, el mismo es explicado en el documento :ref:`documento/asignar-orden-de-compra-recepción-factura`, elaborado por `Alimentos Masía`_.
 
 Luego de realizar por completo el procedimiento de asignación, seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Facturas Asignadas a Recepciones**".
 
@@ -93,7 +93,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Recepción**
 -------------
 
-Realice el procedimiento regular para generar una recepción de productos en ADempiere, el mismo es explicado en el documento :ref:`documento/recepción-productos`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una recepción de productos en ADempiere, el mismo es explicado en el documento :ref:`documento/recepción-productos`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento de recepción de productos se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Recepción de Productos**".
 
@@ -110,7 +110,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Pago**
 --------
 
-Realice el procedimiento regular para generar un pago en ADempiere, el mismo es explicado en el documento :ref:`documento/pago`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un pago en ADempiere, el mismo es explicado en el documento :ref:`documento/pago`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento pago se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Pago/Cobro**".
 
@@ -152,7 +152,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Conciliación**
 ----------------
 
-Realice el procedimiento regular para generar una conciliación en ADempiere, el mismo es explicado en el documento :ref:`documento/conciliacion-automatica`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una conciliación en ADempiere, el mismo es explicado en el documento :ref:`documento/conciliacion-automatica`, elaborado por `Alimentos Masía`_.
 
 Luego de que el documento de conciliación automática se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Estado de Cuentas Bancario**".
 

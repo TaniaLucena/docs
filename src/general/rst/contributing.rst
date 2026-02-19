@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Clonar o Descargar| image:: resources/img12.png
 
 .. _documento/contribuir-documento:
@@ -9,23 +9,23 @@
 
 La documentación es una forma de describir un proceso simple o complejo para un usuario final, dado que en el día a día existen muchas actividades y muy poco tiempo siempre es bueno contar con una guía para realizar los procesos que a veces se olvidan.
 
-Este material elaborado por `E.R.P. Consultores y Asociados, C.A. <http://erpya.com/>`__ está dirigido a las personas que se encargan de documentar cualquier proceso, paso a paso, guía de usuario o simplemente una publicación bajo el uso de la herramienta "**reStructuredText**". Tome en cuenta todas las consideraciones expresadas en esta guía para evitar problemas de escalabilidad a futuro y mantenimiento.
+Este material elaborado por `Alimentos Masía <https://alimentosmasia.com/>`__ está dirigido a las personas que se encargan de documentar cualquier proceso, paso a paso, guía de usuario o simplemente una publicación bajo el uso de la herramienta "**reStructuredText**". Tome en cuenta todas las consideraciones expresadas en esta guía para evitar problemas de escalabilidad a futuro y mantenimiento.
 
 A diferencia de "**Markdown**", la documentación en "**rST**" no es realizada de forma local, por lo tanto el equipo de trabajo necesita conexión a internet para visualizar los cambios realizados en la documentación.
 
-Las colaboraciones a dicha documentación son realizadas por medio de "**GitHub**". El repositorio del usuario debe ser actualizado para extraer del repositorio "**erpcya/docs**" los cambios. Para contribuir a la documentación de `ERPyA`_, el usuario debe cumplir con tres (3) requerimientos necesarios indicados a continuación y acceder a https://github.com/erpcya/docs/issues para contribuir:
+Las colaboraciones a dicha documentación son realizadas por medio de "**GitHub**". El repositorio del usuario debe ser actualizado para extraer del repositorio "**erpcya/docs**" los cambios. Para contribuir a la documentación de `Alimentos Masía`_, el usuario debe cumplir con tres (3) requerimientos necesarios indicados a continuación y acceder a https://github.com/masia/docs/issues para contribuir:
 
-- Tener el repositorio de `ERPyA`_ clonado en su versión actualizada.
+- Tener el repositorio de `Alimentos Masía`_ clonado en su versión actualizada.
 
 - Tener usuario en Read the Docs
 
-- Tener creado un proyecto con la url del repositorio de `ERPyA`_
+- Tener creado un proyecto con la url del repositorio de `Alimentos Masía`_
 
 En el caso de que el usuario no cumpla con los requerimientos establecidos y desconozca la manera de obtenerlos, puede ingresar al documento :ref:`documento/nuevo-proyecto`, y seguir el procedimiento indicado para cumplir con los requerimientos necesarios.
 
 Cuando el usuario cumpla con los requerimientos indicados anteriormente y desee realizar contribuciones a las documentaciones, el mismo debe iniciar sesión en "**Read the Docs**", abrir el editor de texto instalado previamente (Puede ser utilizado Visual Studio Code) y realizar lo siguiente:
 
-Seleccione en la barra de herramientas de "**Visual Studio Code**", la opción "**Terminal**", luego seleccione la opción "**Nueva Terminal**". Ejecute el siguiente comando en la terminal: git remote add upstream https://github.com/erpcya/docs.git
+Seleccione en la barra de herramientas de "**Visual Studio Code**", la opción "**Terminal**", luego seleccione la opción "**Nueva Terminal**". Ejecute el siguiente comando en la terminal: git remote add upstream https://github.com/masia/docs.git
 
 Luego de haber configurado "**Visual Studio Code**", puede proceder a realizar o actualizar la documentación.
 
@@ -56,7 +56,7 @@ La etiqueta al principio del documento es una forma de clasificación ordenada q
 
 ::
 
-    Si desea contribuir a esta documentación, puede tomar como guia el documento realizado por E.R.P. Consultores y Asociados con la finalidad de que los usuario puedan :ref:`documento/contribuir`.
+    Si desea contribuir a esta documentación, puede tomar como guia el documento realizado por Alimentos Masía con la finalidad de que los usuario puedan :ref:`documento/contribuir`.
 
 
 **Titulos**
@@ -238,9 +238,9 @@ Las imágenes pueden ser llamadas en la documentación de dos (2) formas:
     .. documento/contribuir-02
 
     .. figure:: resources/img2.png
-       :alt: Perfil de ERPyA en GitHub
+       :alt: Perfil de masia en GitHub
 
-    Imagen 2. Perfil de ERPyA en GitHub
+    Imagen 2. Perfil de masia en GitHub
 
 .. note::
 
@@ -259,7 +259,7 @@ Las imágenes pueden ser llamadas en la documentación de dos (2) formas:
 
     ``.. |Inicio de Sesión en GitHub| image:: img/img1.png``
 
-    ``.. |Perfil de ERPyA en GitHub| image:: img/img2.png``
+    ``.. |Perfil de masia en GitHub| image:: img/img2.png``
 
 .. note::
 
@@ -282,16 +282,16 @@ Las imágenes pueden ser llamadas en la documentación de dos (2) formas:
 
     "Ejemplo de llamado de otra imagen en el documento":
 
-    Luego ubique el perfil de `ERPyA`_ ubicado en https://github.com/erpcya, para buscar el repositorio de la documentación "docs". La búsqueda del repositorio puede ser realizada de forma manual o buscando la palabra "docs" en la barra de búsqueda inteligente.
+    Luego ubique el perfil de `Alimentos Masía`_ ubicado en https://github.com/masia, para buscar el repositorio de la documentación "docs". La búsqueda del repositorio puede ser realizada de forma manual o buscando la palabra "docs" en la barra de búsqueda inteligente.
 
-    |Perfil de ERPyA|
+    |Perfil de masia|
 
-    Imagen 2. Perfil de ERPyA
+    Imagen 2. Perfil de masia
 
 .. note:: 
 
-    - ``|Perfil de ERPyA|``: Llamado de la imagen en el documento. Esta puede ser llamada cuando se necesite a lo largo del documento.
-    - ``Imagen 2. Perfil de ERPyA``: Referencia para mostrar por orden las imágenes en el documento y agregar su título o descripción.
+    - ``|Perfil de masia|``: Llamado de la imagen en el documento. Esta puede ser llamada cuando se necesite a lo largo del documento.
+    - ``Imagen 2. Perfil de masia``: Referencia para mostrar por orden las imágenes en el documento y agregar su título o descripción.
 
 
 **Formato para Menú**
@@ -301,7 +301,7 @@ El menú en la documentación es conformado en el "**index.rst**" principal de l
 
 - ``Título``: Título Principal de la Documentación.
 - ``.. toctree::``: Etiqueta para mostrar en el menú los nombres de los documentos con enlace a los mismos por medio de un click.
-- ``:caption: E.R.P. Consultores y Asociados, C.A.``: Etiqueta para clasificar el menú por modulos, seguido del nombre correspondiente.
+- ``:caption: Alimentos Masía``: Etiqueta para clasificar el menú por modulos, seguido del nombre correspondiente.
 - ``:maxdepth: 2``: Etiqueta utilizada para indicar que cantidad o profundidad de niveles de documentos que se van a mostrar. 
 - ``:numbered:``: Etiqueta utilizada para enumerar cada documento del menú declarado con su respectiva ruta.
 - ``general/procedures/index``: Declaración de la ruta del documento.
@@ -322,7 +322,7 @@ Para agregar correctamente una nota o alerta, es necesario tomar en cuenta lo si
 **Reglas para Crear una Documentación**
 =======================================
 
-E.R.P. Consultores y Asociados, C.A. tiene establecido como estándar de nombre de archivos, directorio e imágenes de la documentación en "**reStructuredText**" lo siguiente.
+Alimentos Masía tiene establecido como estándar de nombre de archivos, directorio e imágenes de la documentación en "**reStructuredText**" lo siguiente.
 
 **Nombre del Archivo de la Documentación**
 ******************************************
@@ -356,7 +356,7 @@ Dependiendo de lo complejo de la documentación se define la estructura de direc
 
 Con base en las preguntas deberá determinar si debe agregar un directorio nuevo al directorio principal o simplemente usar uno que ya exista.
 
-Un ejemplo es la localización realizada por E.R.P. Consultores y Asociados, C.A. para Venezuela, a continuación se presenta:
+Un ejemplo es la localización realizada por Alimentos Masía para Venezuela, a continuación se presenta:
 
 - ¿La documentación tiene muchas secciones? Si puede tener varias secciones como:
 
@@ -439,17 +439,17 @@ Para descargar el repositorio en la carpeta local y poder contribuir a la docume
 
 Comando para ubicarse en la carpeta donde se va a almacenar el repositorio ``cd /opt/Development/Workspace/``
 
-Copie la url del repositorio de `ERPyA`_ con la opción "**Clone or download**"
+Copie la url del repositorio de `Alimentos Masía`_ con la opción "**Clone or download**"
 
     |Clonar o Descargar|
 
     Imagen 1. Opción Clonar o Descargar Repositorio 
 
-Comando para descargar el repositorio clonado en la carpeta local seleccionada ``git clone https://github.com/erpcya/docs.git``
+Comando para descargar el repositorio clonado en la carpeta local seleccionada ``git clone https://github.com/masia/docs.git``
 
 .. note:: 
 
-    La url introducida en el comando es la copiada desde la opción "**Clone or download**" del repositorio de `ERPyA`_.
+    La url introducida en el comando es la copiada desde la opción "**Clone or download**" del repositorio de `Alimentos Masía`_.
 
 **Actualizar Repositorio**
 **************************
@@ -458,9 +458,9 @@ Para contribuir a la documentación es necesario tener el repositorio actualizad
 
 Comando para ubicarse en la carpeta donde se encuentra el repositorio ``cd /opt/Development/Workspace/docs``
 
-Comando para traer los cambios del repositorio de `ERPyA`_ ``git fetch upstream``
+Comando para traer los cambios del repositorio de `Alimentos Masía`_ ``git fetch upstream``
 
-Comando para reemplazar el repositorio en mi cuenta por el repositorio de `ERPyA`_ ``git rebase -f upstream/master``
+Comando para reemplazar el repositorio en mi cuenta por el repositorio de `Alimentos Masía`_ ``git rebase -f upstream/master``
 
     Si da conflicto o se necesitan los cambios de una rama en especifico, se debe ajecutar el siguiente comando ``git merge master``
 
@@ -475,7 +475,7 @@ Comando para reemplazar el repositorio en mi cuenta por el repositorio de `ERPyA
 
 Hacer commit en la rama creada para el documento.
 
-Ubicarse en 159.65.189.53:8000/projects/documentacion-uestandar/builds/ o en su defecto http://docs.erpya.com/projects/documentacion-uestandar/builds/
+Ubicarse en 159.65.189.53:8000/projects/documentacion-uestandar/builds/ o en su defecto http://docs.masia.com/projects/documentacion-uestandar/builds/
 
     Seleccione la rama (versión) a actualizar.
 
@@ -499,6 +499,6 @@ Espere el resultado
     
     **Con Éxito**: Se compilo exitosamente el servicio de prueba.
 
-Ubique el servicio de prueba 159.65.189.53:8000/docs/documentacion-uestandar/en/versióncompilada o en su defecto puede seleccionar la opción "**Ver Documentación**" y cambie en la url http://docs.erpya.com/docs/documentacion-uestandar/en/latest/ la palabra "**latest**" por el nombre de la versión compilada.
+Ubique el servicio de prueba 159.65.189.53:8000/docs/documentacion-uestandar/en/versióncompilada o en su defecto puede seleccionar la opción "**Ver Documentación**" y cambie en la url http://docs.masia.com/docs/documentacion-uestandar/en/latest/ la palabra "**latest**" por el nombre de la versión compilada.
 
     Refresque o Actualice la página para ver los cambios.

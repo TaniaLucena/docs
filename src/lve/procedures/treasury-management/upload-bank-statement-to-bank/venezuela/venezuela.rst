@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-de-venezuela:
 
 **Banco de Venezuela**
 ======================
 
-Para la exportación de los archivos desde ADempiere al banco de venezuela, `ERPyA`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado. El documento :download:`Formato Archivo de Pago a Proveedore <FormatoDeArchivoPagoProveedores.pdf>`, explica el formato que sirve de ayuda para la construcción el archivo a cargar. 
+Para la exportación de los archivos desde ADempiere al banco de venezuela, `Alimentos Masía`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado. El documento :download:`Formato Archivo de Pago a Proveedore <FormatoDeArchivoPagoProveedores.pdf>`, explica el formato que sirve de ayuda para la construcción el archivo a cargar. 
 
 Adicional a ello, cuenta con los documentos :download:`Registro y Formato de Cheques <Venezuela_Verificación.xlsx>` y :download:`Registro y Formato de Cheque <Venezuela.xlsx>`.
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/documento-por-cobrar.png
 .. |Ventana Documento por Cobrar| image:: resources/vent-documento-por-cobrar.png
 .. |Icono Registro Nuevo| image:: resources/icono-registro-nuevo.png
@@ -49,7 +49,7 @@ Podrá visualizar la ventana "**Documentos por Cobrar**" con los diferentes regi
 
         Imagen 4. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         |Campo Tipo de Documento Destino|
 

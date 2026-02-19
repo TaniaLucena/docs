@@ -10,7 +10,7 @@
 .. |Servicio de Windows| image:: resources/weight-sender-folder-service.PNG
 .. |Propiedades Servicio de Windows| image:: resources/weight-sender-folder-service-properties.PNG
 .. |Error iniciando Servicio de Windows| image:: resources/weight-sender-folder-service-start-error.PNG
-.. _XCTU: https://erpya.ams3.digitaloceanspaces.com/public/XCTU_5.2.8.exe
+.. _XCTU: https://masia.ams3.digitaloceanspaces.com/public/XCTU_5.2.8.exe
 .. _documento/verificar-record-weight-sender:
 
 Verificar el funcionamiento del Cliente de Lectura de Peso

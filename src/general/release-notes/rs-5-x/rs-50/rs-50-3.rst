@@ -1,8 +1,8 @@
 .. _documento/versión-50-3:
 
-.. _Problemas al Actualizar Correlativos Fiscal a través de "Autorizar Documento Fiscal": https://github.com/erpcya/Control-PROSEIN/issues/264
-.. _Obtener Tasas de Cambio BCV: https://github.com/erpcya/Control-ERPYA/issues/900
-.. _Proceso Generar Orden desde Hoja Tecnica: https://github.com/erpcya/Control-VEALCA/issues/200
+.. _Problemas al Actualizar Correlativos Fiscal a través de "Autorizar Documento Fiscal": https://github.com/masia/Control-PROSEIN/issues/264
+.. _Obtener Tasas de Cambio BCV: https://github.com/masia/Control-masia/issues/900
+.. _Proceso Generar Orden desde Hoja Tecnica: https://github.com/masia/Control-VEALCA/issues/200
 
 **rs-50-3**
 ===========

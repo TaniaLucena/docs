@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere 1| image:: resources/menu-gen-dec-ret-iva.png
 .. |Ventana Generar Declaración de Retenciones| image:: resources/vent-gen-dec-ret-iva.png
 .. |Campo Tipo de Retención 1| image:: resources/campo-tipo-ret1.png
@@ -62,7 +62,7 @@ Podrá visualizar la ventana de búsqueda inteligente "**Generar Declaración de
 
         .. note::
 
-            El campo "**F. Documento**" es la fecha contable que tomará el documento de declaración de retenciones al culminar el proceso "**Generar Declaración de Retenciones**". `ERPyA`_ recomienda ingresar la fecha en la que se declara la retención.
+            El campo "**F. Documento**" es la fecha contable que tomará el documento de declaración de retenciones al culminar el proceso "**Generar Declaración de Retenciones**". `Alimentos Masía`_ recomienda ingresar la fecha en la que se declara la retención.
 
     Seleccione las diferentes retenciones a declarar y posteriormente seleccione la opción "**OK**" para culminar el proceso "**Generar Declaración de Retenciones**".
 

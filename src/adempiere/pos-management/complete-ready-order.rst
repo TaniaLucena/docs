@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de completar orden preparada pos| image:: resources/complete-ready-order.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Opción Completar Orden Preparada| image:: resources/complete-ready-order-option.png
@@ -31,9 +31,9 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
     Imagen 2. Menú de ADempiere
 
-La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `ERPyA`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la completación de una orden preparada por el punto de venta.
+La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `Alimentos Masía`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la completación de una orden preparada por el punto de venta.
 
-Luego de realizar desde el punto de venta la toma de pedido, seleccione la opción "**Completar Orden Preparada**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Luego de realizar desde el punto de venta la toma de pedido, seleccione la opción "**Completar Orden Preparada**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Alimentos Masía`_.
 
     |Opción Completar Orden Preparada|
 

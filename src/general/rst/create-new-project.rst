@@ -1,6 +1,6 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Usuario en GitHub| image:: resources/img1.png 
-.. |Perfil de ERPyA| image:: resources/img2.png 
+.. |Perfil de masia| image:: resources/img2.png 
 .. |Fork| image:: resources/img3.png 
 .. |Copiar al Usuario| image:: resources/img4.png 
 .. |Perfil Usuario| image:: resources/img5.png 
@@ -17,9 +17,9 @@
 **Crear un Proyecto en Read the Docs**
 ======================================
 
-Para realizar una contribución a la documentación de `ERPyA`_ realice el procedimiento indicado en el presente documento para cumplir con los requerimientos necesarios.
+Para realizar una contribución a la documentación de `Alimentos Masía`_ realice el procedimiento indicado en el presente documento para cumplir con los requerimientos necesarios.
 
-`ERPyA`_ tiene como estándar de usuario para acceder a "**Read the Docs**", el mismo estándar de usuario en "**ADempiere**".
+`Alimentos Masía`_ tiene como estándar de usuario para acceder a "**Read the Docs**", el mismo estándar de usuario en "**ADempiere**".
 
 Las credenciales para que el usuario pueda iniciar sesión en "**Read the Docs**" son:
 
@@ -31,7 +31,7 @@ Las credenciales para que el usuario pueda iniciar sesión en "**Read the Docs**
 
     - **Ejemplo**: uEstandar
 
-**Clonar Repositorio de ERPyA**
+**Clonar Repositorio de masia**
 ===============================
 
 Ingrese a su usuario de "**GitHub**" en https://github.com/. 
@@ -40,11 +40,11 @@ Ingrese a su usuario de "**GitHub**" en https://github.com/.
 
     Imagen 1. Inicio de Sesión en GitHub
 
-Luego ubique el perfil de `ERPyA`_ ubicado en https://github.com/erpcya, para buscar el repositorio de la documentación "**docs**". La búsqueda del repositorio puede ser realizada de forma manual o buscando la palabra "**docs**" en la barra de búsqueda inteligente.
+Luego ubique el perfil de `Alimentos Masía`_ ubicado en https://github.com/masia, para buscar el repositorio de la documentación "**docs**". La búsqueda del repositorio puede ser realizada de forma manual o buscando la palabra "**docs**" en la barra de búsqueda inteligente.
 
-    |Perfil de ERPyA|
+    |Perfil de masia|
 
-    Imagen 2. Perfil de ERPyA
+    Imagen 2. Perfil de masia
 
 Ingrese al repositorio "**docs**" y seleccione la opción "**Fork**" ubicada en la superior derecha de la ventana. 
 
@@ -71,7 +71,7 @@ Luego de culminado el proceso "**Fork**", puede acceder al repositorio desde el 
 **Crear un Proyecto en Read the Docs**
 ======================================
 
-Ingrese a la página http://docs.erpya.com/accounts/login/, para iniciar sesión con su usuario en "**Read the Docs**".
+Ingrese a la página http://docs.masia.com/accounts/login/, para iniciar sesión con su usuario en "**Read the Docs**".
 
     |Usuario en Read the Docs|
 
@@ -89,11 +89,11 @@ El usuario debe realizar la importación manualmente seleccionando la opción "*
 
     Imagen 8. Opción Importar Manualmente
 
-`ERPyA`_ recomienda a los usuarios que los proyectos creados con respecto a la documentación sean creados bajo un estándar con respecto a los nombres:
+`Alimentos Masía`_ recomienda a los usuarios que los proyectos creados con respecto a la documentación sean creados bajo un estándar con respecto a los nombres:
 
     - **Campo Nombre:** Se refiere al nombre del proyecto en Read the Docs, el mismo puede ser la palabra "**Documentacion**", seguida del símbolo "**-**" y por último el nombre del usuario "**uEstandar**".
 
-    - **Campo URL del repositorio:** Se refiere a la url del repositorio clonado. Para este ejemplo el repositorio clonado es el de `ERPyA`_ y la url es https://github.com/erpcya/docs.git obtenida en el repositorio "**docs**", seleccionando la opción "**Clone or download**".
+    - **Campo URL del repositorio:** Se refiere a la url del repositorio clonado. Para este ejemplo el repositorio clonado es el de `Alimentos Masía`_ y la url es https://github.com/masia/docs.git obtenida en el repositorio "**docs**", seleccionando la opción "**Clone or download**".
 
     - **Checklist Edit advanced project options:** Permite agregar la descripción del proyecto que se esta creando.
 
@@ -111,9 +111,9 @@ Proceda a ingresar una descripción referente al proyecto que esta creando. Lueg
 
 .. note::
 
-    La creación del proyecto puede tardar unos minutos, `ERPyA`_ recomienda al usuario esperar hasta que "**Read the Docs**" culmine el proceso.
+    La creación del proyecto puede tardar unos minutos, `Alimentos Masía`_ recomienda al usuario esperar hasta que "**Read the Docs**" culmine el proceso.
 
-El usuario puede visualizar los proyectos creados ingresando en http://docs.erpya.com/
+El usuario puede visualizar los proyectos creados ingresando en http://docs.masia.com/
 
     |Proyectos Creados|
 

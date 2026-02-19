@@ -1,11 +1,11 @@
 .. _documento/versión-50-8:
 
-.. _No actualiza los Montos del Expediente de la Factura: https://github.com/erpcya/Control-ERPYA/issues/903
-.. _Al realizar la OC no actualiza los montos: https://github.com/erpcya/Control-ERPYA/issues/904
-.. _Dar Soporte a Tipo de Conversión Negociado al Expediente de Importación: https://github.com/erpcya/Control-ERPYA/issues/905
-.. _Al Reversar la Planilla Generada no se puede generar nuevamente: https://github.com/erpcya/Control-ERPYA/issues/906
-.. _El monto Base Facturado no concuerda con el monto ordenado: https://github.com/erpcya/Control-ERPYA/issues/907
-.. _Reporte Saldo en Banco: https://github.com/erpcya/CONTROL-ANCA/issues/220
+.. _No actualiza los Montos del Expediente de la Factura: https://github.com/masia/Control-masia/issues/903
+.. _Al realizar la OC no actualiza los montos: https://github.com/masia/Control-masia/issues/904
+.. _Dar Soporte a Tipo de Conversión Negociado al Expediente de Importación: https://github.com/masia/Control-masia/issues/905
+.. _Al Reversar la Planilla Generada no se puede generar nuevamente: https://github.com/masia/Control-masia/issues/906
+.. _El monto Base Facturado no concuerda con el monto ordenado: https://github.com/masia/Control-masia/issues/907
+.. _Reporte Saldo en Banco: https://github.com/masia/CONTROL-ANCA/issues/220
 
 
 **rs-50-8**

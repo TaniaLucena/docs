@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _src/bot:
 
@@ -6,7 +6,7 @@
 **Bot**
 =======
 
-En todas las pequeñas, medianas y grandes empresas, es importante la interacción entre la empresa u organización y el socio del negocio. Es por ello que `ERPyA`_, presenta el siguiente material que explica la funcionalidad que tiene ADempiere con la red social **Telegram**.
+En todas las pequeñas, medianas y grandes empresas, es importante la interacción entre la empresa u organización y el socio del negocio. Es por ello que `Alimentos Masía`_, presenta el siguiente material que explica la funcionalidad que tiene ADempiere con la red social **Telegram**.
 
 Un bot simula la interección humana y es ideal para la atención al cliente ya que su respuesta es inmediata. ADempiere cuenta con la funcionalidad de permitir que los socios del negocio tengan acceso a la información resguardada en el mismo, de manera rápida y sencilla. Para ello, se debe configurar el socio del negocio.
 

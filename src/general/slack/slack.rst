@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _Slack: https://erp.slack.com/
 .. _Google Play Store: https://play.google.com/store/apps/details?id=com.Slack
 .. |Invitación Slack| image:: resources/Invitacion2.png
@@ -61,18 +61,18 @@ La herramienta slack es utilizada en la empresa "**ERP Consultores y Asociados**
 
     Cualquier duda o inquietud sobre la información incluida en este material, contactar a los consultores de **ERP Consultores y Asociados**.
 
-Para poder acceder al espacio de trabajo de `ERPyA`_ se debe tener una cuenta asociada, para ello primeramente debes contar con una invitación el cual llegará a la cuenta de correo electrónico qué le facilites a los consultores de `ERPyA`_, posterior a ello debes ser miembro de un canal privado de la empresa a la qué pertenezca para qué puedas interactuar bajo el espacio de trabajo de `ERPyA`_.
+Para poder acceder al espacio de trabajo de `Alimentos Masía`_ se debe tener una cuenta asociada, para ello primeramente debes contar con una invitación el cual llegará a la cuenta de correo electrónico qué le facilites a los consultores de `Alimentos Masía`_, posterior a ello debes ser miembro de un canal privado de la empresa a la qué pertenezca para qué puedas interactuar bajo el espacio de trabajo de `Alimentos Masía`_.
 
 .. note::
 
-    La invitación es realizada por el equipo de trabajo de `ERPyA`_
+    La invitación es realizada por el equipo de trabajo de `Alimentos Masía`_
 
-Para poder cumplir con los aspectos anteriormente mencionados, a continuación se detalla el paso a paso para poder crear una cuenta y acceder al espacio de trabajo del slack de `ERPyA`_
+Para poder cumplir con los aspectos anteriormente mencionados, a continuación se detalla el paso a paso para poder crear una cuenta y acceder al espacio de trabajo del slack de `Alimentos Masía`_
 
 **Crear Cuenta en Slack**
 -------------------------
 
-En la cuenta del correo electrónico llegará un mensaje con la invitación realizada por `ERPyA`_
+En la cuenta del correo electrónico llegará un mensaje con la invitación realizada por `Alimentos Masía`_
 
 Al abrir el correo de la invitación aparecerá un mensaje invitandote a unirte al espacio de trabajo, dar click al botón “**Únete ahora**” para poder crear una cuenta.
 
@@ -112,9 +112,9 @@ Al abrir el correo de la invitación aparecerá un mensaje invitandote a unirte 
 
         .. note::
 
-            Al dar click al botón **“Crear Cuenta”** te redireccionará al espacio de trabajo de `ERPyA`_
+            Al dar click al botón **“Crear Cuenta”** te redireccionará al espacio de trabajo de `Alimentos Masía`_
 
-Se mostrará la siguiente vista, donde te dará la bienvenida al espacio de trabajo de `ERPyA`_ y una serie de opciones para que te pongas en marcha y al día en la cuenta de Slack
+Se mostrará la siguiente vista, donde te dará la bienvenida al espacio de trabajo de `Alimentos Masía`_ y una serie de opciones para que te pongas en marcha y al día en la cuenta de Slack
 
     |Inicio de Sesión Bienvenida|
 
@@ -156,7 +156,7 @@ Se mostrará la siguiente vista, donde te dará la bienvenida al espacio de trab
 
             Imagen 11. Identificación Mensajes
 
-    Dentro de la opción **“Canales”** podrá observar los canales privados el cual va a pertenecer, al posicionarse dentro del canal privado podrá comenzar a interactuar con el equipo de trabajo de `ERPyA`_
+    Dentro de la opción **“Canales”** podrá observar los canales privados el cual va a pertenecer, al posicionarse dentro del canal privado podrá comenzar a interactuar con el equipo de trabajo de `Alimentos Masía`_
 
         |Descripción del Canal|
 
@@ -165,9 +165,9 @@ Se mostrará la siguiente vista, donde te dará la bienvenida al espacio de trab
 **Inicio de Sesión**
 --------------------
 
-Si deseas conectarte nuavemente al espacio de trabajo de slack de `ERPyA`_, debes realizar los siguientes pasos:
+Si deseas conectarte nuavemente al espacio de trabajo de slack de `Alimentos Masía`_, debes realizar los siguientes pasos:
 
-Ingresar en el navegador de tu preferencia la URL donde se encuentra alojado el espacio de trabajo de `ERPyA`_
+Ingresar en el navegador de tu preferencia la URL donde se encuentra alojado el espacio de trabajo de `Alimentos Masía`_
 
     |URL Slack|
 
@@ -177,7 +177,7 @@ Ingresar en el navegador de tu preferencia la URL donde se encuentra alojado el 
 
         Dar click a esta opción para acceder a la URL de `Slack`_
 
-    Al colocar la URL del espacio de trabajo de `ERPyA`_  mostrará la siguiente vista donde se colocara la crenciales de acceso.
+    Al colocar la URL del espacio de trabajo de `Alimentos Masía`_  mostrará la siguiente vista donde se colocara la crenciales de acceso.
 
         |Acceso|
 
@@ -279,7 +279,7 @@ El nombre de los canales no deben llevar mayúsculas, ni espacios en blanco, por
       
         "Forma Incorrecta"
 
-        **Nombre del canal de soporte**: sp-erpya
+        **Nombre del canal de soporte**: sp-masia
 
         **Nombre del canal interno**: erpcya-documentacion-general
 

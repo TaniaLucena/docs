@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu.png
 .. |Ventana Principal Empleados (Todos)| image:: resources/ventana.png
 .. |Campo Compañía| image:: resources/comp.png

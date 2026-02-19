@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere 1| image:: resources/menutransf.png
 .. |Menú de ADempiere 11| image:: resources/menutransf.png
 .. |Ejemplo de Transferencia Bancaria| image:: resources/transferencia.png
@@ -48,7 +48,7 @@ La transferencia representa un proceso en el cual se generan los pagos por conce
 
 .. note::
 
-    Se requiere la definición de una caja intermediario para la liquidación de anticipo, para esto contacte a un consultor de **E.R.P. Consultores y Asociados**.
+    Se requiere la definición de una caja intermediario para la liquidación de anticipo, para esto contacte a un consultor de **Alimentos Masía**.
 
 El traslado de fondo reflejará en la cuenta de banco un egreso por el anticipo (Pago a Conciliar) y genera un ingreso en la cuenta puente (Caja Intermediario _NumOrden_Proveedor) que será utilizado para gestionar los pagos de terceros, cuando a un gestor se le conceda un anticipo, el mismo se gestionará a través de la caja creada previamente.
 

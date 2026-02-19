@@ -7,7 +7,7 @@
 
 - FiscalPrinter:
  
-    - Librería: org.erpya.adempiere.fiscal-printer.fiscal-printer-client
+    - Librería: org.masia.adempiere.fiscal-printer.fiscal-printer-client
     - Versión: 1.3.0^
 
 - FiscalPrinter-Server:
@@ -24,7 +24,7 @@
 
 - ConsignedMaterial:
 
-    - Librería: org.erpya.adempiere.tools.consigned-material
+    - Librería: org.masia.adempiere.tools.consigned-material
     - Versión: 1.0.9
 
 .. data:: Información de Interés:

@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-banplus:
 
 **Banco Banplus**
 =================
 
-Para la exportación de los archivos desde ADempiere al banco banplus, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco banplus, `Alimentos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con los documentos :download:`Banplus On line <Banplus_On_line.pdf>`, :download:`Archivos de Pagos <PANTALLAS_SERVICIO_NOMINA_PLUS.ppt>` y :download:`Archivos de Pagos <PANTALLAS_SERVICIO_NOMINA_PLUS.ppt.pptx>` que explican los formatos para la construcción el archivo a cargar.
 

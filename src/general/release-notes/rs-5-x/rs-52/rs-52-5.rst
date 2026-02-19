@@ -1,9 +1,9 @@
 .. _documento/versión-52-5:
 
-.. _Versión de Backend: https://github.com/erpcya/adempiere-customer-backend/releases/tag/rs-1.9.1
-.. _Versión de Gateway: https://github.com/erpcya/gateway-customer-api/releases/tag/solop-rs-1.2.5
+.. _Versión de Backend: https://github.com/masia/adempiere-customer-backend/releases/tag/rs-1.9.1
+.. _Versión de Gateway: https://github.com/masia/gateway-customer-api/releases/tag/solop-rs-1.2.5
 .. _Versión de FrontEnd: https://github.com/solop-develop/frontend-core/releases/tag/experimental-1.9.4
-.. _Comisiones de PDV Tiendas: https://github.com/erpcya/Control-PROSEIN/issues/310#issuecomment-1349680372
+.. _Comisiones de PDV Tiendas: https://github.com/masia/Control-PROSEIN/issues/310#issuecomment-1349680372
 
 **rs-52-5**
 ===========

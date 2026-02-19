@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/performance-analysis/gl-distribution:
 
 =========================
@@ -47,7 +47,7 @@ Para ello, es permitido decidir que dimensiones desea sean sobreescritas al ejec
 
 Por otra parte, ¿recuerda usted el :ref:`documento/tipo-de-aplicación`?, pues sí, también puede sobreescribir la aplicación contable, transfiriendo el importe distribuido a uno o varios tipos de aplicación.
 
-Para que pueda conocer cómo y cuándo usar esta funcionalidad `ERPyA`_ ha estructurado un material, basado en la gama de opciones disponibles para establecer un patrón de comportamiento al ejecutar las distribuciones.
+Para que pueda conocer cómo y cuándo usar esta funcionalidad `Alimentos Masía`_ ha estructurado un material, basado en la gama de opciones disponibles para establecer un patrón de comportamiento al ejecutar las distribuciones.
 
 .. toctree::
     :maxdepth: 2

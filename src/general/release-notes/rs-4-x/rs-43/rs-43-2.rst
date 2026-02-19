@@ -1,7 +1,7 @@
 .. _documento/versión-43-2:
 
-.. _Estructura de txt para pago de Nómina Banco de Venezuela: https://github.com/erpcya/Control-PROSEIN/issues/36
-.. _No existe una columna para mostrar el número del Registro de Peso - Reporte Estado de Cuenta (Productor): https://github.com/erpcya/Control-VEALCA/issues/63
+.. _Estructura de txt para pago de Nómina Banco de Venezuela: https://github.com/masia/Control-PROSEIN/issues/36
+.. _No existe una columna para mostrar el número del Registro de Peso - Reporte Estado de Cuenta (Productor): https://github.com/masia/Control-VEALCA/issues/63
 
 **rs-43-2**
 ===========

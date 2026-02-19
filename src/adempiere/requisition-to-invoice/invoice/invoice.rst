@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/documents-payable-menu.png
 .. |Ventana Documentos por Pagar| image:: resources/payable-documents-window.png
 .. |Icono de Registro Nuevo| image:: resources/new-registration-icon-in-the-documents-payable-window.png
@@ -117,7 +117,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 6. Campo Referencia de Orden de Socio del Negocio
 
-   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
    
       |Campo Tipo de Documento Destino|
 

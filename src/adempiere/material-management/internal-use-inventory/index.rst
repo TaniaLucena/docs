@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/material-management/internal-use-inventory:
 
 =============================
@@ -11,7 +11,7 @@ Un inventario de uso interno es realizado cuando se posee en existencia cierta c
 
 La finalidad del proceso es restar de la cantidad de productos que se tienen en existencia en una determinada ubicación o almacén, la cantidad utilizada por los departamentos y por la cual es realizado el inventario. De igual manera, este proceso permite controlar y dar seguimiento a los productos para conocer su cantidad en existencia y proceder a la compra, venta o adquisición de los mismos.
 
-El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar en ADempiere un inventario de uso interno, en su versión 3.9.2 para la localización Venezuela.
+El presente material elaborado por `Alimentos Masía`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar en ADempiere un inventario de uso interno, en su versión 3.9.2 para la localización Venezuela.
 
 .. toctree::
     :maxdepth: 2

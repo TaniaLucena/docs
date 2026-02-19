@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-exterior:
 
 **Banco Exterior**
 ==================
 
-Para la exportación de los archivos desde ADempiere al banco exterior, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco exterior, `Alimentos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con los documentos :download:`Archivo de Pago a Proveedores <Asistente_Integral_Estructura_Pago_a_Proveedores.pdf>` y :download:`Archivo de Afiliación y Pago de Proveedores y Nómina <Pago_Nomina_y_Proveedores.pdf>`, que explican los formatos para la construcción del archivo a cargar.
 

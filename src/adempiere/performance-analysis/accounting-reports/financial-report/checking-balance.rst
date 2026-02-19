@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Primer Reporte| image:: resources/checking-balance.png
 .. _documento/balance-comprobación:
 
@@ -7,7 +7,7 @@
 
 Un informe financiero de balance de comprobación es un reporte que muestra los débitos, créditos y los saldos iniciales y finales de las cuentas.
 
-Para generar el reporte, debe realizar el procedimiento explicado en el documento :ref:`documento/informe-financiero`, elaborado por `ERPyA`_. Luego de que haya culminado el procedimiento, podrá visualizar la ventana "**Informe**" con el reporte financiero "**Balance de Comprobación**". 
+Para generar el reporte, debe realizar el procedimiento explicado en el documento :ref:`documento/informe-financiero`, elaborado por `Alimentos Masía`_. Luego de que haya culminado el procedimiento, podrá visualizar la ventana "**Informe**" con el reporte financiero "**Balance de Comprobación**". 
 
     |Primer Reporte|
 

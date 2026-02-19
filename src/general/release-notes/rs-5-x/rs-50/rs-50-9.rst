@@ -1,15 +1,15 @@
 .. _documento/versión-50-9:
 
-.. _TXT del Banco Nacional de Crédito: https://github.com/erpcya/Control-PROSEIN/issues/309
-.. _Ingresos se muestran en cero en el estado de cuenta de ADempiere: https://github.com/erpcya/Control-PROSEIN/issues/307
-.. _TXT BANAVIH: https://github.com/erpcya/Control-PROSEIN/issues/303
-.. _Comisiones de PDV Tiendas: https://github.com/erpcya/Control-PROSEIN/issues/310
-.. _Montos en TXT Banavih: https://github.com/erpcya/Control-PROSEIN/issues/312
-.. _Configuración de Correo Electrónico: https://github.com/erpcya/Control-PROSEIN/issues/295
-.. _Comisiones de PDV Tiendas: https://github.com/erpcya/Control-PROSEIN/issues/310
-.. _¿Cual es la ruta de la clase del TXT de BNC?: https://stackoverflow.com/c/erpya/questions/330
-.. _¿Cuál es la ruta del Cargador de Extracto del Banco del Tesoro?: https://stackoverflow.com/c/erpya/questions/377
-.. _¿Cuál es el algoritmo de coincidencia para Puntos de Ventas de Débito Directo?: https://stackoverflow.com/c/erpya/questions/375
+.. _TXT del Banco Nacional de Crédito: https://github.com/masia/Control-PROSEIN/issues/309
+.. _Ingresos se muestran en cero en el estado de cuenta de ADempiere: https://github.com/masia/Control-PROSEIN/issues/307
+.. _TXT BANAVIH: https://github.com/masia/Control-PROSEIN/issues/303
+.. _Comisiones de PDV Tiendas: https://github.com/masia/Control-PROSEIN/issues/310
+.. _Montos en TXT Banavih: https://github.com/masia/Control-PROSEIN/issues/312
+.. _Configuración de Correo Electrónico: https://github.com/masia/Control-PROSEIN/issues/295
+.. _Comisiones de PDV Tiendas: https://github.com/masia/Control-PROSEIN/issues/310
+.. _¿Cual es la ruta de la clase del TXT de BNC?: https://stackoverflow.com/c/masia/questions/330
+.. _¿Cuál es la ruta del Cargador de Extracto del Banco del Tesoro?: https://stackoverflow.com/c/masia/questions/377
+.. _¿Cuál es el algoritmo de coincidencia para Puntos de Ventas de Débito Directo?: https://stackoverflow.com/c/masia/questions/375
 
 
 **rs-50-9**

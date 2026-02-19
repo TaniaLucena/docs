@@ -1,7 +1,7 @@
 .. _documento/versión-51-7:
 
-.. _Copiar Compañía: https://github.com/erpcya/Control-ERPYA/issues/908
-.. _Ordenes de Produccion Planeadas: https://github.com/erpcya/CONTROL-ANCA/issues/265
+.. _Copiar Compañía: https://github.com/masia/Control-masia/issues/908
+.. _Ordenes de Produccion Planeadas: https://github.com/masia/CONTROL-ANCA/issues/265
 
 **rs-51-7**
 ===========

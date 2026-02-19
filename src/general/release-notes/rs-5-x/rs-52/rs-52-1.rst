@@ -1,21 +1,21 @@
 .. _documento/versión-52-0:
 
-.. _Versión de Backend: https://github.com/erpcya/adempiere-customer-backend/releases/tag/rs-1.9.1
-.. _Versión de Gateway: https://github.com/erpcya/gateway-customer-api/releases/tag/solop-rs-1.2.5
+.. _Versión de Backend: https://github.com/masia/adempiere-customer-backend/releases/tag/rs-1.9.1
+.. _Versión de Gateway: https://github.com/masia/gateway-customer-api/releases/tag/solop-rs-1.2.5
 .. _Versión de FrontEnd: https://github.com/solop-develop/frontend-core/releases/tag/experimental-1.9.4
 
-.. _Algoritmo de Coincidencia por Día: https://stackoverflowteams.com/c/erpya/questions/375/385#385
-.. _Comisiones de PDV Tiendas: https://github.com/erpcya/Control-PROSEIN/issues/310
-.. _Entregas por el PDV no se generan con cantidad completas permitiendo quedar una porción en reserva: https://github.com/erpcya/Control-PROSEIN/issues/333
-.. _Devolución por el PDV cuando existe un Reembolso: https://github.com/erpcya/Control-PROSEIN/issues/331
-.. _Valor para el Ajuste: https://github.com/erpcya/Control-PROSEIN/issues/353
-.. _Devolución por el PDV cuando existe un Reembolso: https://github.com/erpcya/Control-PROSEIN/issues/331
-.. _PIN para cambiar precio: https://github.com/erpcya/Control-PROSEIN/issues/337
-.. _Pre-visualización de Entrega en la UI: https://github.com/erpcya/Control-PROSEIN/issues/379
-.. _Pre-visualización de Factura desde el PDV: https://github.com/erpcya/Control-PROSEIN/issues/378
-.. _Apertura de Caja sin Cerrar la Caja Anterior: https://github.com/erpcya/Control-PROSEIN/issues/382
-.. _Devolución desde el punto de Ventas cuando existe Entregas Parciales: https://github.com/erpcya/Control-PROSEIN/issues/328
-.. _Restricción de Usuarios con rol del POS, no puedan acceder a ADempiere: https://github.com/erpcya/Control-PROSEIN/issues/380
+.. _Algoritmo de Coincidencia por Día: https://stackoverflowteams.com/c/masia/questions/375/385#385
+.. _Comisiones de PDV Tiendas: https://github.com/masia/Control-PROSEIN/issues/310
+.. _Entregas por el PDV no se generan con cantidad completas permitiendo quedar una porción en reserva: https://github.com/masia/Control-PROSEIN/issues/333
+.. _Devolución por el PDV cuando existe un Reembolso: https://github.com/masia/Control-PROSEIN/issues/331
+.. _Valor para el Ajuste: https://github.com/masia/Control-PROSEIN/issues/353
+.. _Devolución por el PDV cuando existe un Reembolso: https://github.com/masia/Control-PROSEIN/issues/331
+.. _PIN para cambiar precio: https://github.com/masia/Control-PROSEIN/issues/337
+.. _Pre-visualización de Entrega en la UI: https://github.com/masia/Control-PROSEIN/issues/379
+.. _Pre-visualización de Factura desde el PDV: https://github.com/masia/Control-PROSEIN/issues/378
+.. _Apertura de Caja sin Cerrar la Caja Anterior: https://github.com/masia/Control-PROSEIN/issues/382
+.. _Devolución desde el punto de Ventas cuando existe Entregas Parciales: https://github.com/masia/Control-PROSEIN/issues/328
+.. _Restricción de Usuarios con rol del POS, no puedan acceder a ADempiere: https://github.com/masia/Control-PROSEIN/issues/380
 
 
 **rs-52-1**

@@ -74,7 +74,7 @@ La importación consiste en ingresar al país los productos comprados procedente
 
         |Diagrama|
 
-    El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para la importación de productos en ADempiere, en su versión 3.9.2 para la localización Venezuela.
+    El presente material elaborado por `Alimentos Masía`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para la importación de productos en ADempiere, en su versión 3.9.2 para la localización Venezuela.
 
 
 .. toctree::

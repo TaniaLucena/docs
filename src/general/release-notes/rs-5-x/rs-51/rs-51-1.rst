@@ -1,7 +1,7 @@
 .. _documento/versión-51-1:
 
-.. _TXT de Bancaribe Detallado: https://github.com/erpcya/Control-PROSEIN/issues/323
-.. _¿Cuál es la ruta de la clase del TXT de Bancaribe 2022?: https://stackoverflow.com/c/erpya/questions/326/380#380
+.. _TXT de Bancaribe Detallado: https://github.com/masia/Control-PROSEIN/issues/323
+.. _¿Cuál es la ruta de la clase del TXT de Bancaribe 2022?: https://stackoverflow.com/c/masia/questions/326/380#380
 
 
 **rs-51-1**

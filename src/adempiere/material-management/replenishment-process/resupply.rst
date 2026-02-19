@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |menú de producto| image:: resources/product-menu.png
 .. |producto a configurar| image:: resources/product-to-configure.png
@@ -78,7 +78,7 @@ Podrá visualizar la ventana "**Producto**", con todos los registros de los prod
 
     Imagen 2. Producto a Configurar
 
-Seleccione la pestaña "**Reabastecer**", ubicada del lado izquierdo de la ventana "**Producto**" y realice el procedimiento explicado en el proceso :ref:`paso/reabastecer-producto`, del documento :ref:`documento/producto`,  elaborado por `ERPyA`_. Para el ejemplo del presente documento, se tienen las siguientes restricciones:
+Seleccione la pestaña "**Reabastecer**", ubicada del lado izquierdo de la ventana "**Producto**" y realice el procedimiento explicado en el proceso :ref:`paso/reabastecer-producto`, del documento :ref:`documento/producto`,  elaborado por `Alimentos Masía`_. Para el ejemplo del presente documento, se tienen las siguientes restricciones:
 
     - "**Almacén**": Comercialización
     - "**Tipo de Reabastecimiento**": Mantener El Nivel Máximo ó Reordenar por debajo del nivel mínimo

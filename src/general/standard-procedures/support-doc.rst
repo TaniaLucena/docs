@@ -44,7 +44,7 @@ Intenta reproducir tu problema usando una versión reciente del software, para v
 **¿Alguien reportó anteriormente el error?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Use el buscador del `OSTicket <http://helpdesk.erpya.com/>`__ / `Open Project <http://project.erpya.com/>`__ para ver si el error ya fue reportado por alguien más o la nueva funcionalidad ya fue solicitada.
+Use el buscador del `OSTicket <http://helpdesk.masia.com/>`__ / `Open Project <http://project.masia.com/>`__ para ver si el error ya fue reportado por alguien más o la nueva funcionalidad ya fue solicitada.
 
 Si no está seguro de que exista el reporte de error entonces igual puede reportarlo, es mejor tener un ticket duplicado que un error sin reportar.
 
@@ -58,9 +58,9 @@ Algunos problemas son consecuencias de intentar resolver el error sin tener cono
 
 Si tiene un error para reportar y no lo ha hecho préviamente, puede hacerlo en los siguientes links:
 
-- `OSTicket <http://helpdesk.erpya.com/>`__
+- `OSTicket <http://helpdesk.masia.com/>`__
 
-- `Open Project <http://project.erpya.com>`__
+- `Open Project <http://project.masia.com>`__
 
 **Cargando información del error**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -93,7 +93,7 @@ Detalle completo del error, debe tener el mayor detalle posible. La descripción
 
    - Ejemplo:
 
-      Vaya a http://demo.erpya.com:8888 con Google Chrome como navegador en su versión **71.0.3578.98 (Official Build) (64-bit)**
+      Vaya a http://demo.masia.com:8888 con Google Chrome como navegador en su versión **71.0.3578.98 (Official Build) (64-bit)**
       
       Asegúrese de haber ingresado.
       
@@ -154,7 +154,7 @@ Al momento de crear una tarea o error se debe tomar en cuenta que es obligatorio
 
 Si desea ver cómo generar un archivo gif vaya a :ref:`documento/generar-videos-comprimidos-como-gif`.
 
-A continuación se encuentra un ejemplo proveniente de `Open Project <http://project.erpya.com/projects/soporte-sos/work_packages/2905/activity>`__
+A continuación se encuentra un ejemplo proveniente de `Open Project <http://project.masia.com/projects/soporte-sos/work_packages/2905/activity>`__
 
    Open Project
 

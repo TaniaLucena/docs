@@ -1,6 +1,6 @@
 .. |ventana de inicio de telegram| image:: resources/start-window.png
-.. |buscar bot de erpya| image:: resources/search-bot.png
-.. |seleccionar bot de erpya| image:: resources/select-bot.png
+.. |buscar bot de masia| image:: resources/search-bot.png
+.. |seleccionar bot de masia| image:: resources/select-bot.png
 .. |conversación inicial| image:: resources/bot-start.png
 .. |menú superior de la conversación| image:: resources/conversation-top-menu.png
 .. |opciones del menú superior de la conversación| image:: resources/conversation-top-menu-options.png
@@ -31,15 +31,15 @@ Al iniciar sesión en telegram, seleccione el icono "**Buscar**", ubicado en la 
 
     Imagen 1. Ventana de inicio
 
-Busque el bot ingresando el nombre del mismo en la barra desplegada por el icono "**Buscar**". Para el presente ejemplo se ingresa lo siguiente "**@Bot_Demo_ERPYA**".
+Busque el bot ingresando el nombre del mismo en la barra desplegada por el icono "**Buscar**". Para el presente ejemplo se ingresa lo siguiente "**@Bot_Demo_masia**".
 
-    |buscar bot de erpya|
+    |buscar bot de masia|
 
     Imagen 2. Buscar Bot
 
 Al culminar la búsqueda debe seleccionar el bot para iniciar la conversación.
 
-    |seleccionar bot de erpya|
+    |seleccionar bot de masia|
 
     Imagen 3. Seleccionar Bot
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu-catalog-of-concepts.png
 .. |Ventana Catálogo de Concepto| image:: resources/concept-catalog-window.png
 .. |Pestaña Contabilidad de Concepto de la Ventana Catálogo de Concepto| image:: resources/concept-accounting-tab-of-the-concept-catalog-window.png
@@ -69,7 +69,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**Cuenta Gastos 
 
     Imagen 8. Identificador del Campo Cuenta Gastos Nómina de la Pestaña Contabilidad de Concepto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
         |Combinación Contable del Campo Cuenta Gastos Nómina de la Pestaña Contabilidad de Concepto|
 
@@ -81,7 +81,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**Cuenta Ingreso
 
     Imagen 10. Campo Cuenta Ingresos Nómina de la Pestaña Contabilidad de Concepto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
         |Combinación Contable del Campo Cuenta Ingresos Nómina de la Pestaña Contabilidad de Concepto|
 

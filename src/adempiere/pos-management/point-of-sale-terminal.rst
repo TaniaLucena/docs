@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/point-of-sale-terminal-menu.png
 .. |Ventana Terminal PDV| image:: resources/point-of-sale-terminal-window.png
 .. |Campo Organización de la Ventana Terminal PDV| image:: resources/organization-field-of-the-terminal-window-point-of-sale.png
@@ -132,7 +132,7 @@ Podrá visualizar la ventana "**Terminal PDV**" con diferentes campos que permit
 
             Imagen 13. Campo Transferir Transacción de Caja a Banco de la Ventana Terminal PDV
 
-        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. 
 
             Este campo permite definir el tipo de documento con el cual serán generadas las ventas desde el punto de venta. De igual manera, el comportamiento que este tendrá al completar el proceso.
 
@@ -246,7 +246,7 @@ Podrá visualizar la ventana "**Terminal PDV**" con diferentes campos que permit
 
             .. note::
 
-                La información correspondiente a este campo debe ser ingresada por los consultores de `ERPyA`_.
+                La información correspondiente a este campo debe ser ingresada por los consultores de `Alimentos Masía`_.
 
         Seleccione en el campo "**Tipo de Conversión**", el tipo de conversión de moneda establecida para la lista de precios de venta seleccionada anteriormente.
 

@@ -1,5 +1,5 @@
 FROM readthedocs/build:latest as build
-MAINTAINER Carlos Parada "cparada@erpya.com"
+MAINTAINER Alimentos MASIA "alimentosmasia.com"
 
 ARG BUILD_TAG
 
@@ -9,7 +9,7 @@ RUN pip install sphinx && \
     pip install gitpython && \
     cd /home/docs  && \
     echo "Clone Repository..." && \
-    git clone https://github.com/erpcya/docs.git && \
+    git clone https://github.com/masia/docs.git && \
     cd docs/src && \
     echo "Make Documentation..." && \
     make html && \

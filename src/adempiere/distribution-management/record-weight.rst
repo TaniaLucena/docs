@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/weight-record-menu.png
 .. |Ventana Registro de Peso| image:: resources/weight-log-window.png
 .. |Icono Registro Nuevo de la Ventana Registro de Peso| image:: resources/new-record-icon-in-the-weight-record-window.png
@@ -57,7 +57,7 @@ Introduzca en el campo "**No. del Documento**", el número de identificación de
 
     Imagen 5. Campo No. del Documento de la Vantana Registro de Peso
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
     |Campo Tipo de Documento de la Vantana Registro de Peso|
 

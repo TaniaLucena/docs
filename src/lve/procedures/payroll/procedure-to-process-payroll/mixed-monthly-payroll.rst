@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nomina Mensual Mixta| image:: resources/mensualmixta.png
 .. |Recibo de Pago Nómina Mensual Mixta| image:: resources/recibosmensualmixta.png
 .. |Detalle de Pago Nómina Mensual Mixta| image:: resources/detallemensualmixta.png
@@ -13,7 +13,7 @@
  **Nómina Mensual Mixta**
 ============================
 
-    Para procesar una “**Nómina Mensual Mixta**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo mensual mixta, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina Mensual Mixta**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Alimentos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo mensual mixta, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 

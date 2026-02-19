@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/cash-journal-definition-menu.png
 .. |Ventana Definición de Diario de Caja| image:: resources/cash-journal-definition-window.png
 .. |Pestaña Cuenta de Caja de la Ventana Definición de Diario de Caja| image:: resources/cash-account-tab-of-the-cash-journal-definition-window.png
@@ -63,7 +63,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 5. Identificador del Campo Bancos de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Bancos de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -75,7 +75,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 7. Identificador del Campo Banco Movimientos no Conciliados de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Banco Movimientos no Conciliados de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -87,7 +87,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 9. Identificador del Campo Recaudos sin Asignar de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Recaudos sin Asignar de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -99,7 +99,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 11. Identificador del Campo Cuenta de Cobros no identificados de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Cuenta de Cobros no identificados de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -111,7 +111,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 13. Identificador del Campo Pagos sin Asignar de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Pagos sin Asignar de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -123,7 +123,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 15. Identificador del Campo Gastos Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Gastos Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -135,7 +135,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 17. Identificador del Campo Gastos por Intereses Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Gastos por Intereses Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -147,7 +147,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 19. Identificador del Campo Ingresos por Intereses Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Ingresos por Intereses Bancarios de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -159,7 +159,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 21. Identificador del Campo Ganancias por Revaluación (Bancos) de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Ganancias por Revaluación (Bancos) de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -171,7 +171,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 23. Identificador del Campo Pérdida por Revaluación (Bancos) de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Pérdida por Revaluación (Bancos) de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -183,7 +183,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 25. Identificador del Campo Cuenta de Ganancia por Ajuste de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Cuenta de Ganancia por Ajuste de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 
@@ -195,7 +195,7 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
                 Imagen 27. Identificador del Campo Pérdida por Ajuste de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja
 
-                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+                Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Alimentos Masía`_.
 
                     |Combinación Contable del Campo Pérdida por Ajuste de la Pestaña Contabilidad de la Ventana Definición de Diario de Caja|
 

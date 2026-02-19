@@ -106,5 +106,5 @@ Classification and Group
 
 .. data:: Correcciones
 
-- Se corrige error en tiempo de ejecución al completar un documento sin formato de impresión y con cola de impresión configurada: https://github.com/erpcya/CONTROL-ANCA/issues/147
+- Se corrige error en tiempo de ejecución al completar un documento sin formato de impresión y con cola de impresión configurada: https://github.com/masia/CONTROL-ANCA/issues/147
 - Se corrige error de referencia de clase al momento de ejecutar la funcionalidad de cola de impresión desde la compañía

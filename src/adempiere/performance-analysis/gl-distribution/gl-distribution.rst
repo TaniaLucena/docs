@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Factura por Pagar| image:: resources/invoice-vendor.png
 .. |Menú de ADempiere| image:: resources/accounting-distribution-menu.png
 .. |Ventana Distribución Contable| image:: resources/accounting-distribution-window.png
@@ -121,7 +121,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 10. Campo Tipo de Aplicación de la Ventana Distribución Contable
 
-    Seleccione el tipo de documento en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+    Seleccione el tipo de documento en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. 
 
         |Campo Tipo de Documento de la Ventana Distribución Contable|
 

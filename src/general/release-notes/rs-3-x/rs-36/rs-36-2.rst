@@ -63,7 +63,7 @@
 
 .. data:: Novedades
 
-- Se implementa primera versión de reglas de nómina como código fuente para mejorar el rendimiento en las implementaciones base de ERPyA
+- Se implementa primera versión de reglas de nómina como código fuente para mejorar el rendimiento en las implementaciones base de masia
 - Se implementa servicio para asignación de vendedor en punto de ventas
 - Se agrega impresión  de contrato de agricultor
 

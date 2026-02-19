@@ -1,5 +1,5 @@
-.. _Al reactivar orden de venta productor se duplica el monto en el estado de cuenta: https://github.com/erpcya/Control-VEALCA/issues/48
-.. _Cuando se reversa la oc de productor no se reversa la cantidad ordenada del cultivo: https://github.com/erpcya/Control-VEALCA/issues/50
+.. _Al reactivar orden de venta productor se duplica el monto en el estado de cuenta: https://github.com/masia/Control-VEALCA/issues/48
+.. _Cuando se reversa la oc de productor no se reversa la cantidad ordenada del cultivo: https://github.com/masia/Control-VEALCA/issues/50
 .. _documento/versión-42-1:
 
 **rs-42-1**

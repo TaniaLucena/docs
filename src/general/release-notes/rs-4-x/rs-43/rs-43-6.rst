@@ -1,6 +1,6 @@
 .. _documento/versión-43-6:
 
-.. _Problemas al reactivar documento por sobregiro de crédito: https://github.com/erpcya/Control-VEALCA/issues/70
+.. _Problemas al reactivar documento por sobregiro de crédito: https://github.com/masia/Control-VEALCA/issues/70
 
 **rs-43-6**
 ===========

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/performance-analysis/accounting-reports/financial-report:
 
 ======================
@@ -13,7 +13,7 @@ Sin embargo, pese a que el objetivo es único, cada empresa decide la forma en l
 
 Para esto generalmente se requieren soluciones de edición y de presentación personalizadas, **ADempiere** ha modelado una innovadora funcionalidad que le permite definir desde cuentas específicas, actividades, centros de costos hasta cubos de informes, posibilitando así la presentación de la información precisa en un tiempo eficiente.
 
-Es por ello que `ERPyA`_ ha diseñado para usted una gama de instructivos en los que detallaremos la utilidad y los resultados de esta funcionalidad.
+Es por ello que `Alimentos Masía`_ ha diseñado para usted una gama de instructivos en los que detallaremos la utilidad y los resultados de esta funcionalidad.
 
 .. toctree::
     :maxdepth: 2

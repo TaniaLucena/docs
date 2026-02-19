@@ -1,6 +1,6 @@
 .. _documento/versión-45-8:
-.. _Reporte de Ventas que sea Resumen de los Totales de los Z: https://github.com/erpcya/Control-TODOAGRO/issues/82
-.. _Modificación de Reporte de "Estado de Cuentas": https://github.com/erpcya/Control-VEALCA/issues/98
+.. _Reporte de Ventas que sea Resumen de los Totales de los Z: https://github.com/masia/Control-TODOAGRO/issues/82
+.. _Modificación de Reporte de "Estado de Cuentas": https://github.com/masia/Control-VEALCA/issues/98
 
 **rs-45-8**
 ===========

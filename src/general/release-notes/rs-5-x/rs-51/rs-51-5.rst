@@ -1,15 +1,15 @@
 .. _documento/versión-51-5:
 
-.. _Versión de Backend: https://github.com/erpcya/adempiere-customer-backend/releases/tag/rs-1.8.7
-.. _Versión de Gateway: https://github.com/erpcya/gateway-customer-api/releases/tag/solop-rs-1.2.3
+.. _Versión de Backend: https://github.com/masia/adempiere-customer-backend/releases/tag/rs-1.8.7
+.. _Versión de Gateway: https://github.com/masia/gateway-customer-api/releases/tag/solop-rs-1.2.3
 .. _Versión de FrontEnd: https://github.com/solop-develop/frontend-core/releases/tag/experimental-1.8.3
 
 
-.. _Base por Tipo de Documento: https://github.com/erpcya/Control-ERPYA/issues/934
-.. _Referencia de Monto Base: https://github.com/erpcya/Control-ERPYA/issues/931
-.. _Al crear la planilla no establece Factura Relacionada: https://github.com/erpcya/Control-ERPYA/issues/927
-.. _Planilla de IVA: https://github.com/erpcya/Control-ERPYA/issues/930
-.. _Caso de Acuerdo Mercosur: https://github.com/erpcya/Control-ERPYA/issues/932
+.. _Base por Tipo de Documento: https://github.com/masia/Control-masia/issues/934
+.. _Referencia de Monto Base: https://github.com/masia/Control-masia/issues/931
+.. _Al crear la planilla no establece Factura Relacionada: https://github.com/masia/Control-masia/issues/927
+.. _Planilla de IVA: https://github.com/masia/Control-masia/issues/930
+.. _Caso de Acuerdo Mercosur: https://github.com/masia/Control-masia/issues/932
 
 
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu.png
 .. |Campo Proceso de Nómina| image:: resources/campo-proceso-nomina.png
 .. |Campo Socio del Negocio| image:: resources/campo-socio-del-negocio.png
@@ -20,7 +20,7 @@ Seleccione en el menú de ADempiere, la carpeta "**Gestión de Recursos Humanos 
 
     Imagen 1. Menú de ADempiere
 
-Seleccione en el campo "**Proceso Nómina**", el proceso de nómina actual al cual le cargará las incidencias de los empleados. Dicho proceso se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_.
+Seleccione en el campo "**Proceso Nómina**", el proceso de nómina actual al cual le cargará las incidencias de los empleados. Dicho proceso se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Alimentos Masía`_.
 
     |Campo Proceso de Nómina|
 

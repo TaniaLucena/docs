@@ -22,9 +22,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ERPYA'
+project = 'MASIA'
 copyright = '2020, ADempiere ERP'
-author = 'E.R.P. Consultores y Asociados, C.A.'
+author = 'Alimentos Masía'
 # The short X.Y version
 version = '1.0'
 
@@ -145,7 +145,7 @@ html_static_path = ['static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'DocsErpya'
+htmlhelp_basename = 'DocsMASIA'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -179,10 +179,10 @@ locale_dirs = ['locale/']
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 #latex_documents = [
-#    (master_doc, 'ADempiereDocs.tex', 'E.R.P. Consultores y Asociados, C.A.', 'Documentation E.R.P. Consultores y Asociados, C.A.', 'manual'),
+#    (master_doc, 'ADempiereDocs.tex', 'Alimentos Masía', 'Documentation Alimentos Masía', 'manual'),
 #]
 
-pdf_documents = [('index', u'rst2pdf', u'ADempiereDocs', u'Documentation E.R.P. Consultores y Asociados, C.A'),]
+pdf_documents = [('index', u'rst2pdf', u'ADempiereDocs', u'Documentation Alimentos Masía'),]
 
 
 
@@ -191,7 +191,7 @@ pdf_documents = [('index', u'rst2pdf', u'ADempiereDocs', u'Documentation E.R.P. 
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'DocsErpya', 'Documentation Erpya',
+    (master_doc, 'DocsMASIA', 'Documentation MASIA',
      [author], 1)
 ]
 
@@ -202,8 +202,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'DocsErpya', 'Documentation Erpya',
-     author, 'DocsErpya', 'One line description of project.',
+    (master_doc, 'DocsMASIA', 'Documentation MASIA',
+     author, 'DocsMASIA', 'One line description of project.',
      'Miscellaneous'),
 ]
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menurecep.png
 .. |Icono de Registro Nuevo| image:: resources/regnuevo.png
 .. |Campo Organización| image:: resources/organizacion.png
@@ -39,7 +39,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 3. Campo Organización
 
-   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. 
 
       |Campo Tipo de Documento|
 

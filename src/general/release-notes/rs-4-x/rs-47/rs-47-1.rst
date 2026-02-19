@@ -1,5 +1,5 @@
 .. _documento/versión-47-1:
-.. _Error al activar Validador de Modelo: https://github.com/erpcya/Control-PROSEIN/issues/237
+.. _Error al activar Validador de Modelo: https://github.com/masia/Control-PROSEIN/issues/237
 .. |Configuración de Tienda| image:: resources/rs-47-1-store-setup.png
 .. |Configuración de Comisión| image:: resources/rs-47-1-commission-setup.png
 .. |Configuración de Línea de Comisión| image:: resources/rs-47-1-commission-line-setup.png

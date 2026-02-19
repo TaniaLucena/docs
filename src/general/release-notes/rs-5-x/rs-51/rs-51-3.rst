@@ -1,12 +1,12 @@
 .. _documento/versión-51-3:
 
-.. _TXT de Bancaribe Detallado: https://github.com/erpcya/Control-PROSEIN/issues/323
-.. _Versión de Backend: https://github.com/erpcya/adempiere-customer-backend/releases/tag/rs-1.8.4
-.. _Versión de Gateway: https://github.com/erpcya/gateway-customer-api/releases/tag/solop-rs-1.2.2
+.. _TXT de Bancaribe Detallado: https://github.com/masia/Control-PROSEIN/issues/323
+.. _Versión de Backend: https://github.com/masia/adempiere-customer-backend/releases/tag/rs-1.8.4
+.. _Versión de Gateway: https://github.com/masia/gateway-customer-api/releases/tag/solop-rs-1.2.2
 .. _Versión de FrontEnd: https://github.com/solop-develop/frontend-core/releases/tag/experimental-1.8.1
-.. _Dar soporte a Copiar Tipo de conversión: https://github.com/erpcya/Control-ERPYA/issues/928
-.. _Al crear la planilla no establece Factura Relacionada: https://github.com/erpcya/Control-ERPYA/issues/927
-.. _Al crear una planilla Acumula el Monto Base: https://github.com/erpcya/Control-ERPYA/issues/926
+.. _Dar soporte a Copiar Tipo de conversión: https://github.com/masia/Control-masia/issues/928
+.. _Al crear la planilla no establece Factura Relacionada: https://github.com/masia/Control-masia/issues/927
+.. _Al crear una planilla Acumula el Monto Base: https://github.com/masia/Control-masia/issues/926
 
 
 

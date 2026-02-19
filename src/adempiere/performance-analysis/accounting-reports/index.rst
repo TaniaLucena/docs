@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/performance-analysis/accounting-reports:
 
 ======================
@@ -35,7 +35,7 @@ Sin embargo, aun cuando existen factores relevantes al medir el flujo de efectiv
 
     Detalles de Costos.
 
-    A continuación, `ERPyA`_  desea ofrecer a sus clientes un material en el cual explicaremos de forma detallada las consideraciones, bondades y herramientas que **ADempiere** brinda para interpretar información contable que ayudará a complementar el análisis, permitiendo una visión clara a la hora de tomar decisiones en su empresa.
+    A continuación, `Alimentos Masía`_  desea ofrecer a sus clientes un material en el cual explicaremos de forma detallada las consideraciones, bondades y herramientas que **ADempiere** brinda para interpretar información contable que ayudará a complementar el análisis, permitiendo una visión clara a la hora de tomar decisiones en su empresa.
 
 
 .. toctree::

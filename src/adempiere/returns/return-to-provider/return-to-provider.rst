@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Orden de Compra 1| image:: resources/orden-compra1.png
 .. |Factura de Compra 1| image:: resources/factura-pagar1.png
 .. |Recepción 1| image:: resources/recepcion1.png
@@ -93,7 +93,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
         Imagen 7. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para este ejemplo el tipo de documento es "**Autorización Devolución Proveedor Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. Para este ejemplo el tipo de documento es "**Autorización Devolución Proveedor Nacional**".
 
 
         |Campo Tipo de Documento 1|
@@ -204,7 +204,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
         Imagen 21. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para este ejemplo el tipo de documento es "**Devolución a Proveedor Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. Para este ejemplo el tipo de documento es "**Devolución a Proveedor Nacional**".
 
         |Campo Tipo de Documento 2|
 

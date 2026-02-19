@@ -1,10 +1,10 @@
 .. _documento/versión-46-3:
-.. _Reporte de Cobro se visualiza en blanco (sp-hcimport-407788-): https://github.com/erpcya/Control-HCIMPORT/issues/23
-.. _Parámetro en el reporte estado de cuenta socio de negocio: https://github.com/erpcya/Control-MIGO/issues/226
-.. _Acceso a los proveedores al Sistema Adempiere: https://github.com/erpcya/Control-MIGO/issues/224
-.. _355878 - Recibo de pagos no se puede imprimir: https://github.com/erpcya/Control-FPLE/issues/147
-.. _Reporte de Cobro se Visualiza en Blanco (sp-fple-355878-): https://github.com/erpcya/Control-FPLE/issues/150
-.. _Problemas con Saldo en Reporte de Pagos: https://github.com/erpcya/Control-FPLE/issues/152
+.. _Reporte de Cobro se visualiza en blanco (sp-hcimport-407788-): https://github.com/masia/Control-HCIMPORT/issues/23
+.. _Parámetro en el reporte estado de cuenta socio de negocio: https://github.com/masia/Control-MIGO/issues/226
+.. _Acceso a los proveedores al Sistema Adempiere: https://github.com/masia/Control-MIGO/issues/224
+.. _355878 - Recibo de pagos no se puede imprimir: https://github.com/masia/Control-FPLE/issues/147
+.. _Reporte de Cobro se Visualiza en Blanco (sp-fple-355878-): https://github.com/masia/Control-FPLE/issues/150
+.. _Problemas con Saldo en Reporte de Pagos: https://github.com/masia/Control-FPLE/issues/152
 
 **rs-46-3**
 ===========

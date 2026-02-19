@@ -38,7 +38,7 @@
 
 .. data:: Detalle Técnico:
 
-- ADempiereBase: New release 3.9.3-rs-4.3 granted by E.R.P. Consultores y Asociados, C.A.
+- ADempiereBase: New release 3.9.3-rs-4.3 granted by Alimentos Masía
 
 .. data:: Novedades:
 

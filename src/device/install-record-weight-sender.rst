@@ -14,8 +14,8 @@
 .. |Error iniciando Servicio de Windows| image:: resources/weight-sender-folder-service-start-error.PNG
 .. _Dotnet SDK 6.0: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 .. _Dotnet SDK 3.1: https://dotnet.microsoft.com/en-us/download/dotnet/3.1
-.. _Record-Weight-Sender-DotNet-x86: https://erpya.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x86-rs-1.8.exe
-.. _Record-Weight-Sender-DotNet-x64: https://erpya.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x64-rs-1.8.exe
+.. _Record-Weight-Sender-DotNet-x86: https://masia.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x86-rs-1.8.exe
+.. _Record-Weight-Sender-DotNet-x64: https://masia.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x64-rs-1.8.exe
 .. _documento/instalar-record-weight-sender:
 
 Instalar Cliente de Lectura de Peso

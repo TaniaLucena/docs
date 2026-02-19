@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere| image:: resources/documents-payable-menu.png
 .. |Ventana Documentos por Pagar desde Orden de Compra| image:: resources/documents-to-pay-from-purchase-order-window.png
@@ -78,7 +78,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 6. Campo Descripción de la Ventana Documentos por Pagar desde Orden de Compra
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         |Campo Tipo de Documento Destino de la Ventana Documentos por Pagar desde Orden de Compra|
 

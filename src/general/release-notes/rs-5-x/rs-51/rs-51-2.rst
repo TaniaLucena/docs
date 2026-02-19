@@ -1,13 +1,13 @@
 .. _documento/versión-51-2:
 
-.. _Depósito automático configurado por banco: https://github.com/erpcya/Control-HCIMPORT/issues/62
-.. _Agregar funcionalidad para bloquear la opción de modificar un cliente: https://github.com/erpcya/Control-PROSEIN/issues/316
-.. _Permitir Asignar Vendedor en el POS: https://github.com/erpcya/Control-PROSEIN/issues/315
-.. _Agregar Información confidencial al terminal: https://github.com/erpcya/Control-PROSEIN/issues/314
-.. _Pago Móvil, Transferencia y Punto de Venta no establecen el número: https://github.com/erpcya/Control-PROSEIN/issues/304
-.. _Límite de porcentaje de descuento por asignación de usuario: https://github.com/erpcya/Control-PROSEIN/issues/302
-.. _Versión de Backend: https://github.com/erpcya/adempiere-customer-backend/releases/tag/rs-1.8.3
-.. _Versión de Gateway: https://github.com/erpcya/gateway-customer-api/releases/tag/solop-rs-1.2.2
+.. _Depósito automático configurado por banco: https://github.com/masia/Control-HCIMPORT/issues/62
+.. _Agregar funcionalidad para bloquear la opción de modificar un cliente: https://github.com/masia/Control-PROSEIN/issues/316
+.. _Permitir Asignar Vendedor en el POS: https://github.com/masia/Control-PROSEIN/issues/315
+.. _Agregar Información confidencial al terminal: https://github.com/masia/Control-PROSEIN/issues/314
+.. _Pago Móvil, Transferencia y Punto de Venta no establecen el número: https://github.com/masia/Control-PROSEIN/issues/304
+.. _Límite de porcentaje de descuento por asignación de usuario: https://github.com/masia/Control-PROSEIN/issues/302
+.. _Versión de Backend: https://github.com/masia/adempiere-customer-backend/releases/tag/rs-1.8.3
+.. _Versión de Gateway: https://github.com/masia/gateway-customer-api/releases/tag/solop-rs-1.2.2
 .. _Versión de FrontEnd: https://github.com/solop-develop/frontend-core/releases/tag/experimental-1.8.1
 
 

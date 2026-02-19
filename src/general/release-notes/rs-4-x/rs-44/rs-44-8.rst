@@ -1,6 +1,6 @@
 .. _documento/versión-44-8:
 
-.. _Nueva cola de tienda web: https://github.com/erpcya/Control-PROSEIN/issues/214
+.. _Nueva cola de tienda web: https://github.com/masia/Control-PROSEIN/issues/214
 
 **rs-44-8**
 ===========

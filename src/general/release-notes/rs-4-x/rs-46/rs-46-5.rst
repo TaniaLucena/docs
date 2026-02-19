@@ -1,5 +1,5 @@
 .. _documento/versión-46-5:
-.. _Lentitud al generar lista de precios: https://github.com/erpcya/Control-PROSEIN/issues/225
+.. _Lentitud al generar lista de precios: https://github.com/masia/Control-PROSEIN/issues/225
 
 **rs-46-5**
 ===========

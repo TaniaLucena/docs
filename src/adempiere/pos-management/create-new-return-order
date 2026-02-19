@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com
 .. |diagrama de crear nueva orden de devolución pos| image:: resources/create-new-return-order.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Selección de Orden de Venta para Devolución| image:: resources/sales-order-selection-for-return.png
@@ -40,9 +40,9 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
     |Menú de ADempiere|
 
     Imagen 12
-La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `ERPyA`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la creación de una nueva orden de devolución por el punto de venta.
+La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `Alimentos Masía`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la creación de una nueva orden de devolución por el punto de venta.
 
-Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `ERPyA`_.
+Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `Alimentos Masía`_.
 
     Seleccione en la ventana "**Orden de Venta**", generada del icono "**Registros Históricos**", la orden de venta que requiere crearle una nueva orden de devolución.
 
@@ -56,7 +56,7 @@ Realice la búsqueda de registros de órdenes de venta generadas desde el punto 
 
         Imagen 4. Selección de la Opción OK de la Orden de Venta para Devolución
 
-Luego de ubicar la orden de venta que requiere crearle una nueva orden de devolución, seleccione la opción "**Crear Nueva Orden de Devolución**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Luego de ubicar la orden de venta que requiere crearle una nueva orden de devolución, seleccione la opción "**Crear Nueva Orden de Devolución**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Alimentos Masía`_.
 
     |Opción Crear Nueva Orden de Devolución|
 
@@ -84,7 +84,7 @@ Podrá visualizar el registro de la orden de devolución creada, donde debe ubic
 
         Para el ejemplo expuesto en el presente caso, se tenia vendida la cantidad de "**10**" unidades del producto "**CEMENTO GRIS GENERICO ( SACOS )**" y se esta realizando la devolución de "**5**" unidades.
 
-Luego de ingresar y verificar las modificaciones de los productos a vender y su cantidad correspondiente, se debe seleccionar el icono "**Pagar**", ubicado en la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_. 
+Luego de ingresar y verificar las modificaciones de los productos a vender y su cantidad correspondiente, se debe seleccionar el icono "**Pagar**", ubicado en la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Alimentos Masía`_. 
 
     |Selección de Opción Pagar Completar la Orden de Devolución|
 

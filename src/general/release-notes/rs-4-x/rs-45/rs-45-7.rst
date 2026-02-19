@@ -1,5 +1,5 @@
 .. _documento/versión-45-7:
-.. _Error al completar Orden de Venta: https://github.com/erpcya/Control-PROSEIN/issues/216
+.. _Error al completar Orden de Venta: https://github.com/masia/Control-PROSEIN/issues/216
 
 **rs-45-7**
 ===========

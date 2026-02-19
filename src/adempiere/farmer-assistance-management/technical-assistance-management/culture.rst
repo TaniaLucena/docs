@@ -23,7 +23,7 @@
 .. |acción completar y opción ok de la ventana cultivo| image:: resources/complete-action-and-ok-option-of-the-crop-window.png
 
 
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/cultivo:
 
@@ -60,7 +60,7 @@ Introduzca en el campo "**No. del Documento**", el número de documento correspo
 
     Imagen 5. Campo No. del Documento
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
     |campo tipo de documento de la ventana cultivo|
 

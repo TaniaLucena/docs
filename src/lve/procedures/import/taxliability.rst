@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere 1| image:: resources/procgenerartasas.png
 .. |Menú de ADempiere| image:: resources/confimpuestos.png
 .. |Expediente| image:: resources/expgenerartasas.png

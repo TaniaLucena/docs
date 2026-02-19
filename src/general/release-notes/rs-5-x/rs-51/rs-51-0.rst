@@ -1,11 +1,11 @@
 .. _documento/versión-51-0:
 
-.. _Límite de porcentaje de descuento por asignación de usuario: https://github.com/erpcya/Control-PROSEIN/issues/302
-.. _Cálculo de IGTF sobre el monto realmente pagado: https://github.com/erpcya/Control-ERPYA/issues/925
-.. _Pago Móvil, Transferencia y Punto de Venta no establecen el número: https://github.com/erpcya/Control-PROSEIN/issues/304
-.. _Agregar Información confidencial al terminal: https://github.com/erpcya/Control-PROSEIN/issues/314
-.. _Permitir Asignar Vendedor en el POS: https://github.com/erpcya/Control-PROSEIN/issues/315
-.. _Agregar funcionalidad para bloquear la opción de modificar un cliente: https://github.com/erpcya/Control-PROSEIN/issues/316
+.. _Límite de porcentaje de descuento por asignación de usuario: https://github.com/masia/Control-PROSEIN/issues/302
+.. _Cálculo de IGTF sobre el monto realmente pagado: https://github.com/masia/Control-masia/issues/925
+.. _Pago Móvil, Transferencia y Punto de Venta no establecen el número: https://github.com/masia/Control-PROSEIN/issues/304
+.. _Agregar Información confidencial al terminal: https://github.com/masia/Control-PROSEIN/issues/314
+.. _Permitir Asignar Vendedor en el POS: https://github.com/masia/Control-PROSEIN/issues/315
+.. _Agregar funcionalidad para bloquear la opción de modificar un cliente: https://github.com/masia/Control-PROSEIN/issues/316
 
 
 **rs-51-0**

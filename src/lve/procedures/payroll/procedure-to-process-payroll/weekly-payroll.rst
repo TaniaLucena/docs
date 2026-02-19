@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina Semanal| image:: resources/semanal.png
 .. |Recibo de Pago Nómina Semanal| image:: resources/recibosemanal.png
 .. |Detalle de Pago Nómina Semanal| image:: resources/detallesemanal.png
@@ -13,7 +13,7 @@
  **Nómina Semanal**
 ===================
 
-    Para procesar una “**Nómina Semanal**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo semanal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina Semanal**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Alimentos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo semanal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 

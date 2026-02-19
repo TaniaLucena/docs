@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de cierre de caja pos| image:: resources/closing-cash.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Opción Cerrar Caja del Punto de Venta| image:: resources/option-close-point-of-sale-box.png
@@ -61,7 +61,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
     Imagen 2. Menú de ADempiere
 
-Luego de realizar desde el punto de venta todas las tomas de pedido del día, seleccione la opción "**Cerrar Caja del Punto de Venta**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Luego de realizar desde el punto de venta todas las tomas de pedido del día, seleccione la opción "**Cerrar Caja del Punto de Venta**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Alimentos Masía`_.
 
     |Opción Cerrar Caja del Punto de Venta|
 

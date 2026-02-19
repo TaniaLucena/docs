@@ -1,5 +1,5 @@
-.. _ERPyA: http://erpya.com
-.. _OpenProject: http://project.erpya.com/ 
+.. _Alimentos Masía: https://alimentosmasia.com/
+.. _OpenProject: http://project.masia.com/ 
 .. _SMART: https://blog.hubspot.es/marketing/5-ejemplos-de-metas-inteligentes-para-tu-empresa 
 
 .. |Reunión| image:: resources/customer-meet.jpeg 
@@ -46,9 +46,9 @@ Consiste en la información proporcionada por el cliente la misma debe ser sóli
 **Asignación de tarea**
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-Consiste en la asignación y notificación de la creación de la tarea a un supervisor de `ERPyA`_ para informar que la solicitud fue creada en el gestor de proyecto `OpenProject`_, previo a este paso se asume un desconocimiento por parte de `ERPyA`_ de la definición del requerimiento.
+Consiste en la asignación y notificación de la creación de la tarea a un supervisor de `Alimentos Masía`_ para informar que la solicitud fue creada en el gestor de proyecto `OpenProject`_, previo a este paso se asume un desconocimiento por parte de `Alimentos Masía`_ de la definición del requerimiento.
 
-**Definición de la Solución de E.R.P. Consultores y Asociados, C.A.**
+**Definición de la Solución de Alimentos Masía**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _documento/verificación-de-definición-de-la-solicitud:
@@ -91,7 +91,7 @@ Para el cumpliento de la metodología y definición de objetivos inteligentes,se
 
 Posterior a la verificación del requerimiento, :ref:`documento/verificación-de-definición-de-la-solicitud`, es necesario asignar responsables para el seguimiento,modelado, ejecución y cumplimiento del desarrollo, para ello hemos pensado en una matriz **RASCI** ejecutada en el gestor de proyecto `OpenProject`_, esta matríz asigna responsable del seguimiento del desarrollo, de esta forma se distribuirá responsabilidades entre los participantes del desarrollo, adicionalmente definiremos límites en el alcance.
 
-- **R** (Responsible) – **Responsable:** Persona responsable de su ejecución por parte de `ERPyA`_, directamente, conjuntamente o supervisando al equipo.
+- **R** (Responsible) – **Responsable:** Persona responsable de su ejecución por parte de `Alimentos Masía`_, directamente, conjuntamente o supervisando al equipo.
 
 - **A** (Accountable) – **Aprobador:** Persona confirma la solución planteada para dar inicio al desarrollo, aprueba el resultado posterior al desarrollo y da por concluida la tarea una vez considera que los objetivos han sido alcanzados.
 
@@ -104,23 +104,23 @@ Posterior a la verificación del requerimiento, :ref:`documento/verificación-de
 **Cambiar el estado de la tarea**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Cuando el cliente realiza un requerimiento en el gestor de proyecto `OpenProject`_, por defecto el estado de la tarea previamente definida es creada con el estado inicial **"En Espera"**, sin embargo, el estado que indica al cliente que su requerimiento se encuentra en una siguiente fase dependerá del consultor que atiende el requerimiento, para ello el consultor de `ERPyA`_ está obligado a cambiar el estado actual, **En Espera** al estado **Por Definir**.
+Cuando el cliente realiza un requerimiento en el gestor de proyecto `OpenProject`_, por defecto el estado de la tarea previamente definida es creada con el estado inicial **"En Espera"**, sin embargo, el estado que indica al cliente que su requerimiento se encuentra en una siguiente fase dependerá del consultor que atiende el requerimiento, para ello el consultor de `Alimentos Masía`_ está obligado a cambiar el estado actual, **En Espera** al estado **Por Definir**.
 
-El estado en cuestión denota al cliente que su solicitud se encuentra en la fase de modelado que le brindará posteriormente una solución estimada, este proceso de definición por parte de `ERPyA`_ tiene una duración no mayor de 32 horas hábiles, previendo la definición de un proceso complejo y tomando en cuenta las prioridades o urgencias del cliente.
+El estado en cuestión denota al cliente que su solicitud se encuentra en la fase de modelado que le brindará posteriormente una solución estimada, este proceso de definición por parte de `Alimentos Masía`_ tiene una duración no mayor de 32 horas hábiles, previendo la definición de un proceso complejo y tomando en cuenta las prioridades o urgencias del cliente.
 
 Es importante acotar, el estado **Por Definir** se mantendrá durante el proceso de aprobación del cliente, el tiempo que demore el cliente en dar respuesta de aprobación ó rechazo de la propuesta no será imputada en la demora de la entrega.
 
 **Asignación de tarea**
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-El responsable de `ERPyA`_, gestor del proyecto debe asignar la tarea al departamento pertinente, para transferir la tarea a la siguiente etapa, en la cual se procederá a modelar la solución del requerimiento.
+El responsable de `Alimentos Masía`_, gestor del proyecto debe asignar la tarea al departamento pertinente, para transferir la tarea a la siguiente etapa, en la cual se procederá a modelar la solución del requerimiento.
 
 .. _documento/definición-de-la-solución:
 
 **Definición de la Solución**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Esta etapa como lo indica su nombre consiste en definir con una redacción clara, específica y entendible para el cliente el alcance de la solución desde la perspectiva de `ERPyA`_.
+Esta etapa como lo indica su nombre consiste en definir con una redacción clara, específica y entendible para el cliente el alcance de la solución desde la perspectiva de `Alimentos Masía`_.
 
 Este es el método que utilizamos cuando redactamos una oferta, la misma se encuentra muy vinculada a una RFQ (Request For Quotation), que no es más que una solicitud de información, proceso empresarial estándar donde el propósito es recabar información escrita referente a una cotización.
 
@@ -147,7 +147,7 @@ Debe ser específico en este punto ya que es muy importante que el cliente entie
 **Solicitud de confirmación del cliente**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Posterior a la definición de la propuesta por parte de Soporte, :ref:`documento/definición-de-la-solución` por parte de el responsable de `ERPyA`_, la tarea debe ser asignada al aprobador por parte del cliente, esperando del mismo la aprobación de la solución planteada ó rechazo de la misma:
+Posterior a la definición de la propuesta por parte de Soporte, :ref:`documento/definición-de-la-solución` por parte de el responsable de `Alimentos Masía`_, la tarea debe ser asignada al aprobador por parte del cliente, esperando del mismo la aprobación de la solución planteada ó rechazo de la misma:
 
 .. _documento/confirmación-del-cliente:
 
@@ -190,7 +190,7 @@ Unicamente despúes de tener la aprobación del cliente :ref:`documento/confirma
 **Cambiar el estado de la tarea**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Cuando el cliente haya aprobado la solución planteada en el gestor de proyecto `OpenProject`_ y posteriormente la tarea se encuentra en la fase previa al desarrollo, :ref:`documento/inicio-de-desarrollo`, el responsable de `ERPyA`_ está obligado a cambiar el estado actual, **Por Definir** al estado **En Espera (Técnico)**.
+Cuando el cliente haya aprobado la solución planteada en el gestor de proyecto `OpenProject`_ y posteriormente la tarea se encuentra en la fase previa al desarrollo, :ref:`documento/inicio-de-desarrollo`, el responsable de `Alimentos Masía`_ está obligado a cambiar el estado actual, **Por Definir** al estado **En Espera (Técnico)**.
 
 
 

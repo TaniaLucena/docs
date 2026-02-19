@@ -71,7 +71,7 @@ Para conocer qué versión de sistema operativo tiene instalado la PC, se debe i
 
     .. note::
 
-        Los instaladores serán suministrados por E.R.P. Consultores y Asociados, C.A.
+        Los instaladores serán suministrados por Alimentos Masía
 
 **Procedimiento de la instalación**:
 
@@ -80,7 +80,7 @@ En caso de cumplir lo anteriormente descrito y Una vez conectada la Impresora a 
     ====================  ======================================================================================================================================================
     Parámetro             Descripción  
     ====================  ======================================================================================================================================================
-    Dominio               Dirección Web donde Está Alojado el Servidor de cola de impresión, ejemplo: fiscalprinter.erpya.local
+    Dominio               Dirección Web donde Está Alojado el Servidor de cola de impresión, ejemplo: fiscalprinter.masia.local
     Modelo de impresora   modelo de impresora a instalar en el equipo.
     Nombre de impresora   Este Nombre se le asigna en ADempiere al momento de registrar la impresora y es con el cual va a responder la impresora en la red.
     Puerto COM impresora  Esté corresponde al puerto serial en el cual se encuentra conectada la impresora fiscal.
@@ -125,7 +125,7 @@ Se deben colocar los siguientes parámetros:
     =================  ========================= ===============================================================================================================
     Parámetro          Valor                     Descripción  
     =================  ========================= ===============================================================================================================
-    Host               fiscalprinter.erpya.local Dominio Web donde Está Alojado el Servidor de cola de impresión (Colocar la Dirección sin el prefijo "https://")
+    Host               fiscalprinter.masia.local Dominio Web donde Está Alojado el Servidor de cola de impresión (Colocar la Dirección sin el prefijo "https://")
     Port               50043                     Puerto de Comunicaciones del Servidor de cola de impresión, este Puerto se asigna por defecto en 50043.
     Reconnect          true                      Habilitar reconexión Automática del Cliente de cola de Impresión.
     Interval           3000                      Tiempo de reconexión (ms) tiempo de espera máximo para la reconexión del cliente de cola de impresión.
@@ -136,7 +136,7 @@ Se deben colocar los siguientes parámetros:
 
     .. note::
 
-        E.R.P. Consultores y Asociados, C.A. suministrará la Dirección del dominio donde está alojado el Servidor de cola de impresión.
+        Alimentos Masía suministrará la Dirección del dominio donde está alojado el Servidor de cola de impresión.
 
     |Ventana Confirmación de configuración|
 
@@ -177,7 +177,7 @@ Finalizando la instalación está la Ventana de Finalización de instalación
     =================  ========================= ===============================================================================================================
     Parámetro          Valor                     Descripción  
     =================  ========================= ===============================================================================================================
-    Host               fiscalprinter.erpya.local Dominio Web donde Está Alojado el Servidor de cola de impresión (Colocar la Dirección sin el prefijo "https://")
+    Host               fiscalprinter.masia.local Dominio Web donde Está Alojado el Servidor de cola de impresión (Colocar la Dirección sin el prefijo "https://")
     Port               50043                     Puerto de Comunicaciones del Servidor de cola de impresión, este Puerto se asigna por defecto en 50043.
     Reconnect          true                      Habilitar reconexión Automática del Cliente de cola de Impresión.
     Interval           3000                      Tiempo de reconexión (ms) tiempo de espera máximo para la reconexión del cliente de cola de impresión.

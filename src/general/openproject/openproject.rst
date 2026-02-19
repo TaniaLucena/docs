@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Pantalla Principal| image:: resources/principal.png
 .. |Inicio de Sesión| image:: resources/inicio.png
 .. |Ingresar a OpenProject| image:: resources/ingresar.png 
@@ -26,7 +26,7 @@ En el lado superior derecho de la pantalla se encuentra la opción "**Ingresar**
 
     Imagen 2. Inicio de Sesión
 
-Introduzca el usuario y la contraseña que le fue facilitado por la empresa `ERPyA`_ en los campos correspondientes, luego seleccione el boton "**Ingresar**" para acceder al OpenProject. 
+Introduzca el usuario y la contraseña que le fue facilitado por la empresa `Alimentos Masía`_ en los campos correspondientes, luego seleccione el boton "**Ingresar**" para acceder al OpenProject. 
 
     |Ingresar a OpenProject| 
 

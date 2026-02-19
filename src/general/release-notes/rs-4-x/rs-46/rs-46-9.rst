@@ -1,7 +1,7 @@
 .. _documento/versión-46-9:
-.. _Verificar nueva estructura de cálculo de nómina: https://github.com/erpcya/Control-ERPYA/issues/540
-.. _Lentitud en Proceso de Nómina: https://github.com/erpcya/Control-PROSEIN/issues/227
-.. _Registro de Peso del Frijol: https://github.com/erpcya/Control-VEALCA/issues/79
+.. _Verificar nueva estructura de cálculo de nómina: https://github.com/masia/Control-masia/issues/540
+.. _Lentitud en Proceso de Nómina: https://github.com/masia/Control-PROSEIN/issues/227
+.. _Registro de Peso del Frijol: https://github.com/masia/Control-VEALCA/issues/79
 
 **rs-46-9**
 ===========

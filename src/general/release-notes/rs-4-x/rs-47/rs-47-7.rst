@@ -1,8 +1,8 @@
 .. _documento/versión-47-7:
-.. _Txt de Venezuela: https://github.com/erpcya/CONTROL-ANCA/issues/221
-.. _Soporte a Tasa Negociada en Adicion de Activos y en Documento para Dar de Baja al Activo Fijo: https://github.com/erpcya/Control-INALSA/issues/89
-.. _Nueva Formulación del Arroz: https://github.com/erpcya/Control-VEALCA/issues/168
-.. _TXT Banco Bancaribe: https://github.com/erpcya/Control-PROSEIN/issues/259
+.. _Txt de Venezuela: https://github.com/masia/CONTROL-ANCA/issues/221
+.. _Soporte a Tasa Negociada en Adicion de Activos y en Documento para Dar de Baja al Activo Fijo: https://github.com/masia/Control-INALSA/issues/89
+.. _Nueva Formulación del Arroz: https://github.com/masia/Control-VEALCA/issues/168
+.. _TXT Banco Bancaribe: https://github.com/masia/Control-PROSEIN/issues/259
 .. _TXT de Bancaribe v2022: https://github.com/adempiere/LVE/issues/51
 
 **rs-47-7**

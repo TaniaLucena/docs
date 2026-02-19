@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere| image:: resources/menusocio.png
 .. |Ventana Principal Socio del Negocio| image:: resources/ventana.png
@@ -69,7 +69,7 @@ Proceda al llenado de los campos necesarios que a continuación se detallan.
 
         .. warning::
 
-            Generalmente los **Socios de Negocios** son registros compartidos entre entidades organizacionales, por esta razón `ERPyA`_ recomienda la creación con organización (*) para evitar duplicidad e inconvenientes contables, de esta forma garantizamos la homogeneidad de los datos maestros.
+            Generalmente los **Socios de Negocios** son registros compartidos entre entidades organizacionales, por esta razón `Alimentos Masía`_ recomienda la creación con organización (*) para evitar duplicidad e inconvenientes contables, de esta forma garantizamos la homogeneidad de los datos maestros.
 
     Introduzca el código de socio del negocio en el campo "**Código**".
 

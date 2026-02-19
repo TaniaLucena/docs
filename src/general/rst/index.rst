@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/general/rst:
 
 ================================
 **Herramienta RestructuredText**
 ================================
 
-El presente material es elaborado por `ERPyA`_ con la finalidad de definir las pautas necesarias para que los usuarios puedan realizar sus contribuciones a la documentación expuesta en https://docs.erpya.com/
+El presente material es elaborado por `Alimentos Masía`_ con la finalidad de definir las pautas necesarias para que los usuarios puedan realizar sus contribuciones a la documentación expuesta en https://docs.masia.com/
 
 .. toctree::
     :maxdepth: 2

@@ -1,7 +1,7 @@
-.. _ERPyA: http://erpya.com
-.. _Slack: https://erpya.slack.com
-.. _OpenProject: http://project.erpya.com/ 
-.. _OSTicket: http://helpdesk.erpya.com/ 
+.. _Alimentos Masía: https://alimentosmasia.com/
+.. _Slack: https://masia.slack.com
+.. _OpenProject: http://project.masia.com/ 
+.. _OSTicket: http://helpdesk.masia.com/ 
 
 
 .. |Acordar una Reunión| image:: resources/meeting.png
@@ -29,7 +29,7 @@ Las reuniones deben tomarse como una herramienta para aclarar cualquier duda rel
 **Cual es el medio para agendar una reunión?**
 ----------------------------------------------
 
-`ERPyA`_ tiene distintos medios de comunicación entre los cuales se encuentran: 
+`Alimentos Masía`_ tiene distintos medios de comunicación entre los cuales se encuentran: 
 
 - `Slack`_: Es un chat dinámico que permite la integración con distintas herramientas corporativas (sin guardar historia de conversación pasada una semana). 
 
@@ -39,7 +39,7 @@ Las reuniones deben tomarse como una herramienta para aclarar cualquier duda rel
 
 - Correo: Utilizado muchas veces cuando el cliente no tiene acceso a Slack o a la plataforma de Tickets.
 
-A pesar de las múltiples herramientas que posee `ERPyA`_ siempre se debe utilizar el `OpenProject`_ para agendar una reunión, si desconoce la forma para crear una reunión puede ver el siguiente gif
+A pesar de las múltiples herramientas que posee `Alimentos Masía`_ siempre se debe utilizar el `OpenProject`_ para agendar una reunión, si desconoce la forma para crear una reunión puede ver el siguiente gif
 
 .. only:: html
 
@@ -54,7 +54,7 @@ Si desea enviar una notificación por correo desde la agenda lo puede hacer pres
 **¿De qué manera se debe agendar una reunión?**
 -----------------------------------------------
 
-Normalmente las conversaciones entre `ERPyA`_ y los clientes es a través de `Slack`_ o por teléfono. De cualquier manera para que pueda existir una reunión se debe seguir el siguiente procedimiento:
+Normalmente las conversaciones entre `Alimentos Masía`_ y los clientes es a través de `Slack`_ o por teléfono. De cualquier manera para que pueda existir una reunión se debe seguir el siguiente procedimiento:
 
 -  Convocar la reunión a través de `Slack`_, Correo o por teléfono.
 
@@ -64,7 +64,7 @@ Normalmente las conversaciones entre `ERPyA`_ y los clientes es a través de `Sl
 
 -  Crear la reunión en `OpenProject`_: **Es muy importante que se defina bien la hora, los participantes y la agenda para el día de la reunión**
 
--  Después de crear la reunión se debe compartir el URL generado de la misma (el URL del ejemplo es este: http://project.erpya.com/meetings/22)
+-  Después de crear la reunión se debe compartir el URL generado de la misma (el URL del ejemplo es este: http://project.masia.com/meetings/22)
 
 -  Ya con el URL compartido ambos deben confirmar la asistencia a la misma.
 
@@ -94,7 +94,7 @@ Decide tareas y asígnalas.
 
 No traigas ordenadores ni teléfonos).
 
-Para el caso de `ERPyA`_ es conveniente que las reuniones no excedan los **45 minutos**, las reuniones extensas solo crean cansancio y en lugar de ayudar a avanzar solo generan un ambiente que no ayuda a la toma de decisiones.
+Para el caso de `Alimentos Masía`_ es conveniente que las reuniones no excedan los **45 minutos**, las reuniones extensas solo crean cansancio y en lugar de ayudar a avanzar solo generan un ambiente que no ayuda a la toma de decisiones.
 
 **Como escriben los autores de Reinicia, cada minuto que evitas pasar en una reunión es un minuto en el que puedes hacer trabajo de verdad. O, mejor, en irte a casa a tu hora.**
 

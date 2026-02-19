@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Orden de Pago| image:: resources/pay-order.png
 .. |Selección de Pago| image:: resources/payment-selection.png
@@ -14,19 +14,19 @@
 **Registro de Caja Reembolso**
 ==============================
 
-    Realice el procedimiento regular para generar una orden de pago, explicado en el documento :ref:`documento/orden-de-pago`, elaborado por `ERPyA`_.
+    Realice el procedimiento regular para generar una orden de pago, explicado en el documento :ref:`documento/orden-de-pago`, elaborado por `Alimentos Masía`_.
 
         |Orden de Pago|
 
         Imagen 1. Orden de Pago
 
-    Luego realice el procedimiento regular para generar una selección de pago, igualmente explicado en el documento :ref:`documento/selección-de-pago`, elaborado por `ERPyA`_.
+    Luego realice el procedimiento regular para generar una selección de pago, igualmente explicado en el documento :ref:`documento/selección-de-pago`, elaborado por `Alimentos Masía`_.
 
         |Selección de Pago|
 
         Imagen 2. Selección de Pago
 
-    Por último, realice el procedimiento regular para generar un imprimir/exportar pagos, explicado en el documento :ref:`documento/Imprimir-Exportar`, elaborado por `ERPyA`_.
+    Por último, realice el procedimiento regular para generar un imprimir/exportar pagos, explicado en el documento :ref:`documento/Imprimir-Exportar`, elaborado por `Alimentos Masía`_.
 
         |Imprimir Exportar Pagos|
 
@@ -44,13 +44,13 @@
 
         Imagen 5. Registo en Caja Reembolso
 
-    Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Reembolso**".
+    Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Alimentos Masía`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Reembolso**".
 
         |Primer Cierre de Caja Reembolso|
 
         Imagen 6. Cierre de Caja Reembolso
 
-    Realice el procedimiento regular para generar una transferencia bancaria, explicado en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `ERPyA`_.
+    Realice el procedimiento regular para generar una transferencia bancaria, explicado en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `Alimentos Masía`_.
 
         |Transferencia Bancaria|
 
@@ -60,7 +60,7 @@
 
         Al realizar el proceso de transferencia bancaria, es generado un egreso de banco y un ingreso a caja. De igual manera, es creado un cobro en caja y un pago en pago/cobro. Adicional a ello, el monto de la caja reembolso queda en cero (0).
 
-    Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Reembolso**".
+    Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Alimentos Masía`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Reembolso**".
 
         |Cierre de Caja Final|
 

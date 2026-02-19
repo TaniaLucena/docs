@@ -1,6 +1,6 @@
 .. _documento/versión-47-2:
-.. _Conciliación automática (cierre de caja) con tipo de pago Efectivo: https://github.com/erpcya/Control-PROSEIN/issues/238
-.. _Comisiones USD: https://github.com/erpcya/Control-FPLE/issues/317
+.. _Conciliación automática (cierre de caja) con tipo de pago Efectivo: https://github.com/masia/Control-PROSEIN/issues/238
+.. _Comisiones USD: https://github.com/masia/Control-FPLE/issues/317
 
 **rs-47-2**
 ===========

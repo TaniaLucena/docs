@@ -1,5 +1,5 @@
 .. _documento/versión-46-6:
-.. _Lentitud en Proceso de Nómina: https://github.com/erpcya/Control-PROSEIN/issues/227
+.. _Lentitud en Proceso de Nómina: https://github.com/masia/Control-PROSEIN/issues/227
 
 **rs-46-6**
 ===========

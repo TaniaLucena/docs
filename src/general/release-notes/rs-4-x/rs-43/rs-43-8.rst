@@ -1,6 +1,6 @@
 .. _documento/versión-43-8:
 
-.. _Soporte Error: Problemas en ADempiere con Procesos de Facturación: https://github.com/erpcya/control-migo/issues/192
+.. _Soporte Error: Problemas en ADempiere con Procesos de Facturación: https://github.com/masia/control-migo/issues/192
 
 **rs-43-8**
 ===========

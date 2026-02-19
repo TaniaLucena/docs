@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/customer-deliveries-menu.png
 .. |Ventana Entregas Cliente| image:: resources/customer-deliveries-window.png
 .. |Icono Registro Nuevo de la Ventana Entregas Cliente| image:: resources/new-registration-icon-in-the-client-deliveries-window.png
@@ -120,7 +120,7 @@ Seleccione el icono "**Registro Nuevo**", para crear un nuevo registro de entreg
 
         Imagen 10. Campo Descripción de la Ventana Entregas Cliente
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         |Campo Tipo de Documento de la Ventana Entregas Cliente|
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Opción Crear Retiro Detallado de POS| image:: resources/option-create-detailed-pos-withdrawal.png
 .. |Ventana Retiro de Caja Detallado| image:: resources/detail-cash-withdrawal-window.png
@@ -46,7 +46,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
     Imagen 1. Menú de ADempiere
 
-Si en el transcurso del día, se presenta un retiro de fondos en alguna de las cajas en la cual se encuentran realizando transacciones desde el punto de venta, seleccione la opción "**Retiro de Caja (Detallado)**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Si en el transcurso del día, se presenta un retiro de fondos en alguna de las cajas en la cual se encuentran realizando transacciones desde el punto de venta, seleccione la opción "**Retiro de Caja (Detallado)**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Alimentos Masía`_.
 
     |Opción Crear Retiro Detallado de POS|
 

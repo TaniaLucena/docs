@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de apertura de caja pos| image:: resources/opening-cash.png
 .. |Menú de ADempiere| image:: resources/menu-opening-point-of-sale.png
 .. |Ventana Apertura de Punto de Venta| image:: resources/window-opening-point-of-sale.png
@@ -50,7 +50,7 @@ Podrá visualizar la ventana "**Apertura de Punto de Venta**", con diferentes ca
 
     Imagen 3. Ventana Apertura de Punto de Venta
 
-    Realice en la ventana "**Apertura de Punto de Venta**", el proceso regular para generar una transferencia bancaria, dicho procedimiento se encuentra explicado en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `ERPyA`_. 
+    Realice en la ventana "**Apertura de Punto de Venta**", el proceso regular para generar una transferencia bancaria, dicho procedimiento se encuentra explicado en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `Alimentos Masía`_. 
     
     Para la apertura de una caja, es necesario que sean cumplidas las siguientes restricciones en la ventana "**Apertura de Punto de Venta**".
 

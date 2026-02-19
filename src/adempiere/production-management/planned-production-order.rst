@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu-of-planned-production-orders.png
 .. |Ventana Órdenes de Producción Planeadas| image:: resources/planned-production-order-window.png
 .. |Icono Registro Nuevo| image:: resources/new-record-icon.png
@@ -58,7 +58,7 @@ Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos 
 
             Imagen 4. Campo Organización de la Ventana Órdenes de Producción Planeadas
 
-        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_. 
 
             |Campo Tipo de Documento de la Ventana Órdenes de Producción Planeadas|
             

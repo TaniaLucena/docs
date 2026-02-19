@@ -7,12 +7,12 @@
 
 - FiscalPrinter:
  
-    - Librería: org.erpya.adempiere.fiscal-printer.fiscal-printer-client
+    - Librería: org.masia.adempiere.fiscal-printer.fiscal-printer-client
     - Versión: 1.2.8
  
 - FiscalPrinter-API:
  
-    - Librería: org.erpya.fiscal-printer.tools.fiscal-printer-api
+    - Librería: org.masia.fiscal-printer.tools.fiscal-printer-api
     - Versión: 1.3.3
 
 - FiscalPrinter-Server:

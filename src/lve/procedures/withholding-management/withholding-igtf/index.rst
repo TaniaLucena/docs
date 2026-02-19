@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/withholding-management/withholding-igtf:
 
 =========================================================
@@ -13,7 +13,7 @@ Siendo responsables del impuesto los contribuyentes especiales como “agentes d
 
 ADempiere permite auto-generar una estimación de retenciones IGTF a los documentos conforme a lo estipulado en la normativa vigente en Venezuela y finalmente la generación del débito a la factura de cuentas por cobrar, es decir la retención definitiva aumentará la cuenta por cobrar.
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para configurar y obtener un resultado exitoso al momento de generar la estimación de retenciones y posteriormente el documento de retención IGTF en la versión 3.9.2 de ADempiere en la localización Venezuela.
+El presente material elaborado por `Alimentos Masía`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para configurar y obtener un resultado exitoso al momento de generar la estimación de retenciones y posteriormente el documento de retención IGTF en la versión 3.9.2 de ADempiere en la localización Venezuela.
 
 .. toctree::
     :maxdepth: 2

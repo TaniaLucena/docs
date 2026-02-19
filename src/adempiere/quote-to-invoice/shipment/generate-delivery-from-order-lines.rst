@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu-generate-delivery-from-order-lines.png
 .. |Ventana Generar Entrega desde Líneas de la Orden| image:: resources/window-generate-delivery-from-order-lines.png
 .. |Campo Socio del Negocio de la Ventana Generar Entrega desde Líneas de la Orden| image:: resources/business-partner-field-of-the-generate-delivery-from-order-lines-window.png
@@ -108,7 +108,7 @@ Podrá visualizar la ventana "**Generar Entrega desde Líneas de la Orden**" y p
 
         Imagen 12. Campo Fecha de Envio de la Ventana Generar Entrega desde Líneas de la Orden
 
-    El campo "**Tipo de Documento**", se encuentra vacío y de sólo lectura ya que el tipo de documento a generar lo define la orden de venta seleccionada. De igual manera, el tipo de documento define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    El campo "**Tipo de Documento**", se encuentra vacío y de sólo lectura ya que el tipo de documento a generar lo define la orden de venta seleccionada. De igual manera, el tipo de documento define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         |Campo Tipo de Documento de la Ventana Generar Entrega desde Líneas de la Orden|
 

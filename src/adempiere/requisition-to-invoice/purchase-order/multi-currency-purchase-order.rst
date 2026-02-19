@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |menú de orden de compra multimoneda| image:: resources/multi-currency-purchase-order-menu.png
 .. |icono de registro nuevo orden multimoneda| image:: resources/register-icon-new-multi-currency-order.png
 .. |campo organización orden multimoneda| image:: resources/organization-field-multi-currency-order.png
@@ -84,7 +84,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
         Imagen 5. Campo Descripción
 
-    Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         Para realizar una orden de compra multimoneda, puede ser utilizado cualquier tipo de documento de orden de compra.
 

@@ -1,7 +1,7 @@
 .. _documento/versión-50-5:
 
-.. _Error al Generar TXT FAOV: https://github.com/erpcya/Control-ERPYA/issues/911
-.. _Javalang al agregar producto en la orden: https://github.com/erpcya/Control-HCIMPORT/issues/59
+.. _Error al Generar TXT FAOV: https://github.com/masia/Control-masia/issues/911
+.. _Javalang al agregar producto en la orden: https://github.com/masia/Control-HCIMPORT/issues/59
 
 **rs-50-5**
 ===========

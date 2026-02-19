@@ -1,11 +1,11 @@
 
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 =========================================================
-**Documentación de E.R.P. Consultores y Asociados, C.A.**
+**Documentación de Alimentos Masía**
 =========================================================
 
-Esta documentación está dirigida a los clientes de `ERPyA`_ con la finalidad de guiar al usuario en la ejecución de sus actividades diarias sobre ADempiere ERP.
+Esta documentación está dirigida a los usuarios de `Alimentos Masía`_ con la finalidad de guiar al usuario en la ejecución de sus actividades diarias sobre ADempiere ERP.
 
 La misma será actualizada periódicamente en función de las nuevas versiones de ADempiere.
 

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menug.png
 .. |Ventana POS| image:: resources/posnew.png
 .. |Icono Registro Nuevo| image:: resources/neworder.png

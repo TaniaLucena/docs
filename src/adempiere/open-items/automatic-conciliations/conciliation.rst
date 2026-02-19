@@ -1,5 +1,5 @@
-.. _ERPyA: http://erpya.com
-.. _importación: https://docs.erpya.com/es/latest/ADempiere/open-items/automatic-conciliations/concept.html#importacion-de-extracto-bancario
+.. _Alimentos Masía: https://alimentosmasia.com/
+.. _importación: https://docs.masia.com/es/latest/ADempiere/open-items/automatic-conciliations/concept.html#importacion-de-extracto-bancario
 
 .. |Menú de ADempiere| image:: resources/menuconciliacion.png
 .. |Icono de Registro Nuevo| image:: resources/nuevoreg.png
@@ -57,7 +57,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
         Imagen 3. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
         |Campo Tipo de Documento|
 

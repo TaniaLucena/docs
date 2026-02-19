@@ -1,6 +1,6 @@
 .. _documento/versión-51-6:
 
-.. _Planilla de IVA: https://github.com/erpcya/Control-ERPYA/issues/930
+.. _Planilla de IVA: https://github.com/masia/Control-masia/issues/930
 
 **rs-51-6**
 ===========

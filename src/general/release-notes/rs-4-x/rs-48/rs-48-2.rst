@@ -1,5 +1,5 @@
 .. _documento/versión-48-2:
-.. _Txt Banesco: https://github.com/erpcya/CONTROL-ANCA/issues/227
+.. _Txt Banesco: https://github.com/masia/CONTROL-ANCA/issues/227
 
 **rs-48-2**
 ===========

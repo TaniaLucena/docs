@@ -76,7 +76,7 @@
 
 - FAP-Venezuela-Location:
   
-  - Add support to calculation of bean for all attributes using the class:  org.erpya.lve.farming.engine.Bean_ConditionedWeightAllAttributes
+  - Add support to calculation of bean for all attributes using the class:  org.masia.lve.farming.engine.Bean_ConditionedWeightAllAttributes
 
 - Print-Queue:
   

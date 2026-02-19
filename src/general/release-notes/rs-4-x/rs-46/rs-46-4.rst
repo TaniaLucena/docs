@@ -1,5 +1,5 @@
 .. _documento/versión-46-4:
-.. _Error al Crear Orden de Devolución (Gestión Lote): https://github.com/erpcya/Control-ELMOR/issues/89
+.. _Error al Crear Orden de Devolución (Gestión Lote): https://github.com/masia/Control-ELMOR/issues/89
 
 **rs-46-4**
 ===========

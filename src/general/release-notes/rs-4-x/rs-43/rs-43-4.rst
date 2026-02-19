@@ -1,6 +1,6 @@
 .. _documento/versión-43-4:
 
-.. _Generar documentos de Gastos desde Crédito a Productor se queda procesando y genera Javalang: https://github.com/erpcya/Control-VEALCA/issues/62
+.. _Generar documentos de Gastos desde Crédito a Productor se queda procesando y genera Javalang: https://github.com/masia/Control-VEALCA/issues/62
 
 **rs-43-4**
 ===========

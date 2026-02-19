@@ -1,7 +1,7 @@
 .. _documento/versión-44-9:
 
 .. |Parámetros en el Almacenamiento por Producto| image:: resources/rs-44-9-parameters-storage-per-product.png
-.. _Característica Reporte "Almacenamiento por Producto": https://github.com/erpcya/Control-BJT/issues/55
+.. _Característica Reporte "Almacenamiento por Producto": https://github.com/masia/Control-BJT/issues/55
 
 **rs-44-9**
 ===========

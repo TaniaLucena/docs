@@ -35,7 +35,7 @@
 .. |icono imprimir de la ventana órdenes de venta| image:: resources/print-icon-from-the-sales-orders-window.png
 .. |ventana reporte de orden con reporte de propuesta| image:: resources/order-report-window-with-proposal-report.png
 
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/propuesta:
 
@@ -80,7 +80,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 6. Campo Descripción
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Alimentos Masía`_.
 
     |campo tipo de documento de la ventana órdenes de venta|
 
