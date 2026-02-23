@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |reporte de detalle de consignación| image:: resources/consignment-detail-report.png
 .. |icono proceso de la ventana documentos por pagar| image:: resources/window-process-icon-documents-payable.png
 .. |opción crear líneas desde facturas de consignación| image:: resources/option-create-lines-from-consignment-invoices.png
@@ -21,13 +21,13 @@
 **Relación de Ventas en Consignación**
 ======================================
 
-Para la relación de las ventas en consignación, es obligatoria la configuración de las mismas. Dicha configuración se encuentra explicada en el material :ref:`documento/configuración-de-ventas-en-consignación`, elaborado por `ERPyA`_ y deben ser cumplidas de manera obligatoria para garantizar el correcto funcionamiento del procedimiento de ventas en consignación.
+Para la relación de las ventas en consignación, es obligatoria la configuración de las mismas. Dicha configuración se encuentra explicada en el material :ref:`documento/configuración-de-ventas-en-consignación`, elaborado por `Almientos Masía`_ y deben ser cumplidas de manera obligatoria para garantizar el correcto funcionamiento del procedimiento de ventas en consignación.
 
 Adicional a ello, la venta no debe estar incluida en ningún documento por pagar. De lo contrario, el registro no podrá ser visualizado al momento ser cargada la información a la pestaña "**Línea de Factura**", de la ventana "**Documentos por Pagar**".
 
-Luego de las modificaciones realizadas por `ERPyA`_ no es necesario realizar un documento por pagar (pre-factura), para relacionar la venta o uso interno de los productos en consignación. Si se requiere relacionar al proveedor o simplemente consultar las mismas, se puede generar el "**Reporte de Detalle de Consignación**".
+Luego de las modificaciones realizadas por `Almientos Masía`_ no es necesario realizar un documento por pagar (pre-factura), para relacionar la venta o uso interno de los productos en consignación. Si se requiere relacionar al proveedor o simplemente consultar las mismas, se puede generar el "**Reporte de Detalle de Consignación**".
 
-Para ejemplificar el caso se tienen los siguientes productos en consignación del proveedor "**E.R.P. Consultores y Asociados, C.A.**"
+Para ejemplificar el caso se tienen los siguientes productos en consignación del proveedor "**Alimentos Masía**"
 
     - 01-Tap            Tapabocas
     - 01-TerCont        Termos Contigo
@@ -45,7 +45,7 @@ Genere el "**Reporte de Detalle de Consignación**", filtrando por "**Socio del 
 
 .. note::
 
-    El "**Reporte de Detalle de Consignación**", se encuentra explicado de manera detallada en el material :ref:`documento/reporte-de-detalle-de-consignación`, elaborado por `ERPyA`_.
+    El "**Reporte de Detalle de Consignación**", se encuentra explicado de manera detallada en el material :ref:`documento/reporte-de-detalle-de-consignación`, elaborado por `Almientos Masía`_.
 
 |reporte de detalle de consignación|
 
@@ -66,7 +66,7 @@ La factura de cuentas por pagar debe ser registrada cuando el proveedor realiza 
 
         Se debe crear en ADempiere, las facturas entregadas por el proveedor exactamente iguales.
 
-Realice el procedimiento regular para crear un documento por pagar, dicho procedimiento se encuentra explicado en el material :ref:`documento/documento-por-pagar`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para crear un documento por pagar, dicho procedimiento se encuentra explicado en el material :ref:`documento/documento-por-pagar`, elaborado por `Almientos Masía`_.
 
     .. note::
 

@@ -154,7 +154,7 @@ Podrá apreciar el menú desplegado por el icono "**Visualiza Detalle**", el mis
 **Re-Generar IGTF desde Caja/Cobro**
 ------------------------------------
 
-Realice el procedimiento regular para generar un cobro, explicado en el documento :ref:`documento/cobro`, elaborado por `ERPyA`_. 
+Realice el procedimiento regular para generar un cobro, explicado en el documento :ref:`documento/cobro`, elaborado por `Almientos Masía`_. 
 
 .. note::
 

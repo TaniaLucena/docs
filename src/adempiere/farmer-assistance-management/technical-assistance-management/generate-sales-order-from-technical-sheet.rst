@@ -14,7 +14,7 @@
 .. |consulta de orden de venta generada desde el proceso generar orden de venta desde hoja técnica| image:: resources/sales-order-query-generated-from-the-process-generate-sales-order-from-technical-sheet.png
 
 
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/generar-orden-de-venta-desde-hoja-técnica:
 
@@ -53,7 +53,7 @@ Podrá visualizar la ventana "**Generar Orden de Venta (Desde Hoja Técnica)**",
 
     Imagen 5. Ventana Generar Orden de Venta (Desde Hoja Técnica)
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_.
 
     |campo tipo de documento destino de la ventana generar orden de venta desde hoja técnica|
 

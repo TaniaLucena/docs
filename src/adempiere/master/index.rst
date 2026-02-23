@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/master:
 
 ==================
@@ -15,7 +15,7 @@ Una de las dificultades generadas cuando existen datos maestros de baja calidad 
 
     *Al ser procesadas las transacciones, el cliente aparece de dististas formas, con distintos códigos en las diferentes intalaciones del sistema en gestión. Probablemente la consecuencia sería que exista errores en la facturación u otro documento fiscal a causa de la redundancia de datos.*
 
-Con este ejemplo visualizamos la gravedad que implica la falta de integración y coherencia de los datos maestros, ahora bien, `ERPyA`_ pretende ofrecerle instrucciones precisas en una documentación destinada a definir cada uno de los maestros de ADempiere, es importante seguir al pie de la letra cada uno de los procedimientos descritos.
+Con este ejemplo visualizamos la gravedad que implica la falta de integración y coherencia de los datos maestros, ahora bien, `Almientos Masía`_ pretende ofrecerle instrucciones precisas en una documentación destinada a definir cada uno de los maestros de ADempiere, es importante seguir al pie de la letra cada uno de los procedimientos descritos.
 
 .. note:: Sugerimos crear los registros maestros con organización **"*"** para asegurar la disponibilidad en multiples organizaciones.
 

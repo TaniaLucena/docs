@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/withholding-management/withholding-cxc:
 
 ==================================================
@@ -11,7 +11,7 @@ ADempiere permite auto-generar por medio del proceso "**Generar Retenciones**" e
 
 El procedimiento para aplicar retenciones a las facturas de cuentas por cobrar consiste en generar la misma desde el proceso "**Generar Retenciones**".
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para obtener un resultado exitoso al momento de procesar las retenciones y posteriormente generar el documento de retención de cuentas por cobrar en la versión 3.9.2 de ADempiere en la localización Venezuela.
+El presente material elaborado por `Almientos Masía`_ pretende ofrecerle una explicación eficiente a nuestros usuarios del procedimiento a seguir para obtener un resultado exitoso al momento de procesar las retenciones y posteriormente generar el documento de retención de cuentas por cobrar en la versión 3.9.2 de ADempiere en la localización Venezuela.
 
 .. toctree::
     :maxdepth: 2

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |tasa de cambio del bcv del día 04| image:: resources/exchange-rate-of-the-bcv-of-day-04.png
 .. |tasa de cambio del bcv del día 06| image:: resources/exchange-rate-of-the-bcv-of-day-06.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
@@ -90,9 +90,9 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
     Imagen 3. Menú de ADempiere
 
-La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `ERPyA`_.
+La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `Almientos Masía`_.
 
-Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `ERPyA`_.
+Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `Almientos Masía`_.
 
     Seleccione en la ventana "**Orden de Venta**", generada del icono "**Registros Históricos**", la orden de venta que requiere copiar.
 
@@ -116,7 +116,7 @@ Podrá visualizar que el registro de la orden de venta ubicada se encuentra en e
 
         Es importante resaltar que cuando se presenta una devolución, la orden debe ser copiada antes de ejecutar el proceso de devolución ya que al generarse la nota de crédito, la orden pasa de estado "**Completo**" a estado "**Cerrado**".
 
-Seleccione la opción "**Copiar Orden Desde Otra**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Seleccione la opción "**Copiar Orden Desde Otra**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Almientos Masía`_.
 
     |opción copiar orden desde otra|
 

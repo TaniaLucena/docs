@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu-generate-invoice-from-order-lines.png
 .. |Ventana Generar Factura desde Líneas de la Orden| image:: resources/generate-invoice-from-order-lines-window.png
 .. |Campo Agente Comercial de la Ventana Generar Factura desde Líneas de la Orden| image:: resources/commercial-agent-field-of-the-generate-invoice-window-from-order-lines.png
@@ -105,7 +105,7 @@ Podrá visualizar la ventana "**Genera Factura desde Líneas de la Orden**" y pr
 
         Imagen 13. Campo Acción en el Documento de la Ventana Generar Factura desde Líneas de la Orden
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_.
 
         |Campo Tipo de Documento Destino de la Ventana Generar Factura desde Líneas de la Orden|
 

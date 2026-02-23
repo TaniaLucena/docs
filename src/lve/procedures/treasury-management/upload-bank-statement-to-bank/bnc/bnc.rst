@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-bnc:
 
 **Banco Nacional de Crédito**
 =============================
 
-Para la exportación de los archivos desde ADempiere al banco nacional de crédito, `ERPyA`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco nacional de crédito, `Almientos Masía`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado para su análisis y adaptación.
 El banco cuenta con los documentos :download:`Estructura TxT BNC <BNC_Estructura_TXT_RegPagos_2014.pdf>`
 
 **Archivo para Pagos de Proveedores**

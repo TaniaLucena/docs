@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Tabla de Retención de ISLR 1| image:: resources/tabla-islr1.png
 .. |Tabla de Retención de ISLR 2| image:: resources/tabla-islr2.png
 .. |Tabla de Retención de ISLR 3| image:: resources/tabla-islr3.png
@@ -29,7 +29,7 @@ Imagen 3. Tabla de Retención de ISLR
 
 Así mismo existen casos en los que los proveedores son exonerados de la retención de ISLR, para lo cual ADempiere contempla la exoneración del mismo a los socios de negocios.
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para configurar y obtener un resultado exitoso al momento de generar la estimación de retenciones y posteriormente el documento de retención de ISLR en la versión 3.9.2 de ADempiere en la localización Venezuela.
+El presente material elaborado por `Almientos Masía`_ pretende ofrecerle una explicación eficiente a nuestros usuarios del procedimiento a seguir para configurar y obtener un resultado exitoso al momento de generar la estimación de retenciones y posteriormente el documento de retención de ISLR en la versión 3.9.2 de ADempiere en la localización Venezuela.
 
 .. toctree::
     :maxdepth: 2

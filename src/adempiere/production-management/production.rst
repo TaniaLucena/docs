@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/production-menu.png
 .. |Ventana Producción| image:: resources/production-window.png
 .. |Icono Registro Nuevo de la Pestaña Encabezado de Producción de la Ventana Producción| image:: resources/new-record-icon-from-the-production-header-tab-of-the-production-window.png
@@ -71,7 +71,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
             Si no es ingresado ningún valor en este campo, ADempiere tomará el número de documento correspondiente a la secuencia que tiene el tipo de documento establecido.
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. 
 
         |Campo Tipo de Documento de la Pestaña Encabezado de Producción de la Ventana Producción|
 

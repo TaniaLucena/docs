@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Opción Contabilizado de la Ventana Órdenes de Venta| image:: resources/option-posted-from-the-sales-orders-window.png
 .. |Asiento Contable de la Ventana Órdenes de Venta| image:: resources/window-accounting-entry-sales-orders.png
 .. |Opción Contabilizado de la Ventana Documentos por Cobrar| image:: resources/accounting-option-of-the-documents-receivable-window.png
@@ -21,7 +21,7 @@
 **Orden de Venta**
 ------------------
 
-Realice el procedimiento regular para generar una orden de venta en ADempiere, el mismo es explicado en el documento :ref:`documento/orden-de-venta`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una orden de venta en ADempiere, el mismo es explicado en el documento :ref:`documento/orden-de-venta`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de orden de venta se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Órdenes de Venta**".
 
@@ -38,7 +38,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Factura de Cuentas por Cobrar**
 ---------------------------------
 
-Realice el procedimiento regular para generar una factura por cobrar en ADempiere, el mismo es explicado en el documento :ref:`documento/documento-por-cobrar`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una factura por cobrar en ADempiere, el mismo es explicado en el documento :ref:`documento/documento-por-cobrar`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento por cobrar se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Documentos por Cobrar**".
 
@@ -55,7 +55,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Entrega**
 -----------
 
-Realice el procedimiento regular para generar una entrega en ADempiere, el mismo es explicado en el documento :ref:`documento/entregas-cliente`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una entrega en ADempiere, el mismo es explicado en el documento :ref:`documento/entregas-cliente`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de entrega se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Entregas (Cliente)**".
 
@@ -72,7 +72,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Cobro**
 ---------
 
-Realice el procedimiento regular para generar un cobro en ADempiere, el mismo es explicado en el documento :ref:`documento/cobro`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un cobro en ADempiere, el mismo es explicado en el documento :ref:`documento/cobro`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de cobro se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Pago/Cobro**".
 
@@ -110,7 +110,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Conciliación**
 ----------------
 
-Realice el procedimiento regular para generar una conciliación en ADempiere, el mismo es explicado en el documento :ref:`documento/conciliacion-automatica`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una conciliación en ADempiere, el mismo es explicado en el documento :ref:`documento/conciliacion-automatica`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de conciliación automática se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Estado de Cuentas Bancario**".
 

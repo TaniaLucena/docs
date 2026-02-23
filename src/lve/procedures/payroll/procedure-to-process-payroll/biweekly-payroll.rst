@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina Quincenal| image:: resources/quincenal1.png
 .. |Recibo de Pago Nómina Quincenal| image:: resources/reciboquincenal.png
 .. |Detalle de Pago Nómina Quincenal| image:: resources/detallequincenal.png
@@ -13,7 +13,7 @@
 **Nómina Quincenal**
 ====================
 
-    Para procesar una “**Nómina Quincenal**” debemos realizar el proceso de nómina estándar mencionado en el documento  :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina Quincenal**” debemos realizar el proceso de nómina estándar mencionado en el documento  :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 

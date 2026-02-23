@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu-charges.png
 .. |Ventana Cargo| image:: resources/charges-window.png
 .. |Pestaña Contabilidad de la Ventana Cargo| image:: resources/accounting-tab-of-the-charge-window.png
@@ -37,7 +37,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Cargo Gasto**", para s
 
     Imagen 4. Campo Cargo Gasto de la Pestaña Contabilidad de la Ventana Cargo
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Cargo Gasto|
 
@@ -49,7 +49,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Cargo Ingreso**", para
 
     Imagen 6. Campo Cargo Ingreso de la Pestaña Contabilidad de la Ventana Cargo
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Cargo Ingreso|
 

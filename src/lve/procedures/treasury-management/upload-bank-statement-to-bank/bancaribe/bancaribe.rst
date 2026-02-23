@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-bancaribe:
 
 **Banco del Caribe**
 ====================
 
-Para la exportación de los archivos desde ADempiere al banco del caribe, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco del caribe, `Almientos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con el documento :download:`Estructura del txt de Bancaribe <Estuctura_TXT_Bancaribe.pdf>`, que explica algunos formatos que sirven de ayuda para la construcción el archivo a cargar.
 

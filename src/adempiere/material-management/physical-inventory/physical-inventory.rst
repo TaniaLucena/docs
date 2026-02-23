@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Primer Reporte de Detalle de Almacenamiento| image:: resources/primer-detalle-almacen.png
 .. |Menú de ADempiere| image:: resources/menu-inventario-fisico.png
@@ -65,7 +65,7 @@ Podrá visualizar la ventana "**Inventario Físico**", donde debe seleccionar el
 
         Imagen 7. Campo Fecha de Movimiento
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. 
 
         |Campo Tipo de Documento|
 

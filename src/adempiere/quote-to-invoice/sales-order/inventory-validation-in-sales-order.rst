@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |check validar disponibilidad| image:: resources/check-validate-availability.png
 .. |registro desde ventana órdenes de venta| image:: resources/register-from-window-sales-orders.png
 .. |registro desde formulario punto de venta| image:: resources/registration-from-point-of-sale-form.png
@@ -8,7 +8,7 @@
 **Validación de Inventario en Orden de Venta**
 ==============================================
 
-Para validar la disponibilidad de los productos en las ventas por medio de las órdenes de venta, ya sea desde la ventana "**Órdenes de Venta**" o desde el formulario "**Punto de Venta**", `ERPyA`_ realizó una actualización en los tipos de documentos de órdenes de venta. Dicha actualización consta de un check que establece como regla principal la disponibilidad en almacén de los productos cargados a la orden.
+Para validar la disponibilidad de los productos en las ventas por medio de las órdenes de venta, ya sea desde la ventana "**Órdenes de Venta**" o desde el formulario "**Punto de Venta**", `Almientos Masía`_ realizó una actualización en los tipos de documentos de órdenes de venta. Dicha actualización consta de un check que establece como regla principal la disponibilidad en almacén de los productos cargados a la orden.
 
     |check validar disponibilidad|
 

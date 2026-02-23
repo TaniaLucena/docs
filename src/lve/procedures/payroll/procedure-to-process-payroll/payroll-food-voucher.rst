@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina Bono de Alimentación| image:: resources/bonodealimentacionpng.png
 .. |Recibo de Pago Nómina Bono de Alimentación| image:: resources/recibobonoalimentacion.png
 .. |Detalle de Pago Nómina Bono de Alimentación| image:: resources/detallebonoalimentacion.png
@@ -10,7 +10,7 @@
 **Nómina Bono de Alimentación**
 ===============================
 
-    Para procesar una “**Nómina de Bono de Alimentación**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de bono de alimentación, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina de Bono de Alimentación**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de bono de alimentación, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del Documento:
 

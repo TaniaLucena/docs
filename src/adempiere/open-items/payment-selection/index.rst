@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/open-items/payment-selection:
 
 =====================
@@ -11,7 +11,7 @@ La "**Orden de Pago**" es utilizada para crear aquellas solicitud de pago de los
 
 La "**Selección de Pagos de Cuentas por Pagar**" es utilizada cuando se define cuales son los documentos que sí se les generará el pago y desde qué cuenta bancaria de la compañía saldrán la cancelación de los documentos seleccionados; la selección parte de la agrupación de facturas asociadas en la "**Orden de Pago**" este procedimiento es comúnmente realizado por el departamento de tesorería, ya qué ellos son los encargados de llevar los saldos en banco lo cual le permite tener una toma de decisión del banco a utilizar para saldar una factura de CxP o realizar un anticipo a proveedores.
 
-Para conocer mejor este procedimiento de la selección de pagos `ERPyA`_ ofrece una explicación eficiente y sencilla de este proceso para así obtener un resultado exitoso al momento de generar una orden de pago y posteriormente una selección de pago de cuentas por pagar para culminar el procedimiento de manera exitosa en la versión 3.9.2 de ADempiere en la localización Venezuela. 
+Para conocer mejor este procedimiento de la selección de pagos `Almientos Masía`_ ofrece una explicación eficiente y sencilla de este proceso para así obtener un resultado exitoso al momento de generar una orden de pago y posteriormente una selección de pago de cuentas por pagar para culminar el procedimiento de manera exitosa en la versión 3.9.2 de ADempiere en la localización Venezuela. 
 
 .. toctree::
     :maxdepth: 2

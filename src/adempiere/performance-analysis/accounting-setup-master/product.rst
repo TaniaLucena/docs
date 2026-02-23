@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/product-menu.png
 .. |Ventana Producto| image:: resources/product-window.png
 .. |Pestaña Contabilidad| image:: resources/accounting-tab-of-the-product-window.png
@@ -63,7 +63,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Inventario de Producto
 
     Imagen 4. Campo Inventario de Producto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Inventario de Producto|
 
@@ -75,7 +75,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Costos o Gastos Produc
 
     Imagen 6. Campo Costos o Gastos Producto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Costos o Gastos Producto|
 
@@ -87,7 +87,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Ajustar Costo**", para
 
     Imagen 8. Campo Ajustar Costo
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Ajustar Costo|
 
@@ -99,7 +99,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Conciliación de Inven
 
     Imagen 10. Campo Conciliación de Inventario
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Conciliación de Inventario|
 
@@ -111,7 +111,7 @@ Seleccione el icono ubicado del lado derecho del campo "**COGS del Producto**", 
 
     Imagen 12. Campo COGS del Producto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo COGS del Producto|
 
@@ -123,7 +123,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Variación Precio de O
 
     Imagen 14. Campo Variación Precio de OC
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Variación Precio de OC|
 
@@ -135,7 +135,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Variación en Precio d
 
     Imagen 16. Campo Variación en Precio de la Factura
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Variación en Precio de la Factura|
 
@@ -147,7 +147,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Varianza Costo Promedi
 
     Imagen 18. Campo Varianza Costo Promedio
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Varianza Costo Promedio|
 
@@ -159,7 +159,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Descuento Comercial Re
 
     Imagen 20. Campo Descuento Comercial Recibido
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Descuento Comercial Recibido|
 
@@ -171,7 +171,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Descuento Comercial Co
 
     Imagen 22. Campo Descuento Comercial Concedido
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Descuento Comercial Concedido|
 
@@ -183,7 +183,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Ingresos Producto**", 
 
     Imagen 24. Campo Ingresos Producto
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Ingresos Producto|
 
@@ -195,7 +195,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Trabajo en Proceso**",
 
     Imagen 26. Campo Trabajo en Proceso
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Trabajo en Proceso|
 
@@ -207,7 +207,7 @@ Seleccione el icono ubicado del lado derecho del campo "**Existencia Piso**", pa
 
     Imagen 28. Campo Existencia Piso
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Existencia Piso|
 

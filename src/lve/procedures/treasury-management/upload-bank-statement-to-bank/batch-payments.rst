@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |pestaña cuenta bancaria de la ventana socio del negocio| image:: resources/bank-account-tab-of-the-business-partner-window.png
 .. |pestaña contacto usuario| image:: resources/user-contact-tab.png
 .. |ventana selección de pagos| image:: resources/payment-selection-window.png
@@ -98,7 +98,7 @@ Un ejemplo del archivo generado en formato "**.txt**", seleccionando el usuario 
 
 El archivo en formato "**.txt**" generado por ADempiere, debe ser cargado al banco desde el cual requiere que sean ejecutadas las transferencias bancarias.
 
-`ERPyA`_ pretende ofrecer una explicación eficiente a nuestros clientes del estándar de extracto bancario a través de una guía fácil y sencilla para así obtener resultados exitosos en la versión 3.9.2 de ADempiere en la localización Venezuela. A continuación se explica el estándar que se debe tener por banco para generar un extracto bancario desde ADempiere y poder cargar el mismo al banco requerido por el usuario.
+`Almientos Masía`_ pretende ofrecer una explicación eficiente a nuestros usuarios del estándar de extracto bancario a través de una guía fácil y sencilla para así obtener resultados exitosos en la versión 3.9.2 de ADempiere en la localización Venezuela. A continuación se explica el estándar que se debe tener por banco para generar un extracto bancario desde ADempiere y poder cargar el mismo al banco requerido por el usuario.
 
 .. toctree::
     :maxdepth: 2

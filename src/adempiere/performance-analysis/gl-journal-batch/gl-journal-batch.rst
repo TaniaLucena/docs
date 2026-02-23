@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/accounting-note-menu.png
 .. |Ventana Diario Contable| image:: resources/accounting-journal-window.png
 .. |Icono Registro Nuevo de la Pestaña Lote Contable de la Ventana Diario Contable| image:: resources/new-record-icon-in-the-accounting-lot-tab-of-the-accounting-journal-window.png
@@ -472,7 +472,7 @@ Seleccione la pestaña "**Línea**" y proceda al llenado de los campos correspon
 
             Imagen 41. Combinación Contable del Campo Combinación de la Pestaña Línea de la Ventana Diario Contable
 
-        Si desea crear o modificar la combinación establecida, realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+        Si desea crear o modificar la combinación establecida, realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
             |Campo Combinación de la Pestaña Línea de la Ventana Diario Contable|
 

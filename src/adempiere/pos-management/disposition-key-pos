@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/pdv-llave-de-disposición:
 
@@ -9,7 +9,7 @@ El catálogo de productos en el punto de ventas, puede ser configurado dependien
 
 Luego de crear y configurar las categorías o grupos de productos, se procede a crear el catálogo de productos y agregar al mismo las diferentes categorías o grupos creados anteriormente, estableciendo su respectivo orden.
 
-El catálogo de productos se muestra en la ventana "**Punto de Venta**", al seleccionar el mismo en el campo "**PDV Disposición de la llave**", de la ventana "**Terminal PDV**", como lo indica el material :ref:`documento/configuración-de-terminal-punto-de-venta`, elaborado por `ERPyA`_.
+El catálogo de productos se muestra en la ventana "**Punto de Venta**", al seleccionar el mismo en el campo "**PDV Disposición de la llave**", de la ventana "**Terminal PDV**", como lo indica el material :ref:`documento/configuración-de-terminal-punto-de-venta`, elaborado por `Almientos Masía`_.
 
 El procedimiento para realizar la configuración del catálogo de productos del punto de venta, se explica a continuación de manera detalla.
 

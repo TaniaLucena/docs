@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina Mensual| image:: resources/mensual.png
 .. |Recibo de Pago Nómina Mensual| image:: resources/recibomensual.png
 .. |Detalle de Pago Nómina Mensual| image:: resources/detallemensual.png
@@ -13,7 +13,7 @@
  **Nómina Mensual**
 ===================
 
-    Para procesar una “**Nómina Mensual**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo mensual, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina Mensual**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo mensual, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 

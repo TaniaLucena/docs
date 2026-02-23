@@ -1,5 +1,5 @@
-.. _ERPyA: http://erpya.com
-.. _Atributo del Empleado: https://docs.erpya.com/es/latest/adempiere/master/business-partner/employee/employee.html#pestana-atributo-de-empleado
+.. _Alimentos Masía: https://alimentosmasia.com/
+.. _Atributo del Empleado: https://docs.masia.com/es/latest/adempiere/master/business-partner/employee/employee.html#pestana-atributo-de-empleado
 
 .. |Nómina Pagos Especiales| image:: resources/pagosespeciales.png
 .. |Detalle de Pago Nómina Pagos Especiales| image:: resources/detallepagosespeciales.png
@@ -13,7 +13,7 @@
  **Nómina Pagos Especiales**
 ===============================
 
-    Para procesar una “**Nómina de Pagos Especiales**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de pagos especiales. El comportamiento de esta nómina puede representarse a través 2 formas diferentes, una de ellas parte del registro de una incidencia pagos especiales, la cual le  permitirá asignarle un monto diferente a cada empleado por cada nómina de pagos especiales que realice, también tiene disponible el  factor bono pagos especiales a través del mismo puede determinar un monto fijo de un pago especial que le otorgará al empleado por un período determinado de tiempo. Cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+    Para procesar una “**Nómina de Pagos Especiales**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de pagos especiales. El comportamiento de esta nómina puede representarse a través 2 formas diferentes, una de ellas parte del registro de una incidencia pagos especiales, la cual le  permitirá asignarle un monto diferente a cada empleado por cada nómina de pagos especiales que realice, también tiene disponible el  factor bono pagos especiales a través del mismo puede determinar un monto fijo de un pago especial que le otorgará al empleado por un período determinado de tiempo. Cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 
 Estatus del Documento:

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Selección de la acción Preparar y opción OK| image:: resources/accion-preparar.png
 .. |Campo Fecha Contable| image:: resources/f-cont-proceso-nomina.png
 .. |Selección de Icono Guardar| image:: resources/icono-guardar.png
@@ -44,7 +44,7 @@ Introduzca en el campo "**Nombre**", el nombre de la nómina que se requiere pro
 
     Imagen 4. Campo Nombre
 
-3. Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+3. Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_.
 
     |Campo Tipo de Documento Destino|
 

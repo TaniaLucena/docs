@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de anular transacción de venta pos| image:: resources/image-void-sales-transaction.png
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Selección de Orden de Venta a Anular| image:: resources/selection-of-sales-order-to-be-canceled.png
@@ -36,9 +36,9 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
     Imagen 2. Menú de ADempiere
 
-La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `ERPyA`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la anulación de la transacción de venta por el punto de venta.
+La interfaz de la ventana "**Punto de Venta**", se encuentra definida de forma específica en el documento :ref:`documento/interfaz-del-punto-de-venta`, elaborado por `Almientos Masía`_. Realice cada uno de los procesos explicados a continuación para obtener un resultado exitoso en la anulación de la transacción de venta por el punto de venta.
 
-Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `ERPyA`_.
+Realice la búsqueda de registros de órdenes de venta generadas desde el punto de venta, seleccionando el icono "**Registros Históricos**" de la barra de herramientas de la ventana "**Punto de Venta**", dicho proceso se encuentra explicado en el documento :ref:`documento/paso-barra-de-herramientas`, elaborado por `Almientos Masía`_.
 
     Seleccione en la ventana "**Orden de Venta**", generada del icono "**Registros Históricos**", la orden de venta que requiere anular.
 
@@ -52,7 +52,7 @@ Realice la búsqueda de registros de órdenes de venta generadas desde el punto 
 
         Imagen 4. Selección de la Opción OK de la Orden de Venta a Anular
 
-Luego de ubicar la orden de venta que requiere anular, seleccione la opción "**Anular Transacción de Venta**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
+Luego de ubicar la orden de venta que requiere anular, seleccione la opción "**Anular Transacción de Venta**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `Almientos Masía`_.
 
     |Opción Anular Transacción de Venta del Icono Proceso de la Barra de Herramientas del Punto de Venta|
 

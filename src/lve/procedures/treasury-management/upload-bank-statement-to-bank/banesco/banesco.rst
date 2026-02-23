@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-banesco:
 
 **Banco Banesco**
 =================
 
-Para la exportación de los archivos desde ADempiere al banco banesco, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco banesco, `Almientos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con los documentos :download:`Generación del Archivo de Pago (PAYMUL) Asociado Comercial <Generacion_de_Archivos_de_Pagos.pdf>` y :download:`Archivos de Pagos <ARCHIVOS_DE_PAGOS.pdf>`, que explican los formatos para la construcción el archivo a cargar.
 

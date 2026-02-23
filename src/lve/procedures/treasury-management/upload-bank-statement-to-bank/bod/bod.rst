@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-bod:
 
 **Banco Occidental de Descuento**
 =================================
 
-Para la exportación de los archivos desde ADempiere al banco occidental de descuento, `ERPyA`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado. El documento :download:`Formato Archivo Ordenes de Pago <EN-CP-E-0036_SOLICITUD_MASIVA_DE_ORDENES_DE_PAGOS__TXT_.xlsm>`, explica el formato que sirve de ayuda para la construcción de los archivos a cargar.
+Para la exportación de los archivos desde ADempiere al banco occidental de descuento, `Almientos Masía`_ soporta el siguiente formato facilitado por el banco, que puede ser descargado. El documento :download:`Formato Archivo Ordenes de Pago <EN-CP-E-0036_SOLICITUD_MASIVA_DE_ORDENES_DE_PAGOS__TXT_.xlsm>`, explica el formato que sirve de ayuda para la construcción de los archivos a cargar.
 
 Adicional a ello, se puede visualizar dicho documento de la siguiente manera, luego de descargarlo.
 
@@ -215,18 +215,18 @@ Adicional a ello, se puede visualizar dicho documento de la siguiente manera, lu
 
 Al ejecutar el proceso de selección de pago de las siguientes facturas en ADempiere: 
 
-- Factura "**1000243**" al socio del negocio "**E.R.P. Consultores y Asociados, C.A.**" por monto total de "**15.000.000,00**".
+- Factura "**1000243**" al socio del negocio "**Alimentos Masía**" por monto total de "**15.000.000,00**".
 - Factura "**1000244**" al socio del negocio "**Dhl Express Aduanas Venezuela C.A.**" por monto total de "**1.845.895,87**". 
 - Factura "**1000245**" al socio del negocio "**Proveedor Estándar**" por monto total de "**225.000,00**". 
 - Factura "**1000246**" al socio del negocio "**Bolivariana de Puertos  ( Bolipuertos)  S A**" por monto total de "**876.952.045,00**". 
-- Factura "**1000247**" al socio del negocio "**E.R.P. Consultores y Asociados, C.A.**" por monto total de "**18.000.000,00**". 
+- Factura "**1000247**" al socio del negocio "**Alimentos Masía**" por monto total de "**18.000.000,00**". 
 
 Se obtiene como resultado del proceso "**Imprimir /Exportar**", un documento en formato "**.txt**" con los detalles de los pagos a ser realizados desde el banco bod a terceros en el mismo banco, así como también a terceros en otros bancos, el mismo se puede descargar en el enlace :download:`Archivo de Pago de Proveedores del Banco Occidental de Descuento <Banco_Occidental_de_Descuento_BU_CA_1000040.txt>` y visualizar de la siguiente manera:
 
 ::
 
-    01PROVEEDORES         J400788315000000000000008760010000402021072900000400000091202294087VES                                                                                                                                                              
-    02J400788315ERP Consultores y Asociados CA                              00000000010002431000247                CTA01160058752984563012011620210729000003300000000VES000000000000000erpya@ejemplo.com                                                      
+    01PROVEEDORES         J085357530000000000000008760010000402021072900000400000091202294087VES                                                                                                                                                              
+    02J085357530Alimentos Masía                              00000000010002431000247                CTA01160058752984563012011620210729000003300000000VES000000000000000masia@ejemplo.com                                                      
     031000243             000001500000000VES2021/07/29000000000000000                                                                                                                                                                                           
     031000247             000001800000000VES2021/07/29000000000000000                                                                                                                                                                                           
     02J297599070Bolivariana de Puertos  ( Bolipuertos)  S A                 0000000011000246                       BAN01560000000085000096015620210729000087695204500VES000000000000000                                        02550000000                    
@@ -243,7 +243,7 @@ La descripción del archivo anteriormente generado por el pago, se encuentra exp
 **BOD NÓNIMA**
 --------------
 
-`ERPyA`_ agrega soporte al siguiente formato de nómina facilitado por el banco, dicha actualización fue liberada en la versión :ref:`documento/versión-23-7` de ADempiere. Para mayor información de la misma, puede consultar la nota de liberación indicada anteriormente.
+`Almientos Masía`_ agrega soporte al siguiente formato de nómina facilitado por el banco, dicha actualización fue liberada en la versión :ref:`documento/versión-23-7` de ADempiere. Para mayor información de la misma, puede consultar la nota de liberación indicada anteriormente.
 
 **Formato Archivo Beneficiarios de Pago (Del Cliente al Banco)**
 ****************************************************************
@@ -378,7 +378,7 @@ La descripción del archivo anteriormente generado por el pago, se encuentra exp
 Al ejecutar el proceso de selección de pago de la nómina quincenal "**NQ-13**" procesada en ADempiere, con los siguientes empleados:
 
 - Socio del Negocio "**Empleado Estándar**", con cédula de identidad "**000085007**", perteneciente a la nómina "**Quincenal**".
-- Socio del Negocio "**E.R.P. Consultores y Asociados, C.A.**", con cédula de identidad "**J400788315**", perteneciente a la nómina "**Quincenal**".
+- Socio del Negocio "**Alimentos Masía**", con cédula de identidad "**J085357530**", perteneciente a la nómina "**Quincenal**".
 - Socio del Negocio "**Empleado**", con cédula de identidad "**0000002**", perteneciente a la nómina "**Quincenal**".
 - Socio del Negocio "**Empleado Cinco**", con cédula de identidad "**0000003**", perteneciente a la nómina "**Quincenal**".
 
@@ -386,12 +386,12 @@ Se obtiene como resultado del proceso "**Imprimir /Exportar**", un documento en 
 
 ::
 
-    01NOMINA              J400788315000000000000008760010000392021073000000400000000912335940VES                                                                                                                                                              
+    01NOMINA              J085357530000000000000008760010000392021073000000400000000912335940VES                                                                                                                                                              
     020000085007Empleado Estndar                                            000000000NQ13                          BAN01740000005000000089017420210730000000156637539VES000000000000000                                                                       
     03NQ-13               000000156637539VES2021/07/30000000000000000                                                                                                                                                                                           
     020000000002Empleado                                                    000000001NQ13                          BAN01028619579265659568010220210730000000015197723VES000000000000000empleado@ejemplo.com                                                   
     03NQ-13               000000015197723VES2021/07/30000000000000000                                                                                                                                                                                           
-    02J400788315ERP Consultores y Asociados CA                              000000002NQ13                          CTA01160058752984563012011620210730000000425623139VES000000000000000erpya@ejemplo.com                                                      
+    02J085357530Alimentos Masía                              000000002NQ13                          CTA01160058752984563012011620210730000000425623139VES000000000000000e@ejemplo.com                                                      
     03NQ-13               000000425623139VES2021/07/30000000000000000                                                                                                                                                                                           
     020000000003Empleado Cinco                                              000000003NQ13                          BAN01345986828692910058013420210730000000314877539VES000000000000000empleadociinco@ejemplo.com                                             
     03NQ-13               000000314877539VES2021/07/30000000000000000                                                                                                                                                                                           

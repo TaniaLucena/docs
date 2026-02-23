@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina  Utilidades| image:: resources/utilidades.png
 .. |Recibo de Pago Nómina  Utilidades| image:: resources/reciboutilidades.png
 .. |Detalle de Pago Nómina  Utilidades| image:: resources/detalleutilidades.png
@@ -12,7 +12,7 @@
 **Nómina Utilidades**
 =====================
 
-Para procesar una “**Nómina de Utilidades**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina de Utilidades**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 
 Estatus del Documento:

@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Opción Contabilizado de la Ventana Proceso Nómina| image:: resources/posted-option-from-the-payroll-process-window.png
 .. |Asiento Contable de la Nómina| image:: resources/payroll-accounting-entry.png
 .. |opción contabilizado de la ventana caja nómina| image:: resources/posted-option-from-the-payroll-window.png
@@ -18,7 +18,7 @@
 **Proceso Nómina**
 ------------------
 
-Realice el procedimiento regular para procesar las nóminas en ADempiere, el mismo se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para procesar las nóminas en ADempiere, el mismo se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina`, elaborado por `Almientos Masía`_.
 
 Luego de que se encuentren procesadas las nóminas, seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Proceso Nómina**".
 
@@ -35,7 +35,7 @@ Luego de que se encuentren procesadas las nóminas, seleccione la opción "**Con
 **Pago de Nómina**
 ------------------
 
-Realice el procedimiento regular para reflejar en ADempiere el pago de la nómina por empleado, el mismo se encuentra explicado en el documento :ref:`documento/pago-de-nómina`, elaborado por `ERPyA`_. 
+Realice el procedimiento regular para reflejar en ADempiere el pago de la nómina por empleado, el mismo se encuentra explicado en el documento :ref:`documento/pago-de-nómina`, elaborado por `Almientos Masía`_. 
 
     .. note::
     

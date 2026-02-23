@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/menu.png
 .. |Icono de Registro Nuevo| image:: resources/registronuevo.png
 .. |Campo Compañía| image:: resources/compania.png
@@ -92,7 +92,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
 		Imagen 6. Campo Descripción
 
-	Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `ERPyA`_
+	Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `Almientos Masía`_
 
 		|Campo Tipo de Documento Destino|
 

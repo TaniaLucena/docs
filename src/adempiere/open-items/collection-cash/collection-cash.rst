@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere 1| image:: resources/menu-caja.png
 .. |Icono Registro Nuevo 1| image:: resources/reg-nuevo-caja.png
@@ -54,7 +54,7 @@ Luego podrá visualizar la ventana "**Caja**", donde debe seleccionar el icono "
 
         Imagen 3. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizada la opción "**Cobro Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. Para ejemplificar el registro es utilizada la opción "**Cobro Nacional**".
 
         |Campo Tipo de Documento 1|
 
@@ -108,7 +108,7 @@ Seleccione la acción "**Completar**" y la opción "**Ok**" para completar el do
 
     Imagen 10. Acción Completar
 
-Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Cobranza**".
+Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Almientos Masía`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Cobranza**".
 
    |Cierre de Caja Cobranza|
 
@@ -226,7 +226,7 @@ Al consultar del documento de cobro generado en la ventana "**Pago/Cobro**", con
 
     Imagen 29. Documento de Cobro Generado en Pago/Cobro 
 
-Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Administrativo**".
+Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Almientos Masía`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Administrativo**".
 
    |Cierre de Caja Administrativo|
 

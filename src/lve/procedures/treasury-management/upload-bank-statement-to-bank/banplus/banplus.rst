@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-banplus:
 
 **Banco Banplus**
 =================
 
-Para la exportación de los archivos desde ADempiere al banco banplus, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco banplus, `Almientos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con los documentos :download:`Banplus On line <Banplus_On_line.pdf>`, :download:`Archivos de Pagos <PANTALLAS_SERVICIO_NOMINA_PLUS.ppt>` y :download:`Archivos de Pagos <PANTALLAS_SERVICIO_NOMINA_PLUS.ppt.pptx>` que explican los formatos para la construcción el archivo a cargar.
 
@@ -79,7 +79,7 @@ Se obtiene como resultado del proceso "**Imprimir /Exportar**", un documento en 
 
 ::
 
-    J400788315;0174000000000000000;4;1850000000;20210513;1000034
+    J085357530;0174000000000000000;4;1850000000;20210513;1000034
     04;200003030;Servicio Nacional Integrado de Administr;01340000000000000320;600000000;0;;SI
     04;297599070;Bolivariana de Puertos  ( Bolipuertos)  ;01740000000085000096;500000000;1;;SI
     04;002443731;Dhl Express Aduanas Venezuela CA;01050000002000000015;350000000;2;;SI

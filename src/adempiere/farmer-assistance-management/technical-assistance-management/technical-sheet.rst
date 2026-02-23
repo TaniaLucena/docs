@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |menú de hoja técnica| image:: resources/technical-sheet-menu.png
 .. |ventana hoja técnica| image:: resources/window-technical-sheet.png
 .. |icono registro nuevo de la ventana hoja técnica| image:: resources/new-record-icon-in-the-technical-sheet-window.png
@@ -69,7 +69,7 @@ Seleccione en el campo "**Organización**", la organización para la cual se enc
 
     Imagen 4. Campo Organización
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_.
 
     |campo tipo de documento de la ventana hoja técnica|
 

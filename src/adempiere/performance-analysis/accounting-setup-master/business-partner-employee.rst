@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/business-partner-menu.png
 .. |Ventana Socio del Negocio| image:: resources/business-partner-window.png
 .. |Pestaña Empleado de la Ventana Socio del Negocio| image:: resources/employee-tab-of-the-business-partner-window.png
@@ -43,7 +43,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**Gastos de Empl
 
     Imagen 5. Identificador del Campo Gastos de Empleados
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Gastos de Empleados|
 
@@ -55,7 +55,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**Pago Anticipad
 
     Imagen 7. Identificador del Campo Pago Anticipado a Empleados
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Pago Anticipado a Empleados|
 

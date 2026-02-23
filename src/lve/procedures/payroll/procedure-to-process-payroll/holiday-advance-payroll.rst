@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Nómina Anticipo de Vacaciones| image:: resources/anticipodevacaciones22.png
 .. |Novedades Anticipo de Vacaciones| image:: resources/novedadanticipovacaciones.png
 .. |Recibo de Pago Nómina Anticipo de Vacaciones| image:: resources/reciboanticipovacaciones33.png
@@ -13,7 +13,7 @@
 **Nómina Anticipo de Vacaciones**
 =================================
 
-Para procesar una “**Nómina de Anticipo de Vacaciones**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de anticipo de vacaciones, en el comportamiento de está nómina usted evidenciará la asignación de días de disfrute de vacaciones, mientras que la asignación de bono vacacional estará representada solamente en la nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina de Anticipo de Vacaciones**” debemos realizar el proceso de nómina estándar mencionado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Almientos Masía`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de anticipo de vacaciones, en el comportamiento de está nómina usted evidenciará la asignación de días de disfrute de vacaciones, mientras que la asignación de bono vacacional estará representada solamente en la nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 
 Estatus del Documento:

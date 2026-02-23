@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de Factura por Cobrar| image:: resources/invoice-receivable-menu.png
 .. |Factura de Cuentas por Cobrar| image:: resources/accounts-receivable-invoice.png
 .. |Icono Visualiza Detalle| image:: resources/icon-displays-detail.png
@@ -35,7 +35,7 @@
 **Ejecución de la Estimación de Retenciones**
 ---------------------------------------------
 
-Realice el procedimiento regular para generar una factura de cuentas por cobrar, explicado en el documento :ref:`documento/documento-por-cobrar`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una factura de cuentas por cobrar, explicado en el documento :ref:`documento/documento-por-cobrar`, elaborado por `Almientos Masía`_.
 
 Luego seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Documento por Cobrar**".
 

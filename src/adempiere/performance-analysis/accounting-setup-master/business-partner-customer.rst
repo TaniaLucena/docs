@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/business-partner-menu.png
 .. |Ventana Socio del Negocio| image:: resources/business-partner-window.png
 .. |Pestaña Cliente de la Ventana Socio del Negocio| image:: resources/business-partner-window-client-tab.png
@@ -44,7 +44,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**CxC de Cliente
 
     Imagen 5. Identificador del Campo CxC de Clientes
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo CxC de Clientes|
 
@@ -56,7 +56,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**CxC Servicios*
 
     Imagen 7. Identificador del Campo CxC Servicios
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo CxC Servicios|
 
@@ -68,7 +68,7 @@ Seleccione el identificador ubicado del lado derecho del campo "**CxC Pago Antic
 
     Imagen 9. Campo Pago Anticipado de Clientes
 
-    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+    Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
         |Combinación Contable del Campo Pago Anticipado de Clientes|
 

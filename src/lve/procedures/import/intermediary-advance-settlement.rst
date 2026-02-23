@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere 1| image:: resources/menutransf.png
 .. |Ejemplo de Transferencia Bancaria| image:: resources/transferencia.png
 .. |Menú de ADempiere 2| image:: resources/menufactura.png
@@ -50,7 +50,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras*
 
     Imagen 3. Menú de ADempiere
 
-Realice el procedimiento habitual para crear los documentos por pagar necesarios, explicado en el material :ref:`documento/documento-por-pagar` elaborado por `ERPyA`_. Para ejemplificar el registro se realizan tres facturas como relación entregada por el intermediario gestor de la importacióncon.
+Realice el procedimiento habitual para crear los documentos por pagar necesarios, explicado en el material :ref:`documento/documento-por-pagar` elaborado por `Almientos Masía`_. Para ejemplificar el registro se realizan tres facturas como relación entregada por el intermediario gestor de la importacióncon.
 
 .. note:: 
 
@@ -146,7 +146,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos P
 
         Imagen 14. Campo Cuenta Bancaria
         
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizada la opción "**Pago Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. Para ejemplificar el registro es utilizada la opción "**Pago Nacional**".
 
         |Campo Tipo de Documento 1|
 

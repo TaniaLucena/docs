@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/financial-report-menu.png
 .. |Ventana Informe Financiero| image:: resources/financial-report-window.png
 .. |Campo Período| image:: resources/financial-reporting-period-field.png
@@ -145,7 +145,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
                 - **Árbol de Cuentas**: Las cuentas contables a evaluar para el ejemplo son las cuentas de ingreso, cuentas por cobrar, compromisos, costos y gastos, se definirá entonces un árbol con estas cuentas.
 
-            De esta forma se definirán todos los árboles necesarios para el ejemplo, para profundizar a cerca de la creación de un **Informe de Jerarquías** vaya al instructivo que `ERPyA`_ ha diseñado para usted.
+            De esta forma se definirán todos los árboles necesarios para el ejemplo, para profundizar a cerca de la creación de un **Informe de Jerarquías** vaya al instructivo que `Almientos Masía`_ ha diseñado para usted.
 
             Al generar el informe financiero con esta definición usted podrá observar un reporte basado en la estructura del informe de jerarquías con el saldo de las cuentas y las actividades fijadas en el mismo.
 

@@ -19,7 +19,7 @@
 .. |pestaña principal definición y opción completar| image:: resources/main-tab-definition-and-option-complete.png
 .. |acción completar y opción ok| image:: resources/action-complete-and-option-ok.png
 
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/definición-de-costo-de-cultivo:
 
@@ -56,7 +56,7 @@ Introduzca en el campo "**No. del Documento**", el número de documento correspo
 
     Imagen 5. Campo No. del Documento
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_.
 
     |campo tipo de documento de la ventana definición de costo de cultivo|
 

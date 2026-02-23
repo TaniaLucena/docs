@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/tax-rate-menu.png
 .. |Ventana Tasa de Impuesto| image:: resources/tax-rate-window.png
 .. |Pestaña Contabilidad de la Ventana Tasa de Impuesto| image:: resources/tax-rate-window-accounting-tab.png
@@ -42,7 +42,7 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
             Imagen 4. Identificador del Campo Impuesto al Vender de la Pestaña Contabilidad de la Ventana Tasa de Impuesto
 
-            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
                 |Combinación Contable del Campo Impuesto al Vender de la Pestaña Contabilidad de la Ventana Tasa de Impuesto|
 
@@ -54,7 +54,7 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
             Imagen 6. Identificador del Campo Impuesto Pagado de la Pestaña Contabilidad de la Ventana Tasa de Impuesto
 
-            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
                 |Combinación Contable del Campo Impuesto Pagado de la Pestaña Contabilidad de la Ventana Tasa de Impuesto|
 
@@ -66,7 +66,7 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
             Imagen 8. Identificador del Campo Impuesto al Comprar de la Pestaña Contabilidad de la Ventana Tasa de Impuesto
 
-            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
                 |Combinación Contable del Campo Impuesto al Comprar de la Pestaña Contabilidad de la Ventana Tasa de Impuesto|
 
@@ -78,7 +78,7 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
             Imagen 10. Identificador del Campo Impuesto Acreditado de la Pestaña Contabilidad de la Ventana Tasa de Impuesto
 
-            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
                 |Combinación Contable del Campo Impuesto Acreditado de la Pestaña Contabilidad de la Ventana Tasa de Impuesto|
 
@@ -90,7 +90,7 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
             Imagen 12. Identificador del Campo Gastos Impuesto de la Pestaña Contabilidad de la Ventana Tasa de Impuesto
 
-            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `ERPyA`_.
+            Realice el procedimiento regular para configurar una combinación contable, el mismo se encuentra explicado en el documento :ref:`documento/combinación-contable` elaborado por `Almientos Masía`_.
 
                 |Combinación Contable del Campo Gastos Impuesto de la Pestaña Contabilidad de la Ventana Tasa de Impuesto|
 

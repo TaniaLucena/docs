@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere| image:: resources/payment-selection-menu.png
 .. |Icono Registro Nuevo del Documento Registro desde Selección de Pago| image:: resources/register-icon-new-payment-selection.png
@@ -65,7 +65,7 @@ Seleccione en el campo "**Organización**", la organización para la cual está 
 
     Imagen 3. Campo Organización del Documento Registro desde Selección de Pago
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizado el tipo de documento "**Selección de Pagos de Cuentas por Pagar**".
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. Para ejemplificar el registro es utilizado el tipo de documento "**Selección de Pagos de Cuentas por Pagar**".
 
     |Campo Tipo de Documento del Documento Registro desde Selección de Pago|
 

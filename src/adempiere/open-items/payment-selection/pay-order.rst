@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. |Menú de ADempiere para el Documento Orden de Pago desde Factura| image:: resources/payment-selection-menu.png
 .. |Ventana Selección de Pago para el Documento Orden de Pago desde Factura| image:: resources/payment-selection-window.png
@@ -102,7 +102,7 @@ Introduzca en el campo "**No. del Documento**", el número de documento correspo
 
     Imagen 5. Campo Número de Documento del Documento Orden de Pago desde Factura
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizado el tipo de documento "**Orden de Pago**".
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Almientos Masía`_. Para ejemplificar el registro es utilizado el tipo de documento "**Orden de Pago**".
 
     |Campo Tipo de Documento del Documento Orden de Pago desde Factura|
 

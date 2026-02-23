@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Menú de ADempiere| image:: resources/point-of-sale-menu.png
 .. |Ventana Selecciona Terminal PDV| image:: resources/window-select-terminal-pdv.png
 .. |Seleccionar Terminal PDV| image:: resources/select-terminal-pdv.png
@@ -148,7 +148,7 @@ Contiene los iconos principales de las ventanas de ADempiere para realizar una g
 
         Imagen 9. Icono Imprimir de la Ventana Informe
 
-"**Icono Tipo de Documento**": Permite cambiar el tipo de documento cargado por defecto, el mismo define el comportamiento del documento que se esta generando y se encuentra explicado en el material **Tipo de Documento** elaborado por `ERPyA`_. Adicional a ello, se puede ejecutar esta acción seleccionando la tecla "**F10**".
+"**Icono Tipo de Documento**": Permite cambiar el tipo de documento cargado por defecto, el mismo define el comportamiento del documento que se esta generando y se encuentra explicado en el material **Tipo de Documento** elaborado por `Almientos Masía`_. Adicional a ello, se puede ejecutar esta acción seleccionando la tecla "**F10**".
 
     |Icono Tipo de Documento de la Barra de Herramientas del Punto de Venta|
 

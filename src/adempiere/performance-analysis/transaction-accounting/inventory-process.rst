@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |Opción Contabilizado de la Ventana Inventario Físico| image:: resources/posted-option-from-the-physical-inventory-window.png
 .. |Asiento Contable de la Ventana Inventario Físico| image:: resources/physical-inventory-window-accounting-entry.png
 .. |Opción Contabilizado de la Ventana Inventario Uso Interno| image:: resources/option-posted-from-the-inventory-window-internal-use.png
@@ -16,7 +16,7 @@
 **Inventario Físico**
 ---------------------
 
-Realice el procedimiento regular para generar un inventario físico en ADempiere, el mismo es explicado en el documento :ref:`documento/inventario-físico`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un inventario físico en ADempiere, el mismo es explicado en el documento :ref:`documento/inventario-físico`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de inventario físico se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Inventario Físico**".
 
@@ -33,7 +33,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Inventario Uso Interno**
 --------------------------
 
-Realice el procedimiento regular para generar un inventario de uso interno en ADempiere, el mismo es explicado en el documento :ref:`documento/inventario-uso-interno`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un inventario de uso interno en ADempiere, el mismo es explicado en el documento :ref:`documento/inventario-uso-interno`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de inventario de uso interno se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Inventario Uso Interno**".
 
@@ -50,7 +50,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Movimiento de Inventario**
 ----------------------------
 
-Realice el procedimiento regular para generar un movimiento de inventario en ADempiere, el mismo es explicado en el documento :ref:`documento/movimiento-inventario`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar un movimiento de inventario en ADempiere, el mismo es explicado en el documento :ref:`documento/movimiento-inventario`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de movimiento de inventario se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Movimiento de Inventario**".
 
@@ -67,7 +67,7 @@ Podrá visualizar el asiento contable generado por la transacción anteriormente
 **Producción**
 --------------
 
-Realice el procedimiento regular para generar una producción en ADempiere, el mismo es explicado en el documento :ref:`documento/producción`, elaborado por `ERPyA`_.
+Realice el procedimiento regular para generar una producción en ADempiere, el mismo es explicado en el documento :ref:`documento/producción`, elaborado por `Almientos Masía`_.
 
 Luego de que el documento de producción se encuentre en estado "**Completo**", seleccione la opción "**Contabilizado**", ubicada en la parte inferior de la ventana "**Producción**".
 

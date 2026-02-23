@@ -1,11 +1,11 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 
 .. _documento/banco-mercantil:
 
 **Banco Mercantil**
 ===================
 
-Para la exportación de los archivos desde ADempiere al banco mercantil, `ERPyA`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
+Para la exportación de los archivos desde ADempiere al banco mercantil, `Almientos Masía`_ soporta los siguientes formatos facilitados por el banco, que pueden ser descargados para su análisis y adaptación.
 
 El banco cuenta con los documentos :download:`Contrato Pago a Proveedores <CONTRATO_PAGO_A_PROVEEDORES.doc>`, :download:`Formato Estructura Nómina <FORMATO_ESTRUCTURA_NOMINA_.doc>`, :download:`Formato Estructura Proveedores <FORMATO_ESTRUCTURA_PROVEEDORES.xls>`, :download:`Formato Mercantil <Formato_Mercantil.doc>`, :download:`Identificación de Clientes y Proveedores <Identificacion_de_Clientes_y_o_Prov.doc>`, :download:`Contrato Servicio Pago Proveedores Sector Privado <MD.007_Servicio_Pago_Proveedores_Sector_Privado_Co.doc>`, :download:`FORMATO PROVEEDORES FACIL <FORMATO_DE_PAGO_A_PROVEEDORES-FACIL.pdf>`, :download:`FORMATO NÓMINA FACIL <Formato_de_Nomina_Facil.pdf>`, que explican los formatos para la construcción de los respectivos archivos a cargar.
 

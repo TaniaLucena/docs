@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. _src/adempiere/performance-analysis/accounting-reports:
 
 ======================
@@ -23,7 +23,7 @@ Un gran desafío para los gestores de la empresa es encontrar objetivos comunes 
 
 Es importante acotar, que en ocasiones es necesario preparar otros reportes financieros basados en las cifras de cuentas clasificadas para presentar a entidades financieras,  prospectos de colocación, inversionistas, reportes anuales y reportes trimestrales, para ello ADempiere le permite definir **informes financieros** personalizados, en los que el cliente puede basarse en factores tales como ingresos, resultado del ejercicio, dividendos pagados, entre otros.
 
-Sin embargo, aun cuando existen factores relevantes al medir el flujo de efectivo o la rentabilidad, es aún más importante conocer la situación real del negocio,  generando información adicional de forma detallada, con los reportes que ADempiere ofrece para nuestros clientes:
+Sin embargo, aun cuando existen factores relevantes al medir el flujo de efectivo o la rentabilidad, es aún más importante conocer la situación real del negocio,  generando información adicional de forma detallada, con los reportes que ADempiere ofrece para nuestros usuarios:
 
     Libros Diarios.
 
@@ -35,7 +35,7 @@ Sin embargo, aun cuando existen factores relevantes al medir el flujo de efectiv
 
     Detalles de Costos.
 
-    A continuación, `ERPyA`_  desea ofrecer a sus clientes un material en el cual explicaremos de forma detallada las consideraciones, bondades y herramientas que **ADempiere** brinda para interpretar información contable que ayudará a complementar el análisis, permitiendo una visión clara a la hora de tomar decisiones en su empresa.
+    A continuación, `Almientos Masía`_  desea ofrecer a sus usuarios un material en el cual explicaremos de forma detallada las consideraciones, bondades y herramientas que **ADempiere** brinda para interpretar información contable que ayudará a complementar el análisis, permitiendo una visión clara a la hora de tomar decisiones en su empresa.
 
 
 .. toctree::

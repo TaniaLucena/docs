@@ -1,4 +1,4 @@
-.. _ERPyA: http://erpya.com
+.. _Alimentos Masía: https://alimentosmasia.com/
 .. |diagrama de traspaso a banco pos| image:: resources/transfer-to-bank.png
 .. |menu deposito a caja| image:: resources/deposit-to-cash-menu.png
 .. |ventana deposito a caja| image:: resources/deposit-to-cash-window.png
@@ -208,7 +208,7 @@ Al consultar el documento de ingreso generado en la ventana "**Pago/Cobro**", co
 **Transferencia Bancaria**
 --------------------------
 
-Realice el procedimiento regular para registrar una transferencia bancaria en ADempiere, el mismo se encuentra explicado de manera detallada en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `ERPyA`_. Considerando las siguientes restricciones:
+Realice el procedimiento regular para registrar una transferencia bancaria en ADempiere, el mismo se encuentra explicado de manera detallada en el documento :ref:`documento/procedimiento-para-realizar-una-transferencia-bancaria`, elaborado por `Almientos Masía`_. Considerando las siguientes restricciones:
 
     - "**Cuenta Bancaria Desde**": La caja desde la cual requiere realizar la transferencia. Para este ejemplo es utilizada la caja "**Caja Administración Ventas - --_Administración VES**".
     - "**Cuenta Bancaria a Transferir**": El banco al cual requiere realizar la transferencia. Para este ejemplo es utilizado el banco "**Banco Provincial  S.A. Banco Universal - 0108_01080000000000000019**".
@@ -250,7 +250,7 @@ Al consultar el documento de ingreso generado en la ventana "**Pago/Cobro**", co
 **Cierre de Caja**
 ------------------
 
-Realice el procedimiento regular para registrar un cierre de caja en ADempiere, el mismo se encuentra explicado de manera detallada en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_. 
+Realice el procedimiento regular para registrar un cierre de caja en ADempiere, el mismo se encuentra explicado de manera detallada en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Almientos Masía`_. 
 
     Se selecciona la caja administrativa para llevar esta a cero (0) nuevamente, transfiriendo el saldo de la caja al banco. Este proceso se debe realizar por cada caja administrativa a la que igreso dinero por las ventas del día.
 
